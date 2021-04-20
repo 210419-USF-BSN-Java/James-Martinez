@@ -1,0 +1,58 @@
+package com.revature.assignments.controlflow;
+
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class assignment1 {
+
+	public static void main(String[] args) {
+		//Scanner scan= new Scanner(System.in);
+		//System.out.println("Enter a number");
+		//int i = Integer.parseInt(scan.nextLine());
+		//String num = printNumberInWord(i);
+		//System.out.println(num);
+		
+//		String test = reverse("hello");
+//		System.out.println(test);
+		
+	
+		
+		String str = "test";
+		String s2[] = str.split("");
+		System.out.println(Arrays.toString(s2));
+		int strLen = s2.length;
+		for (int i = 1; i < strLen; i++) {
+			s2[i] = s2[strLen - i];
+		} 
+		
+		String s3 = Arrays.toString(s2);
+		System.out.println(s3);
+
+	}
+
+public static String printNumberInWord(int n) {
+	String numName = "hello";
+	String ar[] = {"ZERO","ONE","TWO","THREE","FOUR","FIVE","SIX","SEVEN","EIGHT","NINE"};
+	if(n >= 0 && n <=9) {
+		
+		numName = ar[n];
+	}else {
+		numName = "OTHER";
+	}
+	return numName;
+}
+
+
+public static String reverse(String string) {
+	String s2[] = string.split(" ");
+	int strLen = s2.length;
+	String s3 = Arrays.toString(s2);
+	for (int i = 0; i < strLen-1; i++) {
+		s2[i] = s2[strLen - i];
+	} 
+	
+	
+	return s3;
+}
+}
+
