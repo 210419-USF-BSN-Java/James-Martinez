@@ -1,0 +1,1270 @@
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-23-21 Friday EDT 11:11:48
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Marvel Bank App V1.0! 
+Marvel Bank: "A Super Bank for Super Heroes!"     Apr-23-21 Friday EDT 11:11:48
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-23-21 Friday EDT 11:11:48
+{INFO} - [com.revature.driver.Driver] -     1) Customer Login     Apr-23-21 Friday EDT 11:11:48
+{INFO} - [com.revature.driver.Driver] -     2) Employee Login     Apr-23-21 Friday EDT 11:11:48
+{INFO} - [com.revature.driver.Driver] -     3) Exit     Apr-23-21 Friday EDT 11:11:48
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-23-21 Friday EDT 11:11:48
+{INFO} - [com.revature.driver.Driver] -     
+===========================================     Apr-23-21 Friday EDT 11:12:00
+{INFO} - [com.revature.driver.Driver] -     Welcome to Customer Login     Apr-23-21 Friday EDT 11:12:00
+{INFO} - [com.revature.driver.Driver] -     Please choose one of the following options     Apr-23-21 Friday EDT 11:12:00
+{INFO} - [com.revature.driver.Driver] -     ===========================================     Apr-23-21 Friday EDT 11:12:00
+{INFO} - [com.revature.driver.Driver] -     1) Login     Apr-23-21 Friday EDT 11:12:00
+{INFO} - [com.revature.driver.Driver] -     2) Create an Account     Apr-23-21 Friday EDT 11:12:00
+{INFO} - [com.revature.driver.Driver] -     3) Exit     Apr-23-21 Friday EDT 11:12:00
+{INFO} - [com.revature.driver.Driver] -     ===========================================     Apr-23-21 Friday EDT 11:12:00
+{INFO} - [com.revature.driver.Driver] -     
+Please enter your user email address     Apr-23-21 Friday EDT 11:12:03
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-23-21 Friday EDT 12:12:13
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0! 
+ The Radioactive Reptiles Company does not harm existing Fuana And Flora. 
+All of our mutations are safetly lab grown using patented state of the art technology     Apr-23-21 Friday EDT 12:12:13
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-23-21 Friday EDT 12:12:13
+{INFO} - [com.revature.driver.Driver] -     1) Customer Login     Apr-23-21 Friday EDT 12:12:13
+{INFO} - [com.revature.driver.Driver] -     2) Employee Login     Apr-23-21 Friday EDT 12:12:13
+{INFO} - [com.revature.driver.Driver] -     3) Exit     Apr-23-21 Friday EDT 12:12:13
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-23-21 Friday EDT 12:12:13
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-23-21 Friday EDT 12:12:42
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0! 
+The Radioactive Reptiles Company does not harm existing Fuana And Flora. 
+All of our mutations are safetly lab grown using patented state of the art technology     Apr-23-21 Friday EDT 12:12:42
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-23-21 Friday EDT 12:12:42
+{INFO} - [com.revature.driver.Driver] -     1) Customer Login     Apr-23-21 Friday EDT 12:12:42
+{INFO} - [com.revature.driver.Driver] -     2) Employee Login     Apr-23-21 Friday EDT 12:12:42
+{INFO} - [com.revature.driver.Driver] -     3) Exit     Apr-23-21 Friday EDT 12:12:42
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-23-21 Friday EDT 12:12:42
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-23-21 Friday EDT 14:13:33
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0! 
+As a disclaimer: The Radioactive Reptiles Company does not harm/modify living Fuana And Flora. 
+All of our mutations are safetly lab grown using patented state of the art technology     Apr-23-21 Friday EDT 14:13:33
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-23-21 Friday EDT 14:13:33
+{INFO} - [com.revature.driver.Driver] -     1) Customer Login     Apr-23-21 Friday EDT 14:13:33
+{INFO} - [com.revature.driver.Driver] -     2) Employee Login     Apr-23-21 Friday EDT 14:13:33
+{INFO} - [com.revature.driver.Driver] -     3) Exit     Apr-23-21 Friday EDT 14:13:33
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-23-21 Friday EDT 14:13:33
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-23-21 Friday EDT 14:14:12
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0! 
+As a disclaimer: The Radioactive Reptiles Company does not harm or modify living Fuana And Flora. 
+All of our mutations are safetly lab grown using patented state of the art technology     Apr-23-21 Friday EDT 14:14:12
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-23-21 Friday EDT 14:14:12
+{INFO} - [com.revature.driver.Driver] -     1) Customer Login     Apr-23-21 Friday EDT 14:14:12
+{INFO} - [com.revature.driver.Driver] -     2) Employee Login     Apr-23-21 Friday EDT 14:14:12
+{INFO} - [com.revature.driver.Driver] -     3) Exit     Apr-23-21 Friday EDT 14:14:12
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-23-21 Friday EDT 14:14:12
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-23-21 Friday EDT 14:16:41
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-23-21 Friday EDT 14:16:41
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-23-21 Friday EDT 14:16:41
+{INFO} - [com.revature.driver.Driver] -     As a disclaimer: The Radioactive Reptiles Company does not harm or modify living Fuana And Flora. \nAll of our mutations are safetly lab grown using patented state of the art technology     Apr-23-21 Friday EDT 14:16:41
+{INFO} - [com.revature.driver.Driver] -     1) Customer Login     Apr-23-21 Friday EDT 14:16:41
+{INFO} - [com.revature.driver.Driver] -     2) Employee Login     Apr-23-21 Friday EDT 14:16:41
+{INFO} - [com.revature.driver.Driver] -     3) Exit     Apr-23-21 Friday EDT 14:16:41
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-23-21 Friday EDT 14:16:41
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-23-21 Friday EDT 14:18:52
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-23-21 Friday EDT 14:18:52
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-23-21 Friday EDT 14:18:52
+{INFO} - [com.revature.driver.Driver] -     =================================================================================================     Apr-23-21 Friday EDT 14:18:52
+{INFO} - [com.revature.driver.Driver] -     As a disclaimer: The Radioactive Reptiles Company does not harm or modify living Fuana And Flora.     Apr-23-21 Friday EDT 14:18:52
+{INFO} - [com.revature.driver.Driver] -     All of our mutations are safetly lab grown using patented state of the art technology     Apr-23-21 Friday EDT 14:18:52
+{INFO} - [com.revature.driver.Driver] -     =================================================================================================     Apr-23-21 Friday EDT 14:18:52
+{INFO} - [com.revature.driver.Driver] -     1) Customer Login     Apr-23-21 Friday EDT 14:18:52
+{INFO} - [com.revature.driver.Driver] -     2) Employee Login     Apr-23-21 Friday EDT 14:18:52
+{INFO} - [com.revature.driver.Driver] -     3) Exit     Apr-23-21 Friday EDT 14:18:52
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-23-21 Friday EDT 14:18:52
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-23-21 Friday EDT 14:19:36
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-23-21 Friday EDT 14:19:36
+{INFO} - [com.revature.driver.Driver] -     ===============================================================================================     Apr-23-21 Friday EDT 14:19:36
+{INFO} - [com.revature.driver.Driver] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fuana And Flora.     Apr-23-21 Friday EDT 14:19:36
+{INFO} - [com.revature.driver.Driver] -     All of our mutations are safetly lab grown using patented state of the art technology     Apr-23-21 Friday EDT 14:19:36
+{INFO} - [com.revature.driver.Driver] -     ===============================================================================================     Apr-23-21 Friday EDT 14:19:36
+{INFO} - [com.revature.driver.Driver] -     1) Customer Login     Apr-23-21 Friday EDT 14:19:36
+{INFO} - [com.revature.driver.Driver] -     2) Employee Login     Apr-23-21 Friday EDT 14:19:36
+{INFO} - [com.revature.driver.Driver] -     3) Exit     Apr-23-21 Friday EDT 14:19:36
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-23-21 Friday EDT 14:19:36
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-23-21 Friday EDT 14:24:41
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-23-21 Friday EDT 14:24:41
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-23-21 Friday EDT 14:24:41
+{INFO} - [com.revature.driver.Driver] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fuana And Flora.     Apr-23-21 Friday EDT 14:24:41
+{INFO} - [com.revature.driver.Driver] -     All of our mutations are safetly lab grown using patented state of the art technology     Apr-23-21 Friday EDT 14:24:41
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-23-21 Friday EDT 14:24:41
+{INFO} - [com.revature.driver.Driver] -     Proceed by selecting one of the options below     Apr-23-21 Friday EDT 14:24:41
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-23-21 Friday EDT 14:24:41
+{INFO} - [com.revature.driver.Driver] -     1) Customer Login     Apr-23-21 Friday EDT 14:24:41
+{INFO} - [com.revature.driver.Driver] -     2) Employee Login     Apr-23-21 Friday EDT 14:24:41
+{INFO} - [com.revature.driver.Driver] -     3) Exit     Apr-23-21 Friday EDT 14:24:41
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-23-21 Friday EDT 14:24:41
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 13:48:09
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-25-21 Sunday EDT 13:48:09
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 13:48:09
+{INFO} - [com.revature.driver.Driver] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     Apr-25-21 Sunday EDT 13:48:09
+{INFO} - [com.revature.driver.Driver] -     All of our mutations are safetly lab grown using patented state of the art technology     Apr-25-21 Sunday EDT 13:48:09
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 13:48:09
+{INFO} - [com.revature.driver.Driver] -     Proceed by selecting one of the options below:     Apr-25-21 Sunday EDT 13:48:09
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 13:48:09
+{INFO} - [com.revature.driver.Driver] -     1) Browse as Guest     Apr-25-21 Sunday EDT 13:48:09
+{INFO} - [com.revature.driver.Driver] -     2) Customer Login & Registration     Apr-25-21 Sunday EDT 13:48:09
+{INFO} - [com.revature.driver.Driver] -     3) Employee Login     Apr-25-21 Sunday EDT 13:48:09
+{INFO} - [com.revature.driver.Driver] -     4) Exit App     Apr-25-21 Sunday EDT 13:48:09
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 13:48:09
+{INFO} - [com.revature.driver.Driver] -     
+===============================================================     Apr-25-21 Sunday EDT 13:48:16
+{INFO} - [com.revature.driver.Driver] -     Here you can browse and learn more about available mutations.     Apr-25-21 Sunday EDT 13:48:16
+{INFO} - [com.revature.driver.Driver] -     In order to be eligible to bid on mutations, purchase Habitats, and
+purchase Feeders an account must be created with Radioactive Reptiles     Apr-25-21 Sunday EDT 13:48:16
+{INFO} - [com.revature.driver.Driver] -     ===================================================================     Apr-25-21 Sunday EDT 13:48:16
+{INFO} - [com.revature.driver.Driver] -     Choose to browse from the following mutations:     Apr-25-21 Sunday EDT 13:48:16
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 13:48:16
+{INFO} - [com.revature.driver.Driver] -     1) Reptilian Mutations     Apr-25-21 Sunday EDT 13:48:16
+{INFO} - [com.revature.driver.Driver] -     2) Amphibious Mutations     Apr-25-21 Sunday EDT 13:48:16
+{INFO} - [com.revature.driver.Driver] -     3) Aquatic Mutations     Apr-25-21 Sunday EDT 13:48:16
+{INFO} - [com.revature.driver.Driver] -     4) Hybrid Mutations     Apr-25-21 Sunday EDT 13:48:16
+{INFO} - [com.revature.driver.Driver] -     5) Plant Mutations     Apr-25-21 Sunday EDT 13:48:16
+{INFO} - [com.revature.driver.Driver] -     6) Exit     Apr-25-21 Sunday EDT 13:48:16
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 13:48:16
+{INFO} - [com.revature.driver.Driver] -     This is for the Reptilian Mutations Menu     Apr-25-21 Sunday EDT 13:48:18
+{INFO} - [com.revature.driver.Driver] -     
+===============================================================     Apr-25-21 Sunday EDT 13:48:18
+{INFO} - [com.revature.driver.Driver] -     Here you can browse and learn more about available mutations.     Apr-25-21 Sunday EDT 13:48:18
+{INFO} - [com.revature.driver.Driver] -     In order to be eligible to bid on mutations, purchase Habitats, and
+purchase Feeders an account must be created with Radioactive Reptiles     Apr-25-21 Sunday EDT 13:48:18
+{INFO} - [com.revature.driver.Driver] -     ===================================================================     Apr-25-21 Sunday EDT 13:48:18
+{INFO} - [com.revature.driver.Driver] -     Choose to browse from the following mutations:     Apr-25-21 Sunday EDT 13:48:18
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 13:48:18
+{INFO} - [com.revature.driver.Driver] -     1) Reptilian Mutations     Apr-25-21 Sunday EDT 13:48:18
+{INFO} - [com.revature.driver.Driver] -     2) Amphibious Mutations     Apr-25-21 Sunday EDT 13:48:18
+{INFO} - [com.revature.driver.Driver] -     3) Aquatic Mutations     Apr-25-21 Sunday EDT 13:48:18
+{INFO} - [com.revature.driver.Driver] -     4) Hybrid Mutations     Apr-25-21 Sunday EDT 13:48:18
+{INFO} - [com.revature.driver.Driver] -     5) Plant Mutations     Apr-25-21 Sunday EDT 13:48:18
+{INFO} - [com.revature.driver.Driver] -     6) Exit     Apr-25-21 Sunday EDT 13:48:18
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 13:48:18
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 13:49:45
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-25-21 Sunday EDT 13:49:45
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 13:49:45
+{INFO} - [com.revature.driver.Driver] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     Apr-25-21 Sunday EDT 13:49:45
+{INFO} - [com.revature.driver.Driver] -     All of our mutations are safetly lab grown using patented state of the art technology     Apr-25-21 Sunday EDT 13:49:45
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 13:49:45
+{INFO} - [com.revature.driver.Driver] -     Proceed by selecting one of the options below:     Apr-25-21 Sunday EDT 13:49:45
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 13:49:45
+{INFO} - [com.revature.driver.Driver] -     1) Browse as Guest     Apr-25-21 Sunday EDT 13:49:45
+{INFO} - [com.revature.driver.Driver] -     2) Customer Login & Registration     Apr-25-21 Sunday EDT 13:49:45
+{INFO} - [com.revature.driver.Driver] -     3) Employee Login     Apr-25-21 Sunday EDT 13:49:45
+{INFO} - [com.revature.driver.Driver] -     4) Exit App     Apr-25-21 Sunday EDT 13:49:45
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 13:49:45
+{INFO} - [com.revature.driver.Driver] -     
+====================================================================     Apr-25-21 Sunday EDT 13:49:56
+{INFO} - [com.revature.driver.Driver] -     Here you can browse and learn more about available mutations.     Apr-25-21 Sunday EDT 13:49:56
+{INFO} - [com.revature.driver.Driver] -     In order to be eligible to bid on mutations, purchase Habitats, and
+purchase Feeders an account must be created with Radioactive Reptiles     Apr-25-21 Sunday EDT 13:49:56
+{INFO} - [com.revature.driver.Driver] -     =====================================================================     Apr-25-21 Sunday EDT 13:49:56
+{INFO} - [com.revature.driver.Driver] -     Choose to browse from the following mutations:     Apr-25-21 Sunday EDT 13:49:56
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 13:49:56
+{INFO} - [com.revature.driver.Driver] -     1) Reptilian Mutations     Apr-25-21 Sunday EDT 13:49:56
+{INFO} - [com.revature.driver.Driver] -     2) Amphibious Mutations     Apr-25-21 Sunday EDT 13:49:56
+{INFO} - [com.revature.driver.Driver] -     3) Aquatic Mutations     Apr-25-21 Sunday EDT 13:49:56
+{INFO} - [com.revature.driver.Driver] -     4) Hybrid Mutations     Apr-25-21 Sunday EDT 13:49:56
+{INFO} - [com.revature.driver.Driver] -     5) Plant Mutations     Apr-25-21 Sunday EDT 13:49:56
+{INFO} - [com.revature.driver.Driver] -     6) Exit     Apr-25-21 Sunday EDT 13:49:56
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 13:49:56
+{INFO} - [com.revature.driver.Driver] -     This is for the Reptilian Mutations Menu     Apr-25-21 Sunday EDT 13:50:38
+{INFO} - [com.revature.driver.Driver] -     
+====================================================================     Apr-25-21 Sunday EDT 13:50:38
+{INFO} - [com.revature.driver.Driver] -     Here you can browse and learn more about available mutations.     Apr-25-21 Sunday EDT 13:50:38
+{INFO} - [com.revature.driver.Driver] -     In order to be eligible to bid on mutations, purchase Habitats, and
+purchase Feeders an account must be created with Radioactive Reptiles     Apr-25-21 Sunday EDT 13:50:38
+{INFO} - [com.revature.driver.Driver] -     =====================================================================     Apr-25-21 Sunday EDT 13:50:38
+{INFO} - [com.revature.driver.Driver] -     Choose to browse from the following mutations:     Apr-25-21 Sunday EDT 13:50:38
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 13:50:38
+{INFO} - [com.revature.driver.Driver] -     1) Reptilian Mutations     Apr-25-21 Sunday EDT 13:50:38
+{INFO} - [com.revature.driver.Driver] -     2) Amphibious Mutations     Apr-25-21 Sunday EDT 13:50:38
+{INFO} - [com.revature.driver.Driver] -     3) Aquatic Mutations     Apr-25-21 Sunday EDT 13:50:38
+{INFO} - [com.revature.driver.Driver] -     4) Hybrid Mutations     Apr-25-21 Sunday EDT 13:50:38
+{INFO} - [com.revature.driver.Driver] -     5) Plant Mutations     Apr-25-21 Sunday EDT 13:50:38
+{INFO} - [com.revature.driver.Driver] -     6) Exit     Apr-25-21 Sunday EDT 13:50:38
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 13:50:38
+{INFO} - [com.revature.driver.Driver] -     Exiting Browse as Guest     Apr-25-21 Sunday EDT 13:50:43
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 13:50:43
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-25-21 Sunday EDT 13:50:43
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 13:50:43
+{INFO} - [com.revature.driver.Driver] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     Apr-25-21 Sunday EDT 13:50:43
+{INFO} - [com.revature.driver.Driver] -     All of our mutations are safetly lab grown using patented state of the art technology     Apr-25-21 Sunday EDT 13:50:43
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 13:50:43
+{INFO} - [com.revature.driver.Driver] -     Proceed by selecting one of the options below:     Apr-25-21 Sunday EDT 13:50:43
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 13:50:43
+{INFO} - [com.revature.driver.Driver] -     1) Browse as Guest     Apr-25-21 Sunday EDT 13:50:43
+{INFO} - [com.revature.driver.Driver] -     2) Customer Login & Registration     Apr-25-21 Sunday EDT 13:50:43
+{INFO} - [com.revature.driver.Driver] -     3) Employee Login     Apr-25-21 Sunday EDT 13:50:43
+{INFO} - [com.revature.driver.Driver] -     4) Exit App     Apr-25-21 Sunday EDT 13:50:43
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 13:50:43
+{INFO} - [com.revature.driver.Driver] -     Thank you for banking with Marvel Bank! "A Super Bank for Super Heroes!"     Apr-25-21 Sunday EDT 13:50:49
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 13:50:49
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-25-21 Sunday EDT 13:50:49
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 13:50:49
+{INFO} - [com.revature.driver.Driver] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     Apr-25-21 Sunday EDT 13:50:49
+{INFO} - [com.revature.driver.Driver] -     All of our mutations are safetly lab grown using patented state of the art technology     Apr-25-21 Sunday EDT 13:50:49
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 13:50:49
+{INFO} - [com.revature.driver.Driver] -     Proceed by selecting one of the options below:     Apr-25-21 Sunday EDT 13:50:49
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 13:50:49
+{INFO} - [com.revature.driver.Driver] -     1) Browse as Guest     Apr-25-21 Sunday EDT 13:50:49
+{INFO} - [com.revature.driver.Driver] -     2) Customer Login & Registration     Apr-25-21 Sunday EDT 13:50:49
+{INFO} - [com.revature.driver.Driver] -     3) Employee Login     Apr-25-21 Sunday EDT 13:50:49
+{INFO} - [com.revature.driver.Driver] -     4) Exit App     Apr-25-21 Sunday EDT 13:50:49
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 13:50:49
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 15:10:48
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-25-21 Sunday EDT 15:10:48
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 15:10:48
+{INFO} - [com.revature.driver.Driver] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     Apr-25-21 Sunday EDT 15:10:48
+{INFO} - [com.revature.driver.Driver] -     All of our mutations are safetly lab grown using patented state of the art technology     Apr-25-21 Sunday EDT 15:10:48
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 15:10:48
+{INFO} - [com.revature.driver.Driver] -     Proceed by selecting one of the options below:     Apr-25-21 Sunday EDT 15:10:48
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:10:48
+{INFO} - [com.revature.driver.Driver] -     1) Browse as Guest     Apr-25-21 Sunday EDT 15:10:48
+{INFO} - [com.revature.driver.Driver] -     2) Customer Login & Registration     Apr-25-21 Sunday EDT 15:10:48
+{INFO} - [com.revature.driver.Driver] -     3) Employee Login     Apr-25-21 Sunday EDT 15:10:48
+{INFO} - [com.revature.driver.Driver] -     4) Exit App     Apr-25-21 Sunday EDT 15:10:48
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:10:48
+{INFO} - [com.revature.driver.Driver] -     
+===========================================     Apr-25-21 Sunday EDT 15:11:01
+{INFO} - [com.revature.driver.Driver] -     Welcome to Customer Login and Registration     Apr-25-21 Sunday EDT 15:11:01
+{INFO} - [com.revature.driver.Driver] -     Please choose one of the following options     Apr-25-21 Sunday EDT 15:11:01
+{INFO} - [com.revature.driver.Driver] -     ===========================================     Apr-25-21 Sunday EDT 15:11:01
+{INFO} - [com.revature.driver.Driver] -     1) Login     Apr-25-21 Sunday EDT 15:11:01
+{INFO} - [com.revature.driver.Driver] -     2) Register for an Account     Apr-25-21 Sunday EDT 15:11:01
+{INFO} - [com.revature.driver.Driver] -     3) Exit     Apr-25-21 Sunday EDT 15:11:01
+{INFO} - [com.revature.driver.Driver] -     ===========================================     Apr-25-21 Sunday EDT 15:11:01
+{INFO} - [com.revature.driver.Driver] -     
+Please enter your user email address     Apr-25-21 Sunday EDT 15:11:03
+{INFO} - [com.revature.driver.Driver] -     Please enter your password     Apr-25-21 Sunday EDT 15:11:04
+{INFO} - [com.revature.driver.Driver] -     
+=====================================     Apr-25-21 Sunday EDT 15:11:05
+{INFO} - [com.revature.driver.Driver] -     Welcome back to Radioactive Reptiles!     Apr-25-21 Sunday EDT 15:11:05
+{INFO} - [com.revature.driver.Driver] -     What are you looking for today?     Apr-25-21 Sunday EDT 15:11:05
+{INFO} - [com.revature.driver.Driver] -     =====================================     Apr-25-21 Sunday EDT 15:11:05
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 15:11:05
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 15:11:05
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 15:11:05
+{INFO} - [com.revature.driver.Driver] -     4) Log out     Apr-25-21 Sunday EDT 15:11:05
+{INFO} - [com.revature.driver.Driver] -     ==================================     Apr-25-21 Sunday EDT 15:11:05
+{INFO} - [com.revature.driver.Driver] -     
+============================================================================     Apr-25-21 Sunday EDT 15:11:07
+{INFO} - [com.revature.driver.Driver] -     Choose to browse from the following mutations to learn more annd place bids:     Apr-25-21 Sunday EDT 15:11:07
+{INFO} - [com.revature.driver.Driver] -     ============================================================================     Apr-25-21 Sunday EDT 15:11:07
+{INFO} - [com.revature.driver.Driver] -     1) Reptilian Mutations     Apr-25-21 Sunday EDT 15:11:07
+{INFO} - [com.revature.driver.Driver] -     2) Amphibious Mutations     Apr-25-21 Sunday EDT 15:11:07
+{INFO} - [com.revature.driver.Driver] -     3) Aquatic Mutations     Apr-25-21 Sunday EDT 15:11:07
+{INFO} - [com.revature.driver.Driver] -     4) Hybrid Mutations     Apr-25-21 Sunday EDT 15:11:07
+{INFO} - [com.revature.driver.Driver] -     5) Plant Mutations     Apr-25-21 Sunday EDT 15:11:07
+{INFO} - [com.revature.driver.Driver] -     6) Exit     Apr-25-21 Sunday EDT 15:11:07
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:11:07
+{INFO} - [com.revature.driver.Driver] -     Exiting to Inventory Menu     Apr-25-21 Sunday EDT 15:11:10
+{INFO} - [com.revature.driver.Driver] -     
+=====================================     Apr-25-21 Sunday EDT 15:11:10
+{INFO} - [com.revature.driver.Driver] -     Welcome back to Radioactive Reptiles!     Apr-25-21 Sunday EDT 15:11:10
+{INFO} - [com.revature.driver.Driver] -     What are you looking for today?     Apr-25-21 Sunday EDT 15:11:10
+{INFO} - [com.revature.driver.Driver] -     =====================================     Apr-25-21 Sunday EDT 15:11:10
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 15:11:10
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 15:11:10
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 15:11:10
+{INFO} - [com.revature.driver.Driver] -     4) Log out     Apr-25-21 Sunday EDT 15:11:10
+{INFO} - [com.revature.driver.Driver] -     ==================================     Apr-25-21 Sunday EDT 15:11:10
+{INFO} - [com.revature.driver.Driver] -     
+===============================================     Apr-25-21 Sunday EDT 15:11:14
+{INFO} - [com.revature.driver.Driver] -     Choose from the Habitats below to learn more:     Apr-25-21 Sunday EDT 15:11:14
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:11:14
+{INFO} - [com.revature.driver.Driver] -     1) Dragon Habitats     Apr-25-21 Sunday EDT 15:11:14
+{INFO} - [com.revature.driver.Driver] -     2) Amphibious Habitats     Apr-25-21 Sunday EDT 15:11:14
+{INFO} - [com.revature.driver.Driver] -     3) Aquatic Habitats     Apr-25-21 Sunday EDT 15:11:14
+{INFO} - [com.revature.driver.Driver] -     4) Mutation Garden     Apr-25-21 Sunday EDT 15:11:14
+{INFO} - [com.revature.driver.Driver] -     5) Exit     Apr-25-21 Sunday EDT 15:11:14
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:11:14
+{INFO} - [com.revature.driver.Driver] -     Exiting to Inventory Menu     Apr-25-21 Sunday EDT 15:11:20
+{INFO} - [com.revature.driver.Driver] -     
+=====================================     Apr-25-21 Sunday EDT 15:11:20
+{INFO} - [com.revature.driver.Driver] -     Welcome back to Radioactive Reptiles!     Apr-25-21 Sunday EDT 15:11:20
+{INFO} - [com.revature.driver.Driver] -     What are you looking for today?     Apr-25-21 Sunday EDT 15:11:20
+{INFO} - [com.revature.driver.Driver] -     =====================================     Apr-25-21 Sunday EDT 15:11:20
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 15:11:20
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 15:11:20
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 15:11:20
+{INFO} - [com.revature.driver.Driver] -     4) Log out     Apr-25-21 Sunday EDT 15:11:20
+{INFO} - [com.revature.driver.Driver] -     ==================================     Apr-25-21 Sunday EDT 15:11:20
+{WARN} - [com.revature.driver.Driver] -     Please choose only an option between 1-4     Apr-25-21 Sunday EDT 15:11:23
+{INFO} - [com.revature.driver.Driver] -     
+=====================================     Apr-25-21 Sunday EDT 15:11:23
+{INFO} - [com.revature.driver.Driver] -     Welcome back to Radioactive Reptiles!     Apr-25-21 Sunday EDT 15:11:23
+{INFO} - [com.revature.driver.Driver] -     What are you looking for today?     Apr-25-21 Sunday EDT 15:11:23
+{INFO} - [com.revature.driver.Driver] -     =====================================     Apr-25-21 Sunday EDT 15:11:23
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 15:11:23
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 15:11:23
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 15:11:23
+{INFO} - [com.revature.driver.Driver] -     4) Log out     Apr-25-21 Sunday EDT 15:11:23
+{INFO} - [com.revature.driver.Driver] -     ==================================     Apr-25-21 Sunday EDT 15:11:23
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 15:11:29
+{INFO} - [com.revature.driver.Driver] -     Choose from the Feeders below to learn more:     Apr-25-21 Sunday EDT 15:11:29
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:11:29
+{INFO} - [com.revature.driver.Driver] -     1) Dragon Feed     Apr-25-21 Sunday EDT 15:11:29
+{INFO} - [com.revature.driver.Driver] -     2) Aquatic Feed     Apr-25-21 Sunday EDT 15:11:29
+{INFO} - [com.revature.driver.Driver] -     3) Special Mutation Fertilizer     Apr-25-21 Sunday EDT 15:11:29
+{INFO} - [com.revature.driver.Driver] -     4) Exit     Apr-25-21 Sunday EDT 15:11:29
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:11:29
+{INFO} - [com.revature.driver.Driver] -     Exiting to Inventory Menu     Apr-25-21 Sunday EDT 15:11:32
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 15:11:32
+{INFO} - [com.revature.driver.Driver] -     Choose from the Feeders below to learn more:     Apr-25-21 Sunday EDT 15:11:32
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:11:32
+{INFO} - [com.revature.driver.Driver] -     1) Dragon Feed     Apr-25-21 Sunday EDT 15:11:32
+{INFO} - [com.revature.driver.Driver] -     2) Aquatic Feed     Apr-25-21 Sunday EDT 15:11:32
+{INFO} - [com.revature.driver.Driver] -     3) Special Mutation Fertilizer     Apr-25-21 Sunday EDT 15:11:32
+{INFO} - [com.revature.driver.Driver] -     4) Exit     Apr-25-21 Sunday EDT 15:11:32
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:11:32
+{INFO} - [com.revature.driver.Driver] -     Exiting to Inventory Menu     Apr-25-21 Sunday EDT 15:11:35
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 15:11:35
+{INFO} - [com.revature.driver.Driver] -     Choose from the Feeders below to learn more:     Apr-25-21 Sunday EDT 15:11:35
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:11:35
+{INFO} - [com.revature.driver.Driver] -     1) Dragon Feed     Apr-25-21 Sunday EDT 15:11:35
+{INFO} - [com.revature.driver.Driver] -     2) Aquatic Feed     Apr-25-21 Sunday EDT 15:11:35
+{INFO} - [com.revature.driver.Driver] -     3) Special Mutation Fertilizer     Apr-25-21 Sunday EDT 15:11:35
+{INFO} - [com.revature.driver.Driver] -     4) Exit     Apr-25-21 Sunday EDT 15:11:35
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:11:35
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 15:12:38
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-25-21 Sunday EDT 15:12:38
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 15:12:38
+{INFO} - [com.revature.driver.Driver] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     Apr-25-21 Sunday EDT 15:12:38
+{INFO} - [com.revature.driver.Driver] -     All of our mutations are safetly lab grown using patented state of the art technology     Apr-25-21 Sunday EDT 15:12:38
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 15:12:38
+{INFO} - [com.revature.driver.Driver] -     Proceed by selecting one of the options below:     Apr-25-21 Sunday EDT 15:12:38
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:12:38
+{INFO} - [com.revature.driver.Driver] -     1) Browse as Guest     Apr-25-21 Sunday EDT 15:12:38
+{INFO} - [com.revature.driver.Driver] -     2) Customer Login & Registration     Apr-25-21 Sunday EDT 15:12:38
+{INFO} - [com.revature.driver.Driver] -     3) Employee Login     Apr-25-21 Sunday EDT 15:12:38
+{INFO} - [com.revature.driver.Driver] -     4) Exit App     Apr-25-21 Sunday EDT 15:12:38
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:12:38
+{INFO} - [com.revature.driver.Driver] -     Thank you for banking with Marvel Bank! "A Super Bank for Super Heroes!"     Apr-25-21 Sunday EDT 15:12:57
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 15:12:57
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-25-21 Sunday EDT 15:12:57
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 15:12:57
+{INFO} - [com.revature.driver.Driver] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     Apr-25-21 Sunday EDT 15:12:57
+{INFO} - [com.revature.driver.Driver] -     All of our mutations are safetly lab grown using patented state of the art technology     Apr-25-21 Sunday EDT 15:12:57
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 15:12:57
+{INFO} - [com.revature.driver.Driver] -     Proceed by selecting one of the options below:     Apr-25-21 Sunday EDT 15:12:57
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:12:57
+{INFO} - [com.revature.driver.Driver] -     1) Browse as Guest     Apr-25-21 Sunday EDT 15:12:57
+{INFO} - [com.revature.driver.Driver] -     2) Customer Login & Registration     Apr-25-21 Sunday EDT 15:12:57
+{INFO} - [com.revature.driver.Driver] -     3) Employee Login     Apr-25-21 Sunday EDT 15:12:57
+{INFO} - [com.revature.driver.Driver] -     4) Exit App     Apr-25-21 Sunday EDT 15:12:57
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:12:57
+{INFO} - [com.revature.driver.Driver] -     
+===========================================     Apr-25-21 Sunday EDT 15:13:04
+{INFO} - [com.revature.driver.Driver] -     Welcome to Customer Login and Registration     Apr-25-21 Sunday EDT 15:13:04
+{INFO} - [com.revature.driver.Driver] -     Please choose one of the following options     Apr-25-21 Sunday EDT 15:13:04
+{INFO} - [com.revature.driver.Driver] -     ===========================================     Apr-25-21 Sunday EDT 15:13:04
+{INFO} - [com.revature.driver.Driver] -     1) Login     Apr-25-21 Sunday EDT 15:13:04
+{INFO} - [com.revature.driver.Driver] -     2) Register for an Account     Apr-25-21 Sunday EDT 15:13:04
+{INFO} - [com.revature.driver.Driver] -     3) Exit     Apr-25-21 Sunday EDT 15:13:04
+{INFO} - [com.revature.driver.Driver] -     ===========================================     Apr-25-21 Sunday EDT 15:13:04
+{INFO} - [com.revature.driver.Driver] -     
+Please enter your user email address     Apr-25-21 Sunday EDT 15:13:06
+{INFO} - [com.revature.driver.Driver] -     Please enter your password     Apr-25-21 Sunday EDT 15:13:07
+{INFO} - [com.revature.driver.Driver] -     
+=====================================     Apr-25-21 Sunday EDT 15:13:08
+{INFO} - [com.revature.driver.Driver] -     Welcome back to Radioactive Reptiles!     Apr-25-21 Sunday EDT 15:13:08
+{INFO} - [com.revature.driver.Driver] -     What are you looking for today?     Apr-25-21 Sunday EDT 15:13:08
+{INFO} - [com.revature.driver.Driver] -     =====================================     Apr-25-21 Sunday EDT 15:13:08
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 15:13:08
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 15:13:08
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 15:13:08
+{INFO} - [com.revature.driver.Driver] -     4) Log out     Apr-25-21 Sunday EDT 15:13:08
+{INFO} - [com.revature.driver.Driver] -     ==================================     Apr-25-21 Sunday EDT 15:13:08
+{INFO} - [com.revature.driver.Driver] -     
+============================================================================     Apr-25-21 Sunday EDT 15:13:13
+{INFO} - [com.revature.driver.Driver] -     Choose to browse from the following mutations to learn more annd place bids:     Apr-25-21 Sunday EDT 15:13:13
+{INFO} - [com.revature.driver.Driver] -     ============================================================================     Apr-25-21 Sunday EDT 15:13:13
+{INFO} - [com.revature.driver.Driver] -     1) Reptilian Mutations     Apr-25-21 Sunday EDT 15:13:13
+{INFO} - [com.revature.driver.Driver] -     2) Amphibious Mutations     Apr-25-21 Sunday EDT 15:13:13
+{INFO} - [com.revature.driver.Driver] -     3) Aquatic Mutations     Apr-25-21 Sunday EDT 15:13:13
+{INFO} - [com.revature.driver.Driver] -     4) Hybrid Mutations     Apr-25-21 Sunday EDT 15:13:13
+{INFO} - [com.revature.driver.Driver] -     5) Plant Mutations     Apr-25-21 Sunday EDT 15:13:13
+{INFO} - [com.revature.driver.Driver] -     6) Exit     Apr-25-21 Sunday EDT 15:13:13
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:13:13
+{INFO} - [com.revature.driver.Driver] -     Exiting to Inventory Menu     Apr-25-21 Sunday EDT 15:13:15
+{INFO} - [com.revature.driver.Driver] -     
+=====================================     Apr-25-21 Sunday EDT 15:13:15
+{INFO} - [com.revature.driver.Driver] -     Welcome back to Radioactive Reptiles!     Apr-25-21 Sunday EDT 15:13:15
+{INFO} - [com.revature.driver.Driver] -     What are you looking for today?     Apr-25-21 Sunday EDT 15:13:15
+{INFO} - [com.revature.driver.Driver] -     =====================================     Apr-25-21 Sunday EDT 15:13:15
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 15:13:15
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 15:13:15
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 15:13:15
+{INFO} - [com.revature.driver.Driver] -     4) Log out     Apr-25-21 Sunday EDT 15:13:15
+{INFO} - [com.revature.driver.Driver] -     ==================================     Apr-25-21 Sunday EDT 15:13:15
+{INFO} - [com.revature.driver.Driver] -     
+===============================================     Apr-25-21 Sunday EDT 15:13:17
+{INFO} - [com.revature.driver.Driver] -     Choose from the Habitats below to learn more:     Apr-25-21 Sunday EDT 15:13:17
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:13:17
+{INFO} - [com.revature.driver.Driver] -     1) Dragon Habitats     Apr-25-21 Sunday EDT 15:13:17
+{INFO} - [com.revature.driver.Driver] -     2) Amphibious Habitats     Apr-25-21 Sunday EDT 15:13:17
+{INFO} - [com.revature.driver.Driver] -     3) Aquatic Habitats     Apr-25-21 Sunday EDT 15:13:17
+{INFO} - [com.revature.driver.Driver] -     4) Mutation Garden     Apr-25-21 Sunday EDT 15:13:17
+{INFO} - [com.revature.driver.Driver] -     5) Exit     Apr-25-21 Sunday EDT 15:13:17
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:13:17
+{INFO} - [com.revature.driver.Driver] -     Exiting to Inventory Menu     Apr-25-21 Sunday EDT 15:13:18
+{INFO} - [com.revature.driver.Driver] -     
+=====================================     Apr-25-21 Sunday EDT 15:13:18
+{INFO} - [com.revature.driver.Driver] -     Welcome back to Radioactive Reptiles!     Apr-25-21 Sunday EDT 15:13:18
+{INFO} - [com.revature.driver.Driver] -     What are you looking for today?     Apr-25-21 Sunday EDT 15:13:18
+{INFO} - [com.revature.driver.Driver] -     =====================================     Apr-25-21 Sunday EDT 15:13:18
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 15:13:18
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 15:13:18
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 15:13:18
+{INFO} - [com.revature.driver.Driver] -     4) Log out     Apr-25-21 Sunday EDT 15:13:18
+{INFO} - [com.revature.driver.Driver] -     ==================================     Apr-25-21 Sunday EDT 15:13:18
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 15:13:20
+{INFO} - [com.revature.driver.Driver] -     Choose from the Feeders below to learn more:     Apr-25-21 Sunday EDT 15:13:20
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:13:20
+{INFO} - [com.revature.driver.Driver] -     1) Dragon Feed     Apr-25-21 Sunday EDT 15:13:20
+{INFO} - [com.revature.driver.Driver] -     2) Aquatic Feed     Apr-25-21 Sunday EDT 15:13:20
+{INFO} - [com.revature.driver.Driver] -     3) Special Mutation Fertilizer     Apr-25-21 Sunday EDT 15:13:20
+{INFO} - [com.revature.driver.Driver] -     4) Exit     Apr-25-21 Sunday EDT 15:13:20
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:13:20
+{INFO} - [com.revature.driver.Driver] -     Exiting to Inventory Menu     Apr-25-21 Sunday EDT 15:13:21
+{INFO} - [com.revature.driver.Driver] -     
+===========================================     Apr-25-21 Sunday EDT 15:13:21
+{INFO} - [com.revature.driver.Driver] -     Welcome to Customer Login and Registration     Apr-25-21 Sunday EDT 15:13:21
+{INFO} - [com.revature.driver.Driver] -     Please choose one of the following options     Apr-25-21 Sunday EDT 15:13:21
+{INFO} - [com.revature.driver.Driver] -     ===========================================     Apr-25-21 Sunday EDT 15:13:21
+{INFO} - [com.revature.driver.Driver] -     1) Login     Apr-25-21 Sunday EDT 15:13:21
+{INFO} - [com.revature.driver.Driver] -     2) Register for an Account     Apr-25-21 Sunday EDT 15:13:21
+{INFO} - [com.revature.driver.Driver] -     3) Exit     Apr-25-21 Sunday EDT 15:13:21
+{INFO} - [com.revature.driver.Driver] -     ===========================================     Apr-25-21 Sunday EDT 15:13:21
+{INFO} - [com.revature.driver.Driver] -     Exiting to Main Menu     Apr-25-21 Sunday EDT 15:13:25
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 15:13:25
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-25-21 Sunday EDT 15:13:25
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 15:13:25
+{INFO} - [com.revature.driver.Driver] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     Apr-25-21 Sunday EDT 15:13:25
+{INFO} - [com.revature.driver.Driver] -     All of our mutations are safetly lab grown using patented state of the art technology     Apr-25-21 Sunday EDT 15:13:25
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 15:13:25
+{INFO} - [com.revature.driver.Driver] -     Proceed by selecting one of the options below:     Apr-25-21 Sunday EDT 15:13:25
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:13:25
+{INFO} - [com.revature.driver.Driver] -     1) Browse as Guest     Apr-25-21 Sunday EDT 15:13:25
+{INFO} - [com.revature.driver.Driver] -     2) Customer Login & Registration     Apr-25-21 Sunday EDT 15:13:25
+{INFO} - [com.revature.driver.Driver] -     3) Employee Login     Apr-25-21 Sunday EDT 15:13:25
+{INFO} - [com.revature.driver.Driver] -     4) Exit App     Apr-25-21 Sunday EDT 15:13:25
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 15:13:25
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 18:23:54
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-25-21 Sunday EDT 18:23:54
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 18:23:54
+{INFO} - [com.revature.driver.Driver] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     Apr-25-21 Sunday EDT 18:23:54
+{INFO} - [com.revature.driver.Driver] -     All of our mutations are safetly lab grown using patented state of the art technology     Apr-25-21 Sunday EDT 18:23:54
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 18:23:54
+{INFO} - [com.revature.driver.Driver] -     Proceed by selecting one of the options below:     Apr-25-21 Sunday EDT 18:23:54
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:23:54
+{INFO} - [com.revature.driver.Driver] -     1) Browse as Guest     Apr-25-21 Sunday EDT 18:23:54
+{INFO} - [com.revature.driver.Driver] -     2) Customer Login & Registration     Apr-25-21 Sunday EDT 18:23:54
+{INFO} - [com.revature.driver.Driver] -     3) Employee Login     Apr-25-21 Sunday EDT 18:23:54
+{INFO} - [com.revature.driver.Driver] -     4) Exit App     Apr-25-21 Sunday EDT 18:23:54
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:23:54
+{INFO} - [com.revature.driver.Driver] -     
+====================================================================     Apr-25-21 Sunday EDT 18:24:03
+{INFO} - [com.revature.driver.Driver] -     Here you can browse and learn more about available mutations.     Apr-25-21 Sunday EDT 18:24:03
+{INFO} - [com.revature.driver.Driver] -     In order to be eligible to bid on mutations, purchase Habitats, and
+purchase Feeders an account must be created with Radioactive Reptiles     Apr-25-21 Sunday EDT 18:24:03
+{INFO} - [com.revature.driver.Driver] -     =====================================================================     Apr-25-21 Sunday EDT 18:24:03
+{INFO} - [com.revature.driver.Driver] -     Choose to browse from the following mutations:     Apr-25-21 Sunday EDT 18:24:03
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:24:03
+{INFO} - [com.revature.driver.Driver] -     1) Reptilian Mutations     Apr-25-21 Sunday EDT 18:24:03
+{INFO} - [com.revature.driver.Driver] -     2) Amphibious Mutations     Apr-25-21 Sunday EDT 18:24:03
+{INFO} - [com.revature.driver.Driver] -     3) Aquatic Mutations     Apr-25-21 Sunday EDT 18:24:03
+{INFO} - [com.revature.driver.Driver] -     4) Hybrid Mutations     Apr-25-21 Sunday EDT 18:24:03
+{INFO} - [com.revature.driver.Driver] -     5) Plant Mutations     Apr-25-21 Sunday EDT 18:24:03
+{INFO} - [com.revature.driver.Driver] -     6) Exit     Apr-25-21 Sunday EDT 18:24:03
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:24:03
+{INFO} - [com.revature.driver.Driver] -     This is for the Reptilian Mutations Menu     Apr-25-21 Sunday EDT 18:24:05
+{INFO} - [com.revature.driver.Driver] -     
+====================================================================     Apr-25-21 Sunday EDT 18:24:05
+{INFO} - [com.revature.driver.Driver] -     Here you can browse and learn more about available mutations.     Apr-25-21 Sunday EDT 18:24:05
+{INFO} - [com.revature.driver.Driver] -     In order to be eligible to bid on mutations, purchase Habitats, and
+purchase Feeders an account must be created with Radioactive Reptiles     Apr-25-21 Sunday EDT 18:24:05
+{INFO} - [com.revature.driver.Driver] -     =====================================================================     Apr-25-21 Sunday EDT 18:24:05
+{INFO} - [com.revature.driver.Driver] -     Choose to browse from the following mutations:     Apr-25-21 Sunday EDT 18:24:05
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:24:05
+{INFO} - [com.revature.driver.Driver] -     1) Reptilian Mutations     Apr-25-21 Sunday EDT 18:24:05
+{INFO} - [com.revature.driver.Driver] -     2) Amphibious Mutations     Apr-25-21 Sunday EDT 18:24:05
+{INFO} - [com.revature.driver.Driver] -     3) Aquatic Mutations     Apr-25-21 Sunday EDT 18:24:05
+{INFO} - [com.revature.driver.Driver] -     4) Hybrid Mutations     Apr-25-21 Sunday EDT 18:24:05
+{INFO} - [com.revature.driver.Driver] -     5) Plant Mutations     Apr-25-21 Sunday EDT 18:24:05
+{INFO} - [com.revature.driver.Driver] -     6) Exit     Apr-25-21 Sunday EDT 18:24:05
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:24:05
+{INFO} - [com.revature.driver.Driver] -     Exiting Browse as Guest     Apr-25-21 Sunday EDT 18:24:09
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 18:24:09
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-25-21 Sunday EDT 18:24:09
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 18:24:09
+{INFO} - [com.revature.driver.Driver] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     Apr-25-21 Sunday EDT 18:24:09
+{INFO} - [com.revature.driver.Driver] -     All of our mutations are safetly lab grown using patented state of the art technology     Apr-25-21 Sunday EDT 18:24:09
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 18:24:09
+{INFO} - [com.revature.driver.Driver] -     Proceed by selecting one of the options below:     Apr-25-21 Sunday EDT 18:24:09
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:24:09
+{INFO} - [com.revature.driver.Driver] -     1) Browse as Guest     Apr-25-21 Sunday EDT 18:24:09
+{INFO} - [com.revature.driver.Driver] -     2) Customer Login & Registration     Apr-25-21 Sunday EDT 18:24:09
+{INFO} - [com.revature.driver.Driver] -     3) Employee Login     Apr-25-21 Sunday EDT 18:24:09
+{INFO} - [com.revature.driver.Driver] -     4) Exit App     Apr-25-21 Sunday EDT 18:24:09
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:24:09
+{INFO} - [com.revature.driver.Driver] -     
+====================================================================     Apr-25-21 Sunday EDT 18:24:11
+{INFO} - [com.revature.driver.Driver] -     Here you can browse and learn more about available mutations.     Apr-25-21 Sunday EDT 18:24:11
+{INFO} - [com.revature.driver.Driver] -     In order to be eligible to bid on mutations, purchase Habitats, and
+purchase Feeders an account must be created with Radioactive Reptiles     Apr-25-21 Sunday EDT 18:24:11
+{INFO} - [com.revature.driver.Driver] -     =====================================================================     Apr-25-21 Sunday EDT 18:24:11
+{INFO} - [com.revature.driver.Driver] -     Choose to browse from the following mutations:     Apr-25-21 Sunday EDT 18:24:11
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:24:11
+{INFO} - [com.revature.driver.Driver] -     1) Reptilian Mutations     Apr-25-21 Sunday EDT 18:24:11
+{INFO} - [com.revature.driver.Driver] -     2) Amphibious Mutations     Apr-25-21 Sunday EDT 18:24:11
+{INFO} - [com.revature.driver.Driver] -     3) Aquatic Mutations     Apr-25-21 Sunday EDT 18:24:11
+{INFO} - [com.revature.driver.Driver] -     4) Hybrid Mutations     Apr-25-21 Sunday EDT 18:24:11
+{INFO} - [com.revature.driver.Driver] -     5) Plant Mutations     Apr-25-21 Sunday EDT 18:24:11
+{INFO} - [com.revature.driver.Driver] -     6) Exit     Apr-25-21 Sunday EDT 18:24:11
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:24:11
+{INFO} - [com.revature.driver.Driver] -     Exiting Browse as Guest     Apr-25-21 Sunday EDT 18:24:19
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 18:24:19
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-25-21 Sunday EDT 18:24:19
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 18:24:19
+{INFO} - [com.revature.driver.Driver] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     Apr-25-21 Sunday EDT 18:24:19
+{INFO} - [com.revature.driver.Driver] -     All of our mutations are safetly lab grown using patented state of the art technology     Apr-25-21 Sunday EDT 18:24:19
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 18:24:19
+{INFO} - [com.revature.driver.Driver] -     Proceed by selecting one of the options below:     Apr-25-21 Sunday EDT 18:24:19
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:24:19
+{INFO} - [com.revature.driver.Driver] -     1) Browse as Guest     Apr-25-21 Sunday EDT 18:24:19
+{INFO} - [com.revature.driver.Driver] -     2) Customer Login & Registration     Apr-25-21 Sunday EDT 18:24:19
+{INFO} - [com.revature.driver.Driver] -     3) Employee Login     Apr-25-21 Sunday EDT 18:24:19
+{INFO} - [com.revature.driver.Driver] -     4) Exit App     Apr-25-21 Sunday EDT 18:24:19
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:24:19
+{INFO} - [com.revature.driver.Driver] -     
+===========================================     Apr-25-21 Sunday EDT 18:24:21
+{INFO} - [com.revature.driver.Driver] -     Welcome to Customer Login and Registration     Apr-25-21 Sunday EDT 18:24:21
+{INFO} - [com.revature.driver.Driver] -     Please choose one of the following options     Apr-25-21 Sunday EDT 18:24:21
+{INFO} - [com.revature.driver.Driver] -     ===========================================     Apr-25-21 Sunday EDT 18:24:21
+{INFO} - [com.revature.driver.Driver] -     1) Login     Apr-25-21 Sunday EDT 18:24:21
+{INFO} - [com.revature.driver.Driver] -     2) Register for an Account     Apr-25-21 Sunday EDT 18:24:21
+{INFO} - [com.revature.driver.Driver] -     3) Exit     Apr-25-21 Sunday EDT 18:24:21
+{INFO} - [com.revature.driver.Driver] -     ===========================================     Apr-25-21 Sunday EDT 18:24:21
+{INFO} - [com.revature.driver.Driver] -     
+Registering for an account     Apr-25-21 Sunday EDT 18:24:24
+{INFO} - [com.revature.driver.Driver] -     
+===========================================     Apr-25-21 Sunday EDT 18:24:24
+{INFO} - [com.revature.driver.Driver] -     Welcome to Customer Login and Registration     Apr-25-21 Sunday EDT 18:24:24
+{INFO} - [com.revature.driver.Driver] -     Please choose one of the following options     Apr-25-21 Sunday EDT 18:24:24
+{INFO} - [com.revature.driver.Driver] -     ===========================================     Apr-25-21 Sunday EDT 18:24:24
+{INFO} - [com.revature.driver.Driver] -     1) Login     Apr-25-21 Sunday EDT 18:24:24
+{INFO} - [com.revature.driver.Driver] -     2) Register for an Account     Apr-25-21 Sunday EDT 18:24:24
+{INFO} - [com.revature.driver.Driver] -     3) Exit     Apr-25-21 Sunday EDT 18:24:24
+{INFO} - [com.revature.driver.Driver] -     ===========================================     Apr-25-21 Sunday EDT 18:24:24
+{INFO} - [com.revature.driver.Driver] -     
+Please enter your user email address     Apr-25-21 Sunday EDT 18:24:26
+{INFO} - [com.revature.driver.Driver] -     Please enter your password     Apr-25-21 Sunday EDT 18:24:28
+{INFO} - [com.revature.driver.Driver] -     
+=====================================     Apr-25-21 Sunday EDT 18:24:29
+{INFO} - [com.revature.driver.Driver] -     Welcome back to Radioactive Reptiles!     Apr-25-21 Sunday EDT 18:24:29
+{INFO} - [com.revature.driver.Driver] -     What are you looking for today?     Apr-25-21 Sunday EDT 18:24:29
+{INFO} - [com.revature.driver.Driver] -     =====================================     Apr-25-21 Sunday EDT 18:24:29
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 18:24:29
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 18:24:29
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 18:24:29
+{INFO} - [com.revature.driver.Driver] -     4) Log out     Apr-25-21 Sunday EDT 18:24:29
+{INFO} - [com.revature.driver.Driver] -     ==================================     Apr-25-21 Sunday EDT 18:24:29
+{INFO} - [com.revature.driver.Driver] -     
+============================================================================     Apr-25-21 Sunday EDT 18:24:31
+{INFO} - [com.revature.driver.Driver] -     Choose to browse from the following mutations to learn more annd place bids:     Apr-25-21 Sunday EDT 18:24:31
+{INFO} - [com.revature.driver.Driver] -     ============================================================================     Apr-25-21 Sunday EDT 18:24:31
+{INFO} - [com.revature.driver.Driver] -     1) Reptilian Mutations     Apr-25-21 Sunday EDT 18:24:31
+{INFO} - [com.revature.driver.Driver] -     2) Amphibious Mutations     Apr-25-21 Sunday EDT 18:24:31
+{INFO} - [com.revature.driver.Driver] -     3) Aquatic Mutations     Apr-25-21 Sunday EDT 18:24:31
+{INFO} - [com.revature.driver.Driver] -     4) Hybrid Mutations     Apr-25-21 Sunday EDT 18:24:31
+{INFO} - [com.revature.driver.Driver] -     5) Plant Mutations     Apr-25-21 Sunday EDT 18:24:31
+{INFO} - [com.revature.driver.Driver] -     6) Exit     Apr-25-21 Sunday EDT 18:24:31
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:24:31
+{INFO} - [com.revature.driver.Driver] -     This is for the Reptilian Mutations Menu     Apr-25-21 Sunday EDT 18:24:32
+{INFO} - [com.revature.driver.Driver] -     
+============================================================================     Apr-25-21 Sunday EDT 18:24:32
+{INFO} - [com.revature.driver.Driver] -     Choose to browse from the following mutations to learn more annd place bids:     Apr-25-21 Sunday EDT 18:24:32
+{INFO} - [com.revature.driver.Driver] -     ============================================================================     Apr-25-21 Sunday EDT 18:24:32
+{INFO} - [com.revature.driver.Driver] -     1) Reptilian Mutations     Apr-25-21 Sunday EDT 18:24:32
+{INFO} - [com.revature.driver.Driver] -     2) Amphibious Mutations     Apr-25-21 Sunday EDT 18:24:32
+{INFO} - [com.revature.driver.Driver] -     3) Aquatic Mutations     Apr-25-21 Sunday EDT 18:24:32
+{INFO} - [com.revature.driver.Driver] -     4) Hybrid Mutations     Apr-25-21 Sunday EDT 18:24:32
+{INFO} - [com.revature.driver.Driver] -     5) Plant Mutations     Apr-25-21 Sunday EDT 18:24:32
+{INFO} - [com.revature.driver.Driver] -     6) Exit     Apr-25-21 Sunday EDT 18:24:32
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:24:32
+{INFO} - [com.revature.driver.Driver] -     This is for the Amphibious Mutations Menu     Apr-25-21 Sunday EDT 18:24:36
+{INFO} - [com.revature.driver.Driver] -     
+============================================================================     Apr-25-21 Sunday EDT 18:24:36
+{INFO} - [com.revature.driver.Driver] -     Choose to browse from the following mutations to learn more annd place bids:     Apr-25-21 Sunday EDT 18:24:36
+{INFO} - [com.revature.driver.Driver] -     ============================================================================     Apr-25-21 Sunday EDT 18:24:36
+{INFO} - [com.revature.driver.Driver] -     1) Reptilian Mutations     Apr-25-21 Sunday EDT 18:24:36
+{INFO} - [com.revature.driver.Driver] -     2) Amphibious Mutations     Apr-25-21 Sunday EDT 18:24:36
+{INFO} - [com.revature.driver.Driver] -     3) Aquatic Mutations     Apr-25-21 Sunday EDT 18:24:36
+{INFO} - [com.revature.driver.Driver] -     4) Hybrid Mutations     Apr-25-21 Sunday EDT 18:24:36
+{INFO} - [com.revature.driver.Driver] -     5) Plant Mutations     Apr-25-21 Sunday EDT 18:24:36
+{INFO} - [com.revature.driver.Driver] -     6) Exit     Apr-25-21 Sunday EDT 18:24:36
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:24:36
+{INFO} - [com.revature.driver.Driver] -     Exiting to Inventory Menu     Apr-25-21 Sunday EDT 18:24:38
+{INFO} - [com.revature.driver.Driver] -     
+=====================================     Apr-25-21 Sunday EDT 18:24:38
+{INFO} - [com.revature.driver.Driver] -     Welcome back to Radioactive Reptiles!     Apr-25-21 Sunday EDT 18:24:38
+{INFO} - [com.revature.driver.Driver] -     What are you looking for today?     Apr-25-21 Sunday EDT 18:24:38
+{INFO} - [com.revature.driver.Driver] -     =====================================     Apr-25-21 Sunday EDT 18:24:38
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 18:24:38
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 18:24:38
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 18:24:38
+{INFO} - [com.revature.driver.Driver] -     4) Log out     Apr-25-21 Sunday EDT 18:24:38
+{INFO} - [com.revature.driver.Driver] -     ==================================     Apr-25-21 Sunday EDT 18:24:38
+{INFO} - [com.revature.driver.Driver] -     CHOOSED FROM LIST OF HABITATS BY ID     Apr-25-21 Sunday EDT 18:25:06
+{INFO} - [com.revature.driver.Driver] -     
+=====================================     Apr-25-21 Sunday EDT 18:25:06
+{INFO} - [com.revature.driver.Driver] -     Welcome back to Radioactive Reptiles!     Apr-25-21 Sunday EDT 18:25:06
+{INFO} - [com.revature.driver.Driver] -     What are you looking for today?     Apr-25-21 Sunday EDT 18:25:06
+{INFO} - [com.revature.driver.Driver] -     =====================================     Apr-25-21 Sunday EDT 18:25:06
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 18:25:06
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 18:25:06
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 18:25:06
+{INFO} - [com.revature.driver.Driver] -     4) Log out     Apr-25-21 Sunday EDT 18:25:06
+{INFO} - [com.revature.driver.Driver] -     ==================================     Apr-25-21 Sunday EDT 18:25:06
+{INFO} - [com.revature.driver.Driver] -     CHOOSED FROM LIST OF FEEDERS BY ID     Apr-25-21 Sunday EDT 18:25:19
+{INFO} - [com.revature.driver.Driver] -     
+===========================================     Apr-25-21 Sunday EDT 18:25:19
+{INFO} - [com.revature.driver.Driver] -     Welcome to Customer Login and Registration     Apr-25-21 Sunday EDT 18:25:19
+{INFO} - [com.revature.driver.Driver] -     Please choose one of the following options     Apr-25-21 Sunday EDT 18:25:19
+{INFO} - [com.revature.driver.Driver] -     ===========================================     Apr-25-21 Sunday EDT 18:25:19
+{INFO} - [com.revature.driver.Driver] -     1) Login     Apr-25-21 Sunday EDT 18:25:19
+{INFO} - [com.revature.driver.Driver] -     2) Register for an Account     Apr-25-21 Sunday EDT 18:25:19
+{INFO} - [com.revature.driver.Driver] -     3) Exit     Apr-25-21 Sunday EDT 18:25:19
+{INFO} - [com.revature.driver.Driver] -     ===========================================     Apr-25-21 Sunday EDT 18:25:19
+{INFO} - [com.revature.driver.Driver] -     
+Please enter your user email address     Apr-25-21 Sunday EDT 18:25:21
+{INFO} - [com.revature.driver.Driver] -     Please enter your password     Apr-25-21 Sunday EDT 18:25:22
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 18:26:55
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-25-21 Sunday EDT 18:26:55
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 18:26:55
+{INFO} - [com.revature.driver.Driver] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     Apr-25-21 Sunday EDT 18:26:55
+{INFO} - [com.revature.driver.Driver] -     All of our mutations are safetly lab grown using patented state of the art technology     Apr-25-21 Sunday EDT 18:26:55
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 18:26:55
+{INFO} - [com.revature.driver.Driver] -     Proceed by selecting one of the options below:     Apr-25-21 Sunday EDT 18:26:55
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:26:55
+{INFO} - [com.revature.driver.Driver] -     1) Browse as Guest     Apr-25-21 Sunday EDT 18:26:55
+{INFO} - [com.revature.driver.Driver] -     2) Customer Login & Registration     Apr-25-21 Sunday EDT 18:26:55
+{INFO} - [com.revature.driver.Driver] -     3) Employee Login     Apr-25-21 Sunday EDT 18:26:55
+{INFO} - [com.revature.driver.Driver] -     4) Exit App     Apr-25-21 Sunday EDT 18:26:55
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:26:55
+{INFO} - [com.revature.driver.Driver] -     
+===========================================     Apr-25-21 Sunday EDT 18:27:06
+{INFO} - [com.revature.driver.Driver] -     Welcome to Customer Login and Registration     Apr-25-21 Sunday EDT 18:27:06
+{INFO} - [com.revature.driver.Driver] -     Please choose one of the following options     Apr-25-21 Sunday EDT 18:27:06
+{INFO} - [com.revature.driver.Driver] -     ===========================================     Apr-25-21 Sunday EDT 18:27:06
+{INFO} - [com.revature.driver.Driver] -     1) Login     Apr-25-21 Sunday EDT 18:27:06
+{INFO} - [com.revature.driver.Driver] -     2) Register for an Account     Apr-25-21 Sunday EDT 18:27:06
+{INFO} - [com.revature.driver.Driver] -     3) Exit     Apr-25-21 Sunday EDT 18:27:06
+{INFO} - [com.revature.driver.Driver] -     ===========================================     Apr-25-21 Sunday EDT 18:27:06
+{INFO} - [com.revature.driver.Driver] -     
+Please enter your user email address     Apr-25-21 Sunday EDT 18:27:07
+{INFO} - [com.revature.driver.Driver] -     Please enter your password     Apr-25-21 Sunday EDT 18:27:08
+{INFO} - [com.revature.driver.Driver] -     
+=====================================     Apr-25-21 Sunday EDT 18:27:08
+{INFO} - [com.revature.driver.Driver] -     Welcome back to Radioactive Reptiles!     Apr-25-21 Sunday EDT 18:27:08
+{INFO} - [com.revature.driver.Driver] -     What are you looking for today?     Apr-25-21 Sunday EDT 18:27:08
+{INFO} - [com.revature.driver.Driver] -     =====================================     Apr-25-21 Sunday EDT 18:27:08
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 18:27:08
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 18:27:08
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 18:27:08
+{INFO} - [com.revature.driver.Driver] -     4) Log out     Apr-25-21 Sunday EDT 18:27:08
+{INFO} - [com.revature.driver.Driver] -     ==================================     Apr-25-21 Sunday EDT 18:27:08
+{INFO} - [com.revature.driver.Driver] -     
+============================================================================     Apr-25-21 Sunday EDT 18:27:10
+{INFO} - [com.revature.driver.Driver] -     Choose to browse from the following mutations to learn more annd place bids:     Apr-25-21 Sunday EDT 18:27:10
+{INFO} - [com.revature.driver.Driver] -     ============================================================================     Apr-25-21 Sunday EDT 18:27:10
+{INFO} - [com.revature.driver.Driver] -     1) Reptilian Mutations     Apr-25-21 Sunday EDT 18:27:10
+{INFO} - [com.revature.driver.Driver] -     2) Amphibious Mutations     Apr-25-21 Sunday EDT 18:27:10
+{INFO} - [com.revature.driver.Driver] -     3) Aquatic Mutations     Apr-25-21 Sunday EDT 18:27:10
+{INFO} - [com.revature.driver.Driver] -     4) Hybrid Mutations     Apr-25-21 Sunday EDT 18:27:10
+{INFO} - [com.revature.driver.Driver] -     5) Plant Mutations     Apr-25-21 Sunday EDT 18:27:10
+{INFO} - [com.revature.driver.Driver] -     6) Exit     Apr-25-21 Sunday EDT 18:27:10
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:27:10
+{INFO} - [com.revature.driver.Driver] -     This is for the Reptilian Mutations Menu CHOOSE MUTATION BY ID     Apr-25-21 Sunday EDT 18:27:11
+{INFO} - [com.revature.driver.Driver] -     
+============================================================================     Apr-25-21 Sunday EDT 18:27:11
+{INFO} - [com.revature.driver.Driver] -     Choose to browse from the following mutations to learn more annd place bids:     Apr-25-21 Sunday EDT 18:27:11
+{INFO} - [com.revature.driver.Driver] -     ============================================================================     Apr-25-21 Sunday EDT 18:27:11
+{INFO} - [com.revature.driver.Driver] -     1) Reptilian Mutations     Apr-25-21 Sunday EDT 18:27:11
+{INFO} - [com.revature.driver.Driver] -     2) Amphibious Mutations     Apr-25-21 Sunday EDT 18:27:11
+{INFO} - [com.revature.driver.Driver] -     3) Aquatic Mutations     Apr-25-21 Sunday EDT 18:27:11
+{INFO} - [com.revature.driver.Driver] -     4) Hybrid Mutations     Apr-25-21 Sunday EDT 18:27:11
+{INFO} - [com.revature.driver.Driver] -     5) Plant Mutations     Apr-25-21 Sunday EDT 18:27:11
+{INFO} - [com.revature.driver.Driver] -     6) Exit     Apr-25-21 Sunday EDT 18:27:11
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:27:11
+{INFO} - [com.revature.driver.Driver] -     This is for the Plant Mutations Menu CHOOSE MUTATION BY ID     Apr-25-21 Sunday EDT 18:27:14
+{INFO} - [com.revature.driver.Driver] -     
+============================================================================     Apr-25-21 Sunday EDT 18:27:14
+{INFO} - [com.revature.driver.Driver] -     Choose to browse from the following mutations to learn more annd place bids:     Apr-25-21 Sunday EDT 18:27:14
+{INFO} - [com.revature.driver.Driver] -     ============================================================================     Apr-25-21 Sunday EDT 18:27:14
+{INFO} - [com.revature.driver.Driver] -     1) Reptilian Mutations     Apr-25-21 Sunday EDT 18:27:14
+{INFO} - [com.revature.driver.Driver] -     2) Amphibious Mutations     Apr-25-21 Sunday EDT 18:27:14
+{INFO} - [com.revature.driver.Driver] -     3) Aquatic Mutations     Apr-25-21 Sunday EDT 18:27:14
+{INFO} - [com.revature.driver.Driver] -     4) Hybrid Mutations     Apr-25-21 Sunday EDT 18:27:14
+{INFO} - [com.revature.driver.Driver] -     5) Plant Mutations     Apr-25-21 Sunday EDT 18:27:14
+{INFO} - [com.revature.driver.Driver] -     6) Exit     Apr-25-21 Sunday EDT 18:27:14
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:27:14
+{INFO} - [com.revature.driver.Driver] -     Exiting to Inventory Menu     Apr-25-21 Sunday EDT 18:27:16
+{INFO} - [com.revature.driver.Driver] -     
+=====================================     Apr-25-21 Sunday EDT 18:27:16
+{INFO} - [com.revature.driver.Driver] -     Welcome back to Radioactive Reptiles!     Apr-25-21 Sunday EDT 18:27:16
+{INFO} - [com.revature.driver.Driver] -     What are you looking for today?     Apr-25-21 Sunday EDT 18:27:16
+{INFO} - [com.revature.driver.Driver] -     =====================================     Apr-25-21 Sunday EDT 18:27:16
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 18:27:16
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 18:27:16
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 18:27:16
+{INFO} - [com.revature.driver.Driver] -     4) Log out     Apr-25-21 Sunday EDT 18:27:16
+{INFO} - [com.revature.driver.Driver] -     ==================================     Apr-25-21 Sunday EDT 18:27:16
+{INFO} - [com.revature.driver.Driver] -     CHOOSED FROM LIST OF HABITATS BY ID     Apr-25-21 Sunday EDT 18:27:18
+{INFO} - [com.revature.driver.Driver] -     
+=====================================     Apr-25-21 Sunday EDT 18:27:18
+{INFO} - [com.revature.driver.Driver] -     Welcome back to Radioactive Reptiles!     Apr-25-21 Sunday EDT 18:27:18
+{INFO} - [com.revature.driver.Driver] -     What are you looking for today?     Apr-25-21 Sunday EDT 18:27:18
+{INFO} - [com.revature.driver.Driver] -     =====================================     Apr-25-21 Sunday EDT 18:27:18
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 18:27:18
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 18:27:18
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 18:27:18
+{INFO} - [com.revature.driver.Driver] -     4) Log out     Apr-25-21 Sunday EDT 18:27:18
+{INFO} - [com.revature.driver.Driver] -     ==================================     Apr-25-21 Sunday EDT 18:27:18
+{INFO} - [com.revature.driver.Driver] -     CHOOSED FROM LIST OF FEEDERS BY ID     Apr-25-21 Sunday EDT 18:27:20
+{INFO} - [com.revature.driver.Driver] -     
+=====================================     Apr-25-21 Sunday EDT 18:27:20
+{INFO} - [com.revature.driver.Driver] -     Welcome back to Radioactive Reptiles!     Apr-25-21 Sunday EDT 18:27:20
+{INFO} - [com.revature.driver.Driver] -     What are you looking for today?     Apr-25-21 Sunday EDT 18:27:20
+{INFO} - [com.revature.driver.Driver] -     =====================================     Apr-25-21 Sunday EDT 18:27:20
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 18:27:20
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 18:27:20
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 18:27:20
+{INFO} - [com.revature.driver.Driver] -     4) Log out     Apr-25-21 Sunday EDT 18:27:20
+{INFO} - [com.revature.driver.Driver] -     ==================================     Apr-25-21 Sunday EDT 18:27:20
+{INFO} - [com.revature.driver.Driver] -     Logging out thank you for supporting the RR family!     Apr-25-21 Sunday EDT 18:27:23
+{INFO} - [com.revature.driver.Driver] -     
+===========================================     Apr-25-21 Sunday EDT 18:27:23
+{INFO} - [com.revature.driver.Driver] -     Welcome to Customer Login and Registration     Apr-25-21 Sunday EDT 18:27:23
+{INFO} - [com.revature.driver.Driver] -     Please choose one of the following options     Apr-25-21 Sunday EDT 18:27:23
+{INFO} - [com.revature.driver.Driver] -     ===========================================     Apr-25-21 Sunday EDT 18:27:23
+{INFO} - [com.revature.driver.Driver] -     1) Login     Apr-25-21 Sunday EDT 18:27:23
+{INFO} - [com.revature.driver.Driver] -     2) Register for an Account     Apr-25-21 Sunday EDT 18:27:23
+{INFO} - [com.revature.driver.Driver] -     3) Exit     Apr-25-21 Sunday EDT 18:27:23
+{INFO} - [com.revature.driver.Driver] -     ===========================================     Apr-25-21 Sunday EDT 18:27:23
+{INFO} - [com.revature.driver.Driver] -     Exiting to Main Menu     Apr-25-21 Sunday EDT 18:27:26
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 18:27:26
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-25-21 Sunday EDT 18:27:26
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 18:27:26
+{INFO} - [com.revature.driver.Driver] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     Apr-25-21 Sunday EDT 18:27:26
+{INFO} - [com.revature.driver.Driver] -     All of our mutations are safetly lab grown using patented state of the art technology     Apr-25-21 Sunday EDT 18:27:26
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 18:27:26
+{INFO} - [com.revature.driver.Driver] -     Proceed by selecting one of the options below:     Apr-25-21 Sunday EDT 18:27:26
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:27:26
+{INFO} - [com.revature.driver.Driver] -     1) Browse as Guest     Apr-25-21 Sunday EDT 18:27:26
+{INFO} - [com.revature.driver.Driver] -     2) Customer Login & Registration     Apr-25-21 Sunday EDT 18:27:26
+{INFO} - [com.revature.driver.Driver] -     3) Employee Login     Apr-25-21 Sunday EDT 18:27:26
+{INFO} - [com.revature.driver.Driver] -     4) Exit App     Apr-25-21 Sunday EDT 18:27:26
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:27:26
+{INFO} - [com.revature.driver.Driver] -     
+===========================     Apr-25-21 Sunday EDT 18:27:28
+{INFO} - [com.revature.driver.Driver] -     Welcome to Employee Login     Apr-25-21 Sunday EDT 18:27:28
+{INFO} - [com.revature.driver.Driver] -     ===========================     Apr-25-21 Sunday EDT 18:27:28
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:27:28
+{INFO} - [com.revature.driver.Driver] -     Welcome back! What will you be doing today?     Apr-25-21 Sunday EDT 18:27:28
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:27:28
+{INFO} - [com.revature.driver.Driver] -     1) Manage Inventory     Apr-25-21 Sunday EDT 18:27:28
+{INFO} - [com.revature.driver.Driver] -     2) View Mutation Bids     Apr-25-21 Sunday EDT 18:27:28
+{INFO} - [com.revature.driver.Driver] -     3) View Sales History     Apr-25-21 Sunday EDT 18:27:28
+{INFO} - [com.revature.driver.Driver] -     4) Manager Operations     Apr-25-21 Sunday EDT 18:27:28
+{INFO} - [com.revature.driver.Driver] -     5) Log Out     Apr-25-21 Sunday EDT 18:27:28
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:27:28
+{INFO} - [com.revature.driver.Driver] -     
+======================================     Apr-25-21 Sunday EDT 18:28:25
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Inventory Management Menu     Apr-25-21 Sunday EDT 18:28:25
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:28:25
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 18:28:25
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 18:28:25
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 18:28:25
+{INFO} - [com.revature.driver.Driver] -     4) Return     Apr-25-21 Sunday EDT 18:28:25
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:28:25
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 18:28:28
+{INFO} - [com.revature.driver.Driver] -     Select from the following to manage Mutations:     Apr-25-21 Sunday EDT 18:28:28
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:28:28
+{INFO} - [com.revature.driver.Driver] -     1) List all Mutations     Apr-25-21 Sunday EDT 18:28:28
+{INFO} - [com.revature.driver.Driver] -     2) Add Mutations     Apr-25-21 Sunday EDT 18:28:28
+{INFO} - [com.revature.driver.Driver] -     3) Remove Mutations     Apr-25-21 Sunday EDT 18:28:28
+{INFO} - [com.revature.driver.Driver] -     4) Edit Mutations     Apr-25-21 Sunday EDT 18:28:28
+{INFO} - [com.revature.driver.Driver] -     5) Return     Apr-25-21 Sunday EDT 18:28:28
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:28:28
+{INFO} - [com.revature.driver.Driver] -     This is to List all Mutations     Apr-25-21 Sunday EDT 18:28:32
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 18:28:32
+{INFO} - [com.revature.driver.Driver] -     Select from the following to manage Mutations:     Apr-25-21 Sunday EDT 18:28:32
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:28:32
+{INFO} - [com.revature.driver.Driver] -     1) List all Mutations     Apr-25-21 Sunday EDT 18:28:32
+{INFO} - [com.revature.driver.Driver] -     2) Add Mutations     Apr-25-21 Sunday EDT 18:28:32
+{INFO} - [com.revature.driver.Driver] -     3) Remove Mutations     Apr-25-21 Sunday EDT 18:28:32
+{INFO} - [com.revature.driver.Driver] -     4) Edit Mutations     Apr-25-21 Sunday EDT 18:28:32
+{INFO} - [com.revature.driver.Driver] -     5) Return     Apr-25-21 Sunday EDT 18:28:32
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:28:32
+{INFO} - [com.revature.driver.Driver] -     This is to add Mutations     Apr-25-21 Sunday EDT 18:28:34
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 18:28:34
+{INFO} - [com.revature.driver.Driver] -     Select from the following to manage Mutations:     Apr-25-21 Sunday EDT 18:28:34
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:28:34
+{INFO} - [com.revature.driver.Driver] -     1) List all Mutations     Apr-25-21 Sunday EDT 18:28:34
+{INFO} - [com.revature.driver.Driver] -     2) Add Mutations     Apr-25-21 Sunday EDT 18:28:34
+{INFO} - [com.revature.driver.Driver] -     3) Remove Mutations     Apr-25-21 Sunday EDT 18:28:34
+{INFO} - [com.revature.driver.Driver] -     4) Edit Mutations     Apr-25-21 Sunday EDT 18:28:34
+{INFO} - [com.revature.driver.Driver] -     5) Return     Apr-25-21 Sunday EDT 18:28:34
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:28:34
+{INFO} - [com.revature.driver.Driver] -     This is to remove Mutations     Apr-25-21 Sunday EDT 18:28:36
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 18:28:36
+{INFO} - [com.revature.driver.Driver] -     Select from the following to manage Mutations:     Apr-25-21 Sunday EDT 18:28:36
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:28:36
+{INFO} - [com.revature.driver.Driver] -     1) List all Mutations     Apr-25-21 Sunday EDT 18:28:36
+{INFO} - [com.revature.driver.Driver] -     2) Add Mutations     Apr-25-21 Sunday EDT 18:28:36
+{INFO} - [com.revature.driver.Driver] -     3) Remove Mutations     Apr-25-21 Sunday EDT 18:28:36
+{INFO} - [com.revature.driver.Driver] -     4) Edit Mutations     Apr-25-21 Sunday EDT 18:28:36
+{INFO} - [com.revature.driver.Driver] -     5) Return     Apr-25-21 Sunday EDT 18:28:36
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:28:36
+{INFO} - [com.revature.driver.Driver] -     This is to edit Mutations     Apr-25-21 Sunday EDT 18:28:37
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 18:28:37
+{INFO} - [com.revature.driver.Driver] -     Select from the following to manage Mutations:     Apr-25-21 Sunday EDT 18:28:37
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:28:37
+{INFO} - [com.revature.driver.Driver] -     1) List all Mutations     Apr-25-21 Sunday EDT 18:28:37
+{INFO} - [com.revature.driver.Driver] -     2) Add Mutations     Apr-25-21 Sunday EDT 18:28:37
+{INFO} - [com.revature.driver.Driver] -     3) Remove Mutations     Apr-25-21 Sunday EDT 18:28:37
+{INFO} - [com.revature.driver.Driver] -     4) Edit Mutations     Apr-25-21 Sunday EDT 18:28:37
+{INFO} - [com.revature.driver.Driver] -     5) Return     Apr-25-21 Sunday EDT 18:28:37
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:28:37
+{INFO} - [com.revature.driver.Driver] -     Returning to Inventory Management Menu     Apr-25-21 Sunday EDT 18:28:39
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:28:39
+{INFO} - [com.revature.driver.Driver] -     Select from the following to manage Habitats:     Apr-25-21 Sunday EDT 18:28:39
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:28:39
+{INFO} - [com.revature.driver.Driver] -     1) List all Habitats     Apr-25-21 Sunday EDT 18:28:39
+{INFO} - [com.revature.driver.Driver] -     2) Add Habitats     Apr-25-21 Sunday EDT 18:28:39
+{INFO} - [com.revature.driver.Driver] -     3) Remove Habitats     Apr-25-21 Sunday EDT 18:28:39
+{INFO} - [com.revature.driver.Driver] -     4) Edit Habitats     Apr-25-21 Sunday EDT 18:28:39
+{INFO} - [com.revature.driver.Driver] -     5) Return     Apr-25-21 Sunday EDT 18:28:39
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:28:39
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 18:30:52
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-25-21 Sunday EDT 18:30:52
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 18:30:52
+{INFO} - [com.revature.driver.Driver] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     Apr-25-21 Sunday EDT 18:30:52
+{INFO} - [com.revature.driver.Driver] -     All of our mutations are safetly lab grown using patented state of the art technology     Apr-25-21 Sunday EDT 18:30:52
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 18:30:52
+{INFO} - [com.revature.driver.Driver] -     Proceed by selecting one of the options below:     Apr-25-21 Sunday EDT 18:30:52
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:30:52
+{INFO} - [com.revature.driver.Driver] -     1) Browse as Guest     Apr-25-21 Sunday EDT 18:30:52
+{INFO} - [com.revature.driver.Driver] -     2) Customer Login & Registration     Apr-25-21 Sunday EDT 18:30:52
+{INFO} - [com.revature.driver.Driver] -     3) Employee Login     Apr-25-21 Sunday EDT 18:30:52
+{INFO} - [com.revature.driver.Driver] -     4) Exit App     Apr-25-21 Sunday EDT 18:30:52
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:30:52
+{INFO} - [com.revature.driver.Driver] -     
+===========================     Apr-25-21 Sunday EDT 18:31:05
+{INFO} - [com.revature.driver.Driver] -     Welcome to Employee Login     Apr-25-21 Sunday EDT 18:31:05
+{INFO} - [com.revature.driver.Driver] -     ===========================     Apr-25-21 Sunday EDT 18:31:05
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:31:05
+{INFO} - [com.revature.driver.Driver] -     Welcome back! What will you be doing today?     Apr-25-21 Sunday EDT 18:31:05
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:31:05
+{INFO} - [com.revature.driver.Driver] -     1) Manage Inventory     Apr-25-21 Sunday EDT 18:31:05
+{INFO} - [com.revature.driver.Driver] -     2) View Mutation Bids     Apr-25-21 Sunday EDT 18:31:05
+{INFO} - [com.revature.driver.Driver] -     3) View Sales History     Apr-25-21 Sunday EDT 18:31:05
+{INFO} - [com.revature.driver.Driver] -     4) Manager Operations     Apr-25-21 Sunday EDT 18:31:05
+{INFO} - [com.revature.driver.Driver] -     5) Log Out     Apr-25-21 Sunday EDT 18:31:05
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:31:05
+{INFO} - [com.revature.driver.Driver] -     
+======================================     Apr-25-21 Sunday EDT 18:31:09
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Inventory Management Menu     Apr-25-21 Sunday EDT 18:31:09
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:31:09
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 18:31:09
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 18:31:09
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 18:31:09
+{INFO} - [com.revature.driver.Driver] -     4) Return     Apr-25-21 Sunday EDT 18:31:09
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:31:09
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 18:31:11
+{INFO} - [com.revature.driver.Driver] -     Select from the following to manage Mutations:     Apr-25-21 Sunday EDT 18:31:11
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:31:11
+{INFO} - [com.revature.driver.Driver] -     1) List all Mutations     Apr-25-21 Sunday EDT 18:31:11
+{INFO} - [com.revature.driver.Driver] -     2) Add Mutations     Apr-25-21 Sunday EDT 18:31:11
+{INFO} - [com.revature.driver.Driver] -     3) Remove Mutations     Apr-25-21 Sunday EDT 18:31:11
+{INFO} - [com.revature.driver.Driver] -     4) Edit Mutations     Apr-25-21 Sunday EDT 18:31:11
+{INFO} - [com.revature.driver.Driver] -     5) Return     Apr-25-21 Sunday EDT 18:31:11
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:31:11
+{INFO} - [com.revature.driver.Driver] -     Returning to Inventory Management Menu     Apr-25-21 Sunday EDT 18:31:13
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:31:13
+{INFO} - [com.revature.driver.Driver] -     Select from the following to manage Habitats:     Apr-25-21 Sunday EDT 18:31:13
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:31:13
+{INFO} - [com.revature.driver.Driver] -     1) List all Habitats     Apr-25-21 Sunday EDT 18:31:13
+{INFO} - [com.revature.driver.Driver] -     2) Add Habitats     Apr-25-21 Sunday EDT 18:31:13
+{INFO} - [com.revature.driver.Driver] -     3) Remove Habitats     Apr-25-21 Sunday EDT 18:31:13
+{INFO} - [com.revature.driver.Driver] -     4) Edit Habitats     Apr-25-21 Sunday EDT 18:31:13
+{INFO} - [com.revature.driver.Driver] -     5) Return     Apr-25-21 Sunday EDT 18:31:13
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:31:13
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 18:33:00
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-25-21 Sunday EDT 18:33:00
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 18:33:00
+{INFO} - [com.revature.driver.Driver] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     Apr-25-21 Sunday EDT 18:33:00
+{INFO} - [com.revature.driver.Driver] -     All of our mutations are safetly lab grown using patented state of the art technology     Apr-25-21 Sunday EDT 18:33:00
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 18:33:00
+{INFO} - [com.revature.driver.Driver] -     Proceed by selecting one of the options below:     Apr-25-21 Sunday EDT 18:33:00
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:33:00
+{INFO} - [com.revature.driver.Driver] -     1) Browse as Guest     Apr-25-21 Sunday EDT 18:33:00
+{INFO} - [com.revature.driver.Driver] -     2) Customer Login & Registration     Apr-25-21 Sunday EDT 18:33:00
+{INFO} - [com.revature.driver.Driver] -     3) Employee Login     Apr-25-21 Sunday EDT 18:33:00
+{INFO} - [com.revature.driver.Driver] -     4) Exit App     Apr-25-21 Sunday EDT 18:33:00
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:33:00
+{INFO} - [com.revature.driver.Driver] -     
+===========================     Apr-25-21 Sunday EDT 18:33:29
+{INFO} - [com.revature.driver.Driver] -     Welcome to Employee Login     Apr-25-21 Sunday EDT 18:33:29
+{INFO} - [com.revature.driver.Driver] -     ===========================     Apr-25-21 Sunday EDT 18:33:29
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:33:29
+{INFO} - [com.revature.driver.Driver] -     Welcome back! What will you be doing today?     Apr-25-21 Sunday EDT 18:33:29
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:33:29
+{INFO} - [com.revature.driver.Driver] -     1) Manage Inventory     Apr-25-21 Sunday EDT 18:33:29
+{INFO} - [com.revature.driver.Driver] -     2) View Mutation Bids     Apr-25-21 Sunday EDT 18:33:29
+{INFO} - [com.revature.driver.Driver] -     3) View Sales History     Apr-25-21 Sunday EDT 18:33:29
+{INFO} - [com.revature.driver.Driver] -     4) Manager Operations     Apr-25-21 Sunday EDT 18:33:29
+{INFO} - [com.revature.driver.Driver] -     5) Log Out     Apr-25-21 Sunday EDT 18:33:29
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:33:29
+{INFO} - [com.revature.driver.Driver] -     
+======================================     Apr-25-21 Sunday EDT 18:33:32
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Inventory Management Menu     Apr-25-21 Sunday EDT 18:33:32
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:33:32
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 18:33:32
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 18:33:32
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 18:33:32
+{INFO} - [com.revature.driver.Driver] -     4) Return     Apr-25-21 Sunday EDT 18:33:32
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:33:32
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 18:33:34
+{INFO} - [com.revature.driver.Driver] -     Select from the following to manage Mutations:     Apr-25-21 Sunday EDT 18:33:34
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:33:34
+{INFO} - [com.revature.driver.Driver] -     1) List all Mutations     Apr-25-21 Sunday EDT 18:33:34
+{INFO} - [com.revature.driver.Driver] -     2) Add Mutations     Apr-25-21 Sunday EDT 18:33:34
+{INFO} - [com.revature.driver.Driver] -     3) Remove Mutations     Apr-25-21 Sunday EDT 18:33:34
+{INFO} - [com.revature.driver.Driver] -     4) Edit Mutations     Apr-25-21 Sunday EDT 18:33:34
+{INFO} - [com.revature.driver.Driver] -     5) Return     Apr-25-21 Sunday EDT 18:33:34
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:33:34
+{INFO} - [com.revature.driver.Driver] -     Returning to Inventory Management Menu     Apr-25-21 Sunday EDT 18:33:37
+{INFO} - [com.revature.driver.Driver] -     
+======================================     Apr-25-21 Sunday EDT 18:33:37
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Inventory Management Menu     Apr-25-21 Sunday EDT 18:33:37
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:33:37
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 18:33:37
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 18:33:37
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 18:33:37
+{INFO} - [com.revature.driver.Driver] -     4) Return     Apr-25-21 Sunday EDT 18:33:37
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:33:37
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:33:39
+{INFO} - [com.revature.driver.Driver] -     Select from the following to manage Habitats:     Apr-25-21 Sunday EDT 18:33:39
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:33:39
+{INFO} - [com.revature.driver.Driver] -     1) List all Habitats     Apr-25-21 Sunday EDT 18:33:39
+{INFO} - [com.revature.driver.Driver] -     2) Add Habitats     Apr-25-21 Sunday EDT 18:33:39
+{INFO} - [com.revature.driver.Driver] -     3) Remove Habitats     Apr-25-21 Sunday EDT 18:33:39
+{INFO} - [com.revature.driver.Driver] -     4) Edit Habitats     Apr-25-21 Sunday EDT 18:33:39
+{INFO} - [com.revature.driver.Driver] -     5) Return     Apr-25-21 Sunday EDT 18:33:39
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:33:39
+{INFO} - [com.revature.driver.Driver] -     This is to List all Habitats     Apr-25-21 Sunday EDT 18:33:41
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:33:41
+{INFO} - [com.revature.driver.Driver] -     Select from the following to manage Habitats:     Apr-25-21 Sunday EDT 18:33:41
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:33:41
+{INFO} - [com.revature.driver.Driver] -     1) List all Habitats     Apr-25-21 Sunday EDT 18:33:41
+{INFO} - [com.revature.driver.Driver] -     2) Add Habitats     Apr-25-21 Sunday EDT 18:33:41
+{INFO} - [com.revature.driver.Driver] -     3) Remove Habitats     Apr-25-21 Sunday EDT 18:33:41
+{INFO} - [com.revature.driver.Driver] -     4) Edit Habitats     Apr-25-21 Sunday EDT 18:33:41
+{INFO} - [com.revature.driver.Driver] -     5) Return     Apr-25-21 Sunday EDT 18:33:41
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:33:41
+{INFO} - [com.revature.driver.Driver] -     This is to add Habitats     Apr-25-21 Sunday EDT 18:33:43
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:33:43
+{INFO} - [com.revature.driver.Driver] -     Select from the following to manage Habitats:     Apr-25-21 Sunday EDT 18:33:43
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:33:43
+{INFO} - [com.revature.driver.Driver] -     1) List all Habitats     Apr-25-21 Sunday EDT 18:33:43
+{INFO} - [com.revature.driver.Driver] -     2) Add Habitats     Apr-25-21 Sunday EDT 18:33:43
+{INFO} - [com.revature.driver.Driver] -     3) Remove Habitats     Apr-25-21 Sunday EDT 18:33:43
+{INFO} - [com.revature.driver.Driver] -     4) Edit Habitats     Apr-25-21 Sunday EDT 18:33:43
+{INFO} - [com.revature.driver.Driver] -     5) Return     Apr-25-21 Sunday EDT 18:33:43
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:33:43
+{INFO} - [com.revature.driver.Driver] -     This is to remove Habitats     Apr-25-21 Sunday EDT 18:33:45
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:33:45
+{INFO} - [com.revature.driver.Driver] -     Select from the following to manage Habitats:     Apr-25-21 Sunday EDT 18:33:45
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:33:45
+{INFO} - [com.revature.driver.Driver] -     1) List all Habitats     Apr-25-21 Sunday EDT 18:33:45
+{INFO} - [com.revature.driver.Driver] -     2) Add Habitats     Apr-25-21 Sunday EDT 18:33:45
+{INFO} - [com.revature.driver.Driver] -     3) Remove Habitats     Apr-25-21 Sunday EDT 18:33:45
+{INFO} - [com.revature.driver.Driver] -     4) Edit Habitats     Apr-25-21 Sunday EDT 18:33:45
+{INFO} - [com.revature.driver.Driver] -     5) Return     Apr-25-21 Sunday EDT 18:33:45
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:33:45
+{INFO} - [com.revature.driver.Driver] -     This is to edit Habitats     Apr-25-21 Sunday EDT 18:33:46
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:33:46
+{INFO} - [com.revature.driver.Driver] -     Select from the following to manage Habitats:     Apr-25-21 Sunday EDT 18:33:46
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:33:46
+{INFO} - [com.revature.driver.Driver] -     1) List all Habitats     Apr-25-21 Sunday EDT 18:33:46
+{INFO} - [com.revature.driver.Driver] -     2) Add Habitats     Apr-25-21 Sunday EDT 18:33:46
+{INFO} - [com.revature.driver.Driver] -     3) Remove Habitats     Apr-25-21 Sunday EDT 18:33:46
+{INFO} - [com.revature.driver.Driver] -     4) Edit Habitats     Apr-25-21 Sunday EDT 18:33:46
+{INFO} - [com.revature.driver.Driver] -     5) Return     Apr-25-21 Sunday EDT 18:33:46
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:33:46
+{INFO} - [com.revature.driver.Driver] -     Returning to Inventory Management Menu     Apr-25-21 Sunday EDT 18:33:48
+{INFO} - [com.revature.driver.Driver] -     
+======================================     Apr-25-21 Sunday EDT 18:33:48
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Inventory Management Menu     Apr-25-21 Sunday EDT 18:33:48
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:33:48
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 18:33:48
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 18:33:48
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 18:33:48
+{INFO} - [com.revature.driver.Driver] -     4) Return     Apr-25-21 Sunday EDT 18:33:48
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:33:48
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:33:50
+{INFO} - [com.revature.driver.Driver] -     Select from the following to manage Feeders:     Apr-25-21 Sunday EDT 18:33:50
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:33:50
+{INFO} - [com.revature.driver.Driver] -     1) List all Feeders     Apr-25-21 Sunday EDT 18:33:50
+{INFO} - [com.revature.driver.Driver] -     2) Add Feeders     Apr-25-21 Sunday EDT 18:33:50
+{INFO} - [com.revature.driver.Driver] -     3) Remove Feeders     Apr-25-21 Sunday EDT 18:33:50
+{INFO} - [com.revature.driver.Driver] -     4) Edit Feeders     Apr-25-21 Sunday EDT 18:33:50
+{INFO} - [com.revature.driver.Driver] -     5) Return     Apr-25-21 Sunday EDT 18:33:50
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:33:50
+{INFO} - [com.revature.driver.Driver] -     This is to List all Feeders     Apr-25-21 Sunday EDT 18:33:51
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:33:51
+{INFO} - [com.revature.driver.Driver] -     Select from the following to manage Feeders:     Apr-25-21 Sunday EDT 18:33:51
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:33:51
+{INFO} - [com.revature.driver.Driver] -     1) List all Feeders     Apr-25-21 Sunday EDT 18:33:51
+{INFO} - [com.revature.driver.Driver] -     2) Add Feeders     Apr-25-21 Sunday EDT 18:33:51
+{INFO} - [com.revature.driver.Driver] -     3) Remove Feeders     Apr-25-21 Sunday EDT 18:33:51
+{INFO} - [com.revature.driver.Driver] -     4) Edit Feeders     Apr-25-21 Sunday EDT 18:33:51
+{INFO} - [com.revature.driver.Driver] -     5) Return     Apr-25-21 Sunday EDT 18:33:51
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:33:51
+{INFO} - [com.revature.driver.Driver] -     This is to add Feeders     Apr-25-21 Sunday EDT 18:33:52
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:33:52
+{INFO} - [com.revature.driver.Driver] -     Select from the following to manage Feeders:     Apr-25-21 Sunday EDT 18:33:52
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:33:52
+{INFO} - [com.revature.driver.Driver] -     1) List all Feeders     Apr-25-21 Sunday EDT 18:33:52
+{INFO} - [com.revature.driver.Driver] -     2) Add Feeders     Apr-25-21 Sunday EDT 18:33:52
+{INFO} - [com.revature.driver.Driver] -     3) Remove Feeders     Apr-25-21 Sunday EDT 18:33:52
+{INFO} - [com.revature.driver.Driver] -     4) Edit Feeders     Apr-25-21 Sunday EDT 18:33:52
+{INFO} - [com.revature.driver.Driver] -     5) Return     Apr-25-21 Sunday EDT 18:33:52
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:33:52
+{INFO} - [com.revature.driver.Driver] -     This is to remove Feeders     Apr-25-21 Sunday EDT 18:33:54
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:33:54
+{INFO} - [com.revature.driver.Driver] -     Select from the following to manage Feeders:     Apr-25-21 Sunday EDT 18:33:54
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:33:54
+{INFO} - [com.revature.driver.Driver] -     1) List all Feeders     Apr-25-21 Sunday EDT 18:33:54
+{INFO} - [com.revature.driver.Driver] -     2) Add Feeders     Apr-25-21 Sunday EDT 18:33:54
+{INFO} - [com.revature.driver.Driver] -     3) Remove Feeders     Apr-25-21 Sunday EDT 18:33:54
+{INFO} - [com.revature.driver.Driver] -     4) Edit Feeders     Apr-25-21 Sunday EDT 18:33:54
+{INFO} - [com.revature.driver.Driver] -     5) Return     Apr-25-21 Sunday EDT 18:33:54
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:33:54
+{INFO} - [com.revature.driver.Driver] -     This is to edit Feeders     Apr-25-21 Sunday EDT 18:33:56
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:33:56
+{INFO} - [com.revature.driver.Driver] -     Select from the following to manage Feeders:     Apr-25-21 Sunday EDT 18:33:56
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:33:56
+{INFO} - [com.revature.driver.Driver] -     1) List all Feeders     Apr-25-21 Sunday EDT 18:33:56
+{INFO} - [com.revature.driver.Driver] -     2) Add Feeders     Apr-25-21 Sunday EDT 18:33:56
+{INFO} - [com.revature.driver.Driver] -     3) Remove Feeders     Apr-25-21 Sunday EDT 18:33:56
+{INFO} - [com.revature.driver.Driver] -     4) Edit Feeders     Apr-25-21 Sunday EDT 18:33:56
+{INFO} - [com.revature.driver.Driver] -     5) Return     Apr-25-21 Sunday EDT 18:33:56
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:33:56
+{INFO} - [com.revature.driver.Driver] -     Returning to Inventory Management Menu     Apr-25-21 Sunday EDT 18:33:58
+{INFO} - [com.revature.driver.Driver] -     
+======================================     Apr-25-21 Sunday EDT 18:33:58
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Inventory Management Menu     Apr-25-21 Sunday EDT 18:33:58
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:33:58
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 18:33:58
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 18:33:58
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 18:33:58
+{INFO} - [com.revature.driver.Driver] -     4) Return     Apr-25-21 Sunday EDT 18:33:58
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:33:58
+{INFO} - [com.revature.driver.Driver] -     Returning to Employee Menu     Apr-25-21 Sunday EDT 18:34:00
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:34:00
+{INFO} - [com.revature.driver.Driver] -     Welcome back! What will you be doing today?     Apr-25-21 Sunday EDT 18:34:00
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:34:00
+{INFO} - [com.revature.driver.Driver] -     1) Manage Inventory     Apr-25-21 Sunday EDT 18:34:00
+{INFO} - [com.revature.driver.Driver] -     2) View Mutation Bids     Apr-25-21 Sunday EDT 18:34:00
+{INFO} - [com.revature.driver.Driver] -     3) View Sales History     Apr-25-21 Sunday EDT 18:34:00
+{INFO} - [com.revature.driver.Driver] -     4) Manager Operations     Apr-25-21 Sunday EDT 18:34:00
+{INFO} - [com.revature.driver.Driver] -     5) Log Out     Apr-25-21 Sunday EDT 18:34:00
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:34:00
+{INFO} - [com.revature.driver.Driver] -     
+======================================     Apr-25-21 Sunday EDT 18:34:03
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Inventory Management Menu     Apr-25-21 Sunday EDT 18:34:03
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:34:03
+{INFO} - [com.revature.driver.Driver] -     1) Mutations     Apr-25-21 Sunday EDT 18:34:03
+{INFO} - [com.revature.driver.Driver] -     2) Habitats     Apr-25-21 Sunday EDT 18:34:03
+{INFO} - [com.revature.driver.Driver] -     3) Feeders     Apr-25-21 Sunday EDT 18:34:03
+{INFO} - [com.revature.driver.Driver] -     4) Return     Apr-25-21 Sunday EDT 18:34:03
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:34:03
+{INFO} - [com.revature.driver.Driver] -     Returning to Employee Menu     Apr-25-21 Sunday EDT 18:34:08
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:34:08
+{INFO} - [com.revature.driver.Driver] -     Welcome back! What will you be doing today?     Apr-25-21 Sunday EDT 18:34:08
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:34:08
+{INFO} - [com.revature.driver.Driver] -     1) Manage Inventory     Apr-25-21 Sunday EDT 18:34:08
+{INFO} - [com.revature.driver.Driver] -     2) View Mutation Bids     Apr-25-21 Sunday EDT 18:34:08
+{INFO} - [com.revature.driver.Driver] -     3) View Sales History     Apr-25-21 Sunday EDT 18:34:08
+{INFO} - [com.revature.driver.Driver] -     4) Manager Operations     Apr-25-21 Sunday EDT 18:34:08
+{INFO} - [com.revature.driver.Driver] -     5) Log Out     Apr-25-21 Sunday EDT 18:34:08
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:34:08
+{INFO} - [com.revature.driver.Driver] -     This is to view and approve bids     Apr-25-21 Sunday EDT 18:34:10
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:34:10
+{INFO} - [com.revature.driver.Driver] -     Welcome back! What will you be doing today?     Apr-25-21 Sunday EDT 18:34:10
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:34:10
+{INFO} - [com.revature.driver.Driver] -     1) Manage Inventory     Apr-25-21 Sunday EDT 18:34:10
+{INFO} - [com.revature.driver.Driver] -     2) View Mutation Bids     Apr-25-21 Sunday EDT 18:34:10
+{INFO} - [com.revature.driver.Driver] -     3) View Sales History     Apr-25-21 Sunday EDT 18:34:10
+{INFO} - [com.revature.driver.Driver] -     4) Manager Operations     Apr-25-21 Sunday EDT 18:34:10
+{INFO} - [com.revature.driver.Driver] -     5) Log Out     Apr-25-21 Sunday EDT 18:34:10
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:34:10
+{INFO} - [com.revature.driver.Driver] -     This is to Enter Mananger Privileges     Apr-25-21 Sunday EDT 18:34:16
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:34:16
+{INFO} - [com.revature.driver.Driver] -     Welcome Manager! What will you be doing today?     Apr-25-21 Sunday EDT 18:34:16
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:34:16
+{INFO} - [com.revature.driver.Driver] -     1) Create Employee     Apr-25-21 Sunday EDT 18:34:16
+{INFO} - [com.revature.driver.Driver] -     2) Terminate Employee     Apr-25-21 Sunday EDT 18:34:16
+{INFO} - [com.revature.driver.Driver] -     3) Sales History     Apr-25-21 Sunday EDT 18:34:16
+{INFO} - [com.revature.driver.Driver] -     4) Return     Apr-25-21 Sunday EDT 18:34:16
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:34:16
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 18:35:07
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-25-21 Sunday EDT 18:35:07
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 18:35:07
+{INFO} - [com.revature.driver.Driver] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     Apr-25-21 Sunday EDT 18:35:07
+{INFO} - [com.revature.driver.Driver] -     All of our mutations are safetly lab grown using patented state of the art technology     Apr-25-21 Sunday EDT 18:35:07
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 18:35:07
+{INFO} - [com.revature.driver.Driver] -     Proceed by selecting one of the options below:     Apr-25-21 Sunday EDT 18:35:07
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:35:07
+{INFO} - [com.revature.driver.Driver] -     1) Browse as Guest     Apr-25-21 Sunday EDT 18:35:07
+{INFO} - [com.revature.driver.Driver] -     2) Customer Login & Registration     Apr-25-21 Sunday EDT 18:35:07
+{INFO} - [com.revature.driver.Driver] -     3) Employee Login     Apr-25-21 Sunday EDT 18:35:07
+{INFO} - [com.revature.driver.Driver] -     4) Exit App     Apr-25-21 Sunday EDT 18:35:07
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:35:07
+{INFO} - [com.revature.driver.Driver] -     
+===========================     Apr-25-21 Sunday EDT 18:35:43
+{INFO} - [com.revature.driver.Driver] -     Welcome to Employee Login     Apr-25-21 Sunday EDT 18:35:43
+{INFO} - [com.revature.driver.Driver] -     ===========================     Apr-25-21 Sunday EDT 18:35:43
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:35:43
+{INFO} - [com.revature.driver.Driver] -     Welcome back! What will you be doing today?     Apr-25-21 Sunday EDT 18:35:43
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:35:43
+{INFO} - [com.revature.driver.Driver] -     1) Manage Inventory     Apr-25-21 Sunday EDT 18:35:43
+{INFO} - [com.revature.driver.Driver] -     2) View Mutation Bids     Apr-25-21 Sunday EDT 18:35:43
+{INFO} - [com.revature.driver.Driver] -     3) Manager Operations     Apr-25-21 Sunday EDT 18:35:43
+{INFO} - [com.revature.driver.Driver] -     4) Log Out     Apr-25-21 Sunday EDT 18:35:43
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:35:43
+{INFO} - [com.revature.driver.Driver] -     This is to Enter Mananger Privileges     Apr-25-21 Sunday EDT 18:35:51
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:35:51
+{INFO} - [com.revature.driver.Driver] -     Welcome Manager! What will you be doing today?     Apr-25-21 Sunday EDT 18:35:51
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:35:51
+{INFO} - [com.revature.driver.Driver] -     1) Create Employee     Apr-25-21 Sunday EDT 18:35:51
+{INFO} - [com.revature.driver.Driver] -     2) Terminate Employee     Apr-25-21 Sunday EDT 18:35:51
+{INFO} - [com.revature.driver.Driver] -     3) Sales History     Apr-25-21 Sunday EDT 18:35:51
+{INFO} - [com.revature.driver.Driver] -     4) Return     Apr-25-21 Sunday EDT 18:35:51
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:35:51
+{INFO} - [com.revature.driver.Driver] -     This is to Create Employee     Apr-25-21 Sunday EDT 18:35:54
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:35:54
+{INFO} - [com.revature.driver.Driver] -     Welcome Manager! What will you be doing today?     Apr-25-21 Sunday EDT 18:35:54
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:35:54
+{INFO} - [com.revature.driver.Driver] -     1) Create Employee     Apr-25-21 Sunday EDT 18:35:54
+{INFO} - [com.revature.driver.Driver] -     2) Terminate Employee     Apr-25-21 Sunday EDT 18:35:54
+{INFO} - [com.revature.driver.Driver] -     3) Sales History     Apr-25-21 Sunday EDT 18:35:54
+{INFO} - [com.revature.driver.Driver] -     4) Return     Apr-25-21 Sunday EDT 18:35:54
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:35:54
+{INFO} - [com.revature.driver.Driver] -     This is to Terminate Employee     Apr-25-21 Sunday EDT 18:35:56
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:35:56
+{INFO} - [com.revature.driver.Driver] -     Welcome Manager! What will you be doing today?     Apr-25-21 Sunday EDT 18:35:56
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:35:56
+{INFO} - [com.revature.driver.Driver] -     1) Create Employee     Apr-25-21 Sunday EDT 18:35:56
+{INFO} - [com.revature.driver.Driver] -     2) Terminate Employee     Apr-25-21 Sunday EDT 18:35:56
+{INFO} - [com.revature.driver.Driver] -     3) Sales History     Apr-25-21 Sunday EDT 18:35:56
+{INFO} - [com.revature.driver.Driver] -     4) Return     Apr-25-21 Sunday EDT 18:35:56
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:35:56
+{INFO} - [com.revature.driver.Driver] -     This is to View Sales History     Apr-25-21 Sunday EDT 18:35:58
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:35:58
+{INFO} - [com.revature.driver.Driver] -     Welcome Manager! What will you be doing today?     Apr-25-21 Sunday EDT 18:35:58
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:35:58
+{INFO} - [com.revature.driver.Driver] -     1) Create Employee     Apr-25-21 Sunday EDT 18:35:58
+{INFO} - [com.revature.driver.Driver] -     2) Terminate Employee     Apr-25-21 Sunday EDT 18:35:58
+{INFO} - [com.revature.driver.Driver] -     3) Sales History     Apr-25-21 Sunday EDT 18:35:58
+{INFO} - [com.revature.driver.Driver] -     4) Return     Apr-25-21 Sunday EDT 18:35:58
+{INFO} - [com.revature.driver.Driver] -     ======================================     Apr-25-21 Sunday EDT 18:35:58
+{INFO} - [com.revature.driver.Driver] -     Returning to Employee Menu     Apr-25-21 Sunday EDT 18:35:59
+{INFO} - [com.revature.driver.Driver] -     
+=============================================     Apr-25-21 Sunday EDT 18:35:59
+{INFO} - [com.revature.driver.Driver] -     Welcome back! What will you be doing today?     Apr-25-21 Sunday EDT 18:35:59
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:35:59
+{INFO} - [com.revature.driver.Driver] -     1) Manage Inventory     Apr-25-21 Sunday EDT 18:35:59
+{INFO} - [com.revature.driver.Driver] -     2) View Mutation Bids     Apr-25-21 Sunday EDT 18:35:59
+{INFO} - [com.revature.driver.Driver] -     3) Manager Operations     Apr-25-21 Sunday EDT 18:35:59
+{INFO} - [com.revature.driver.Driver] -     4) Log Out     Apr-25-21 Sunday EDT 18:35:59
+{INFO} - [com.revature.driver.Driver] -     =============================================     Apr-25-21 Sunday EDT 18:35:59
+{INFO} - [com.revature.driver.Driver] -     Logging Out     Apr-25-21 Sunday EDT 18:36:01
+{INFO} - [com.revature.driver.Driver] -     
+==============================================     Apr-25-21 Sunday EDT 18:36:01
+{INFO} - [com.revature.driver.Driver] -     Welcome to the Radioctive Reptiles App V1.0!     Apr-25-21 Sunday EDT 18:36:01
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 18:36:01
+{INFO} - [com.revature.driver.Driver] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     Apr-25-21 Sunday EDT 18:36:01
+{INFO} - [com.revature.driver.Driver] -     All of our mutations are safetly lab grown using patented state of the art technology     Apr-25-21 Sunday EDT 18:36:01
+{INFO} - [com.revature.driver.Driver] -     =============================================================================================     Apr-25-21 Sunday EDT 18:36:01
+{INFO} - [com.revature.driver.Driver] -     Proceed by selecting one of the options below:     Apr-25-21 Sunday EDT 18:36:01
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:36:01
+{INFO} - [com.revature.driver.Driver] -     1) Browse as Guest     Apr-25-21 Sunday EDT 18:36:01
+{INFO} - [com.revature.driver.Driver] -     2) Customer Login & Registration     Apr-25-21 Sunday EDT 18:36:01
+{INFO} - [com.revature.driver.Driver] -     3) Employee Login     Apr-25-21 Sunday EDT 18:36:01
+{INFO} - [com.revature.driver.Driver] -     4) Exit App     Apr-25-21 Sunday EDT 18:36:01
+{INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:36:01
+{INFO} - [com.revature.driver.Driver] -     Thank you for Supporting the Radioactive Reptiles Family!     Apr-25-21 Sunday EDT 18:36:08
