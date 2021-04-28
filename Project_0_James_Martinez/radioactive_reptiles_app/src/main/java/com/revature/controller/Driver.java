@@ -1,4 +1,4 @@
-package com.revature.driver;
+package com.revature.controller;
 
 import java.util.Scanner;
 
@@ -46,7 +46,7 @@ public class Driver {
 					log.info("2) Amphibious Mutations");
 					log.info("3) Aquatic Mutations");
 					log.info("4) Hybrid Mutations");
-					log.info("5) Plant Mutations");
+					log.info("5) Flora Mutations");
 					log.info("6) Exit");
 					log.info("==============================================");
 					try {
@@ -84,7 +84,7 @@ public class Driver {
 						log.info("This is for the Hybrid Mutations Menu");
 						break;
 					case 5:
-						log.info("This is for the Plant Mutations Menu");
+						log.info("This is for the Flora Mutations Menu");
 						break;
 					case 6:
 						log.info("Exiting Browse as Guest");
@@ -129,7 +129,8 @@ public class Driver {
 					log.info("1) Mutations");
 					log.info("2) Habitats");
 					log.info("3) Feeders");
-					log.info("4) Log out");
+					log.info("4) My Purchases");
+					log.info("5) Log out");
 					log.info("==================================");
 					try {
 						subOption=Integer.parseInt(scan.nextLine());
@@ -146,7 +147,7 @@ public class Driver {
 							log.info("2) Amphibious Mutations");
 							log.info("3) Aquatic Mutations");
 							log.info("4) Hybrid Mutations");
-							log.info("5) Plant Mutations");
+							log.info("5) Flora Mutations");
 							log.info("6) Exit");
 							log.info("==============================================");
 							try {
@@ -167,7 +168,7 @@ public class Driver {
 								log.info("This is for the Hybrid Mutations Menu CHOOSE MUTATION BY ID");
 								break;
 							case 5:
-								log.info("This is for the Plant Mutations Menu CHOOSE MUTATION BY ID");
+								log.info("This is for the Flora Mutations Menu CHOOSE MUTATION BY ID");
 								break;
 							case 6:
 								log.info("Exiting to Inventory Menu");
@@ -256,16 +257,21 @@ public class Driver {
 //						}while(subOption3 !=4);
 						
 						break;
+						
 					case 4:
+						log.info("This is to view my purchases and make payments");
+						break;
+						
+					case 5:
 						log.info("Logging out thank you for supporting the RR family!");
 						break;
 
 					default:
-						log.warn("Please choose only an option between 1-4");
+						log.warn("Please choose only an option between 1-5");
 						break;
 					}
 					
-					}while(subOption!= 4);
+					}while(subOption!= 5);
 					
 					break;
 				case 2:
