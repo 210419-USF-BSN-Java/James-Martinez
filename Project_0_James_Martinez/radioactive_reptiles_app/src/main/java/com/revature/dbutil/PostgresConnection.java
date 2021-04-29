@@ -13,16 +13,18 @@ private static Connection connection;
 	}
 
 	public static Connection getConnection() throws ClassNotFoundException, SQLException {
-	//	if (connection == null) {
+	
 			Class.forName("org.postgresql.Driver");
 			String url = "jdbc:postgresql://localhost:5432/postgres";
 			String username = "postgres";
 			String password = "Sacrifices2198*";
 			connection = DriverManager.getConnection(url, username, password);
 			return connection;
-		//} else {
+        // if (connection == null || connection.isClosed) {
+		//	connection = DriverManager.getConnection(url, username, password);
+		// } 
 		//	return connection;
-		//}
+		//
 	}
 
 }

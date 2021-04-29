@@ -1,5 +1,20 @@
 package com.revature.exception;
 
-public class PaymentException {
+public class PaymentException extends Exception{
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+	public PaymentException() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public PaymentException(String message) {
+		super(message);
+		// TODO Auto-generated constructor stub
+	}
 
 }

@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 import org.apache.log4j.Logger;
 
-public class Driver {
+public class FrontController {
 
-	private static Logger log=Logger.getLogger(Driver.class);
+	private static Logger log=Logger.getLogger(FrontController.class);
 
 	public static void main(String[] args) {
 		
@@ -56,23 +56,6 @@ public class Driver {
 					switch(option0) {
 					case 1:
 						log.info("This is for the Reptilian Mutations Menu"); // CHOOSE MUTATIONS BY ID
-//						int option01 = 0;
-//						do {
-//							log.info("\n===============================================================");
-//							log.info("Choose one of the following mutations to learn more about it");
-//							log.info("===============================================================");
-//							log.info("1) Hydra");
-//							log.info("1) Ouroboros");
-//							log.info("1) Quetzalcoatl");
-//							log.info("1) Great Dragon");
-//							log.info("1) Sky Dragon");
-//							log.info("1) Baby Sitter Dragon");
-//							log.info("1) Dune Dragon");
-//							log.info("1) ");
-//							log.info("1) Hydra");
-//							log.info("1) Hydra");
-//							
-//						}while(option01!=10);
 						break;
 					case 2:
 						log.info("This is for the Amphibious Mutations Menu");
