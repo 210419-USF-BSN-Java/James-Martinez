@@ -32,4 +32,22 @@ public class MutationDAOImpl implements MutationDAO{
 		return null;
 	}
 
+	@Override
+	public String getMutationDescription(int mutationid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int setMutationDescription(String description) throws InventoryException {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public Mutation getMutationById(String mutationId) throws InventoryException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }

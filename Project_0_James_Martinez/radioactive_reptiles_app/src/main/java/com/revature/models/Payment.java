@@ -8,8 +8,10 @@ public class Payment implements Serializable{
 	/**
 	 * 
 	 */
-	private static final long serialVersionUID = 1L;
+	private static final long serialVersionUID = 1L; //addname maybe just change ids to name
 	
+	private int customerId;
+	private String name;
 	private float amount;
 	private Date dateTime;
 	
@@ -17,10 +19,28 @@ public class Payment implements Serializable{
 		
 	}
 
-	public Payment(float amount, Date dateTime) {
+	public Payment(int customerId, String name, float amount, Date dateTime) {
 		super();
+		this.customerId = customerId;
+		this.name = name;
 		this.amount = amount;
 		this.dateTime = dateTime;
+	}
+
+	public int getCustomerId() {
+		return customerId;
+	}
+
+	public void setCustomerId(int customerId) {
+		this.customerId = customerId;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
 	}
 
 	public float getAmount() {
@@ -44,7 +64,9 @@ public class Payment implements Serializable{
 		final int prime = 31;
 		int result = 1;
 		result = prime * result + Float.floatToIntBits(amount);
+		result = prime * result + customerId;
 		result = prime * result + ((dateTime == null) ? 0 : dateTime.hashCode());
+		result = prime * result + ((name == null) ? 0 : name.hashCode());
 		return result;
 	}
 
@@ -59,20 +81,28 @@ public class Payment implements Serializable{
 		Payment other = (Payment) obj;
 		if (Float.floatToIntBits(amount) != Float.floatToIntBits(other.amount))
 			return false;
+		if (customerId != other.customerId)
+			return false;
 		if (dateTime == null) {
 			if (other.dateTime != null)
 				return false;
 		} else if (!dateTime.equals(other.dateTime))
+			return false;
+		if (name == null) {
+			if (other.name != null)
+				return false;
+		} else if (!name.equals(other.name))
 			return false;
 		return true;
 	}
 
 	@Override
 	public String toString() {
-		return "Payment [amount=" + amount + ", dateTime=" + dateTime + "]";
+		return "Payment [customerId=" + customerId + ", name=" + name + ", amount=" + amount + ", dateTime=" + dateTime
+				+ "]";
 	}
 	
-	
+
 	
 	
 	

@@ -12,5 +12,9 @@ public interface MutationDAO {
 	public int editMutationById(String mutationId) throws InventoryException;
 	
 	public List<Mutation> listMutationByType(String mutationId) throws InventoryException;
+	
+	public String getMutationDescription(int mutationid);
+	public int setMutationDescription(String description) throws InventoryException;
+	public Mutation getMutationById(String mutationId) throws InventoryException;
 
 }

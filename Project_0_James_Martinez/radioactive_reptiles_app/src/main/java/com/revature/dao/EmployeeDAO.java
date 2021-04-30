@@ -16,5 +16,7 @@ public interface EmployeeDAO {
 	public Employee getEmployeeById(int empId) throws EntryNotFoundException;
 	
 	public boolean empLogin(String email, String password);
+	
+	
 
 }
