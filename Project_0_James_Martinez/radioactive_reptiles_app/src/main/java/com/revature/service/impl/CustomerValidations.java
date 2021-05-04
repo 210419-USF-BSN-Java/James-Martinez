@@ -34,6 +34,14 @@ public class CustomerValidations {
 		} else {
 			return false;
 		}
-
+		
+	}
+	public static boolean isValidCustLocation(String location) {
+		if (location != null && location.matches("[A-Za-z0-9 ]{3,25}")) {
+			return true;
+		} else {
+			return false;
+		}
+		
 	}
 }

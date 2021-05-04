@@ -10,7 +10,7 @@ public class EmployeeValidations {
 		}
 	}
 	
-	public static boolean isValidCustPassword(String password) {
+	public static boolean isValidPassword(String password) {
 		if (password != null && password.matches("^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)[a-zA-Z\\d]{8,}$")){ //  && password.length() >= 8) { 
 			return true;
 		} else {
@@ -19,7 +19,7 @@ public class EmployeeValidations {
 
 	}
 	
-	public static boolean isValidCustName(String name) {
+	public static boolean isValidName(String name) {
 		if (name != null && name.matches("[A-Za-z ]{3,25}")) {
 			return true;
 		} else {

@@ -1,15 +1,41 @@
 package com.revature.controller;
 
+import java.util.List;
 import java.util.Scanner;
 
 import org.apache.log4j.Logger;
+
+import com.revature.dao.CustomerDAO;
+import com.revature.dao.EmployeeDAO;
+import com.revature.dao.MutationDAO;
+import com.revature.dao.impl.CustomerDAOImpl;
+import com.revature.dao.impl.EmployeeDAOImpl;
+import com.revature.dao.impl.MutationDAOImpl;
+import com.revature.exception.EmptyDatabaseException;
+import com.revature.exception.EntryNotFoundException;
+import com.revature.exception.InventoryException;
+import com.revature.exception.RegistrationException;
+import com.revature.models.Customer;
+import com.revature.models.Employee;
+import com.revature.models.Mutation;
+import com.revature.service.CustomerService;
+import com.revature.service.EmployeeService;
+import com.revature.service.MutationService;
+import com.revature.service.impl.CustomerServiceImpl;
+import com.revature.service.impl.EmployeeServiceImpl;
+import com.revature.service.impl.MutationServiceImpl;
 
 public class FrontController {
 
 	private static Logger log=Logger.getLogger(FrontController.class);
 
 	public static void main(String[] args) {
-		
+		CustomerDAO custDAO = new CustomerDAOImpl();
+		EmployeeDAO empDAO = new EmployeeDAOImpl(); 
+		MutationDAO muteDAO = new MutationDAOImpl();
+		MutationService muteService = new MutationServiceImpl();
+		CustomerService custService = new CustomerServiceImpl();
+		EmployeeService empService = new EmployeeServiceImpl();
 		int outerOption = 0;
 		Scanner scan=new Scanner(System.in);
 		
@@ -54,6 +80,13 @@ public class FrontController {
 					String email=scan.nextLine();
 					log.info("Please enter your password");
 					String password=scan.nextLine();
+					
+					if(custDAO.custLogin(email, password) == false) {
+						log.warn("Email and Password do not match please try again");
+						break;
+					}
+					
+					int customerId = custDAO.getIdByEmailPassword(email, password);
 					                                                             
 					int subOption=0;
 					do{
@@ -61,7 +94,7 @@ public class FrontController {
 					log.info("Welcome back to Radioactive Reptiles!");                         //MAIN CUSTOMER MENU
 					log.info("What are you looking for today?");
 					log.info("=====================================");
-					log.info("1) Available Mutations");
+					log.info("1) Available Mutations");             //THIS COULD BE MORE EFFIECIENT 
 					log.info("2) Purchases and Payments");
 					log.info("3) My Mutation Offers"); 
 					log.info("4) Log out");
@@ -86,20 +119,133 @@ public class FrontController {
 							try {
 								subOption1=Integer.parseInt(scan.nextLine());
 							}catch(NumberFormatException e) {}
-							
+							List<Mutation> muteList;
+							String mutationId = null;
 							switch(subOption1) {
 							case 1:
-								log.info("This is for the Reptilian Mutations Menu CHOOSE MUTATION BY ID"); // CHOOSE MUTATIONS BY ID
-								// CHOOSE ID TO MAKE PURCHASE USE IF ELSE TO CONFIRM YES OR NO
+								mutationId = "MR";
+								try {
+									log.info("\nDisplaying Reptilian Mutations:");    
+									log.info("==============================================================================================================================");
+									muteList = muteDAO.listMutationByType(mutationId);
+									for(int i=0;i<muteList.size();i++) {
+										log.info(muteList.get(i));;
+									}
+									log.info("==============================================================================================================================");
+									log.info("\nPlease enter the Mutation ID to learn more");
+									String getId = scan.nextLine();
+									Mutation getMutation = muteService.getMutationById(getId);
+									log.info("\n"+getMutation);
+									
+									String description = muteDAO.getMutationDescription(getId);
+									log.info("Description: "+description);
+									
+									log.info("Would you like to make an offer?\n1)Yes\n2)Exit");
+									int offerChoice = Integer.parseInt(scan.nextLine());
+									if(offerChoice == 1) {
+										log.info("This is to make offer");               ///IMPLEMENT MAKE OFFER
+									}else if(offerChoice == 2) {
+										log.info("Exiting to Mutations Menu");
+									}else {
+										log.info("Please only choose from the above options");
+									}
+											
+								} catch (InventoryException e) {
+									log.error(e);
+								}
 								break;
 							case 2:
-								log.info("This is for the Amphibious Mutations Menu CHOOSE MUTATION BY ID");
+								mutationId = "MB";
+								try {
+									log.info("\nDisplaying Amphibious Mutations:");    
+									log.info("==============================================================================================================================");
+									muteList = muteDAO.listMutationByType(mutationId);
+									for(int i=0;i<muteList.size();i++) {
+										log.info(muteList.get(i));;
+									}
+									log.info("==============================================================================================================================");
+									log.info("\nPlease enter the Mutation ID to learn more");
+									String getId = scan.nextLine();
+									Mutation getMutation = muteService.getMutationById(getId);
+									log.info(getMutation);
+									
+									String description = muteDAO.getMutationDescription(getId);
+									log.info("Description: "+description);
+									
+									log.info("Would you like to make an offer?\n1)Yes\n2)Exit");
+									int offerChoice = Integer.parseInt(scan.nextLine());
+									if(offerChoice == 1) {
+										log.info("This is to make offer");               ///IMPLEMENT MAKE OFFER
+									}else if(offerChoice == 2) {
+										log.info("Exiting to Mutations Menu");
+									}else {
+										log.info("Please only choose from the above options");
+									}
+								} catch (InventoryException e) {
+									log.error(e);
+								}
 								break;
 							case 3:
-								log.info("This is for the Aquatic Mutations Menu CHOOSE MUTATION BY ID");
+								mutationId = "MA";
+								try {
+									log.info("\nDisplaying Aquatic Mutations:");    
+									log.info("==============================================================================================================================");
+									muteList = muteDAO.listMutationByType(mutationId);
+									for(int i=0;i<muteList.size();i++) {
+										log.info(muteList.get(i));;
+									}
+									log.info("==============================================================================================================================");
+									log.info("\nPlease enter the Mutation ID to learn more");
+									String getId = scan.nextLine();
+									Mutation getMutation = muteService.getMutationById(getId);
+									log.info(getMutation);
+									
+									String description = muteDAO.getMutationDescription(getId);
+									log.info("Description: "+description);
+									
+									log.info("Would you like to make an offer?\n1)Yes\n2)Exit");
+									int offerChoice = Integer.parseInt(scan.nextLine());
+									if(offerChoice == 1) {
+										log.info("This is to make offer");               ///IMPLEMENT MAKE OFFER
+									}else if(offerChoice == 2) {
+										log.info("Exiting to Mutations Menu");
+									}else {
+										log.info("Please only choose from the above options");
+									}
+								} catch (InventoryException e) {
+									log.error(e);
+								}
 								break;
 							case 4:
-								log.info("This is for the Plant Mutations Menu CHOOSE MUTATION BY ID");
+								mutationId = "MP";
+								try {
+									log.info("\nDisplaying Plant Mutations:");   
+									log.info("==============================================================================================================================");
+									muteList = muteDAO.listMutationByType(mutationId);
+									for(int i=0;i<muteList.size();i++) {
+										log.info(muteList.get(i));;
+									}
+									log.info("==============================================================================================================================");
+									log.info("\nPlease enter the Mutation ID to learn more");
+									String getId = scan.nextLine();
+									Mutation getMutation = muteService.getMutationById(getId);
+									log.info(getMutation);
+									
+									String description = muteDAO.getMutationDescription(getId);
+									log.info("Description: "+description);
+						
+									log.info("Would you like to make an offer?\n1)Yes\n2)Exit");
+									int offerChoice = Integer.parseInt(scan.nextLine());
+									if(offerChoice == 1) {
+										log.info("This is to make offer");               ///IMPLEMENT MAKE OFFER
+									}else if(offerChoice == 2) {
+										log.info("Exiting to Mutations Menu");
+									}else {
+										log.info("Please only choose from the above options");
+									}
+								} catch (InventoryException e) {
+									log.error(e);
+								}
 								break;
 							case 5:
 								log.info("Exiting to Customer Menu");
@@ -117,7 +263,7 @@ public class FrontController {
 						int payOption = 0;
 						do {
 							log.info("\n==================================");
-							log.info("Choose from the following options");                        //CUSTOMER LOGIN SUB MENU
+							log.info("Choose from the following options");           //CUSTOMER PAYMENTS/PURCHASES SUB MENU
 							log.info("==================================");
 							log.info("1) View My Purchases");
 							log.info("2) View My Payment History");
@@ -145,22 +291,48 @@ public class FrontController {
 						break;
 						
 					case 3:
+						log.info("This is to view my Mutation Offers");
+						
+						break;
+					case 4:
 						log.info("Logging out thank you for supporting the RR family!");
 						
 						break;
 
 					default:
-						log.warn("Please choose only an option between 1-3");
+						log.warn("Please choose only an option between 1-4");
 						
 						break;
 					}
 					
-					}while(subOption!= 3);
+					}while(subOption!= 4);
 					
 					break;
 				case 2:
-					log.info("\nRegistering for an account");  //CREATE NEW CUSTOMER ACCOUNT
-					
+					log.info("\nWould you like to register for a customer account?\n1)Register\n2)Cancel");  //CREATE NEW CUSTOMER ACCOUNT
+					int regChoice = Integer.parseInt(scan.nextLine());
+					if(regChoice == 1) {
+						Customer newCustomer = new Customer();
+						log.info("Enter your name");
+						newCustomer.setName(scan.nextLine());
+						log.info("Enter your Email Address");
+						newCustomer.setEmail(scan.nextLine());
+						log.info("Enter a Password");
+						newCustomer.setPassword(scan.nextLine());
+						log.info("Enter your Location");
+						newCustomer.setLocation(scan.nextLine());
+						try {
+							custService.createNewCustomer(newCustomer);
+							log.info("Account registration successful");
+						} catch (RegistrationException e) {
+							log.error(e);
+						}
+					}else if(regChoice == 2) {
+						log.info("Returning to Main Menu");
+						break;
+					}else {
+						log.info("Please only choose from the provided options");
+					}
 					break;
 				case 3:
 					log.info("Exiting to Main Menu");   //EXIT
@@ -178,7 +350,17 @@ public class FrontController {
 				log.info("\n===========================");
 				log.info("Welcome to Employee Login");                         //EMPLOYEE LOGIN
 				log.info("===========================");
+				log.info("\nPlease enter your user email address");        
+				String email=scan.nextLine();
+				log.info("Please enter your password");
+				String password=scan.nextLine();
 				
+				if(empDAO.empLogin(email, password) == false) {
+					log.warn("Email and Password do not match please try again");
+					break;
+				}
+				
+				String manager = empDAO.getManagerByEmailPassword(email, password); 
 
 				int empOption=0;
 				
@@ -187,11 +369,10 @@ public class FrontController {
 				log.info("Welcome back! What will you be doing today?"); //EMPLOYEE MAIN MENU
 				log.info("=============================================");
 				log.info("1) Manage Mutation Inventory");
-				log.info("2) View and Manage Customer Offers");
-				log.info("3) View Customer Purchases");
-				log.info("4) View Customer Payments");
-				log.info("5) Manager Operations");
-				log.info("6) Log Out");
+				log.info("2) View Customer Accounts");
+				log.info("3) View and Manage Customer Offers");
+				log.info("4) Manager Operations");
+				log.info("5) Log Out");
 				log.info("=============================================");
 				try {
 					empOption=Integer.parseInt(scan.nextLine());
@@ -202,12 +383,12 @@ public class FrontController {
 							int mutOption = 0;
 							do{
 								log.info("\n==============================================");
-								log.info("Select from the following to manage Mutations:");  //EMPLOYEE MANAGE CUSTOMER ACCOUNTS SUB MENU
+								log.info("Select from the following to manage Mutations:");  //EMPLOYEE MANAGE MUTATIONS SUB MENU
 								log.info("==============================================");
 								log.info("1) List all Mutations");
 								log.info("2) Add Mutations");
 								log.info("3) Remove Mutations");
-								log.info("4) Edit Mutations");
+								log.info("4) Edit Mutations");    //REMEMBER TO ADD DESCRIPTION
 								log.info("5) Return");
 								log.info("======================================");
 								try {
@@ -216,16 +397,105 @@ public class FrontController {
 
 								switch (mutOption) {
 								case 1:
-									log.info("This is to List all Mutations");
+									List<Mutation> muteList;
+									String mutationId = "ALL";
+									try {
+										log.info("\nDisplaying All Mutations:");   
+										log.info("==============================================================================================================================");
+										muteList = muteDAO.listMutationByType(mutationId);
+										for(int i=0;i<muteList.size();i++) {
+											log.info(muteList.get(i));;
+										}
+										log.info("==============================================================================================================================");
+									} catch (InventoryException e) {
+										log.error(e);
+									}
 									break;
 								case 2:
-									log.info("This is to add Mutations");
+									log.info("Would you like to add a new mutation?\n1)Yes\n2)Cancel");
+									int addChoice = Integer.parseInt(scan.nextLine());
+									if(addChoice==1) {
+									Mutation addMutation = new Mutation();
+									log.info("Enter the Mutation ID be sure to use the correct code(MR/MB/MA/MP)");
+									String addId = scan.nextLine();
+									addMutation.setMutationId(addId);
+									log.info("Enter the Mutation name");
+									addMutation.setName(scan.nextLine());
+									log.info("Enter the Mutation Height");
+									addMutation.setHeight(scan.nextLine());
+									log.info("Enter the Mutation Weight");
+									addMutation.setWeight(scan.nextLine());
+									log.info("Enter the ask price");
+									addMutation.setAskPrice(Float.parseFloat(scan.nextLine()));
+									log.info("Enter a description");
+									String description = scan.nextLine(); //sdfghj
+									try {
+										muteService.addMutation(addMutation, description);
+										log.info("Mutation successfully added");
+									} catch (InventoryException e) {
+										log.error(e);
+									}
+									
+									}else if(addChoice==2) {
+										log.info("Exiting to Manage Mutations");
+									}else {
+										log.info("Only choose from the provided options");
+									}
 									break;
 								case 3:
-									log.info("This is to remove Mutations");
+									log.info("Enter the Mutation ID of the Mutation want to remove:");   
+									String idDelete =  scan.nextLine(); 
+									try {
+									    Mutation mutationDelete = muteService.getMutationById(idDelete);
+									    log.info("The following Mutation will be deleted:");
+									    log.info(mutationDelete);
+										log.info("Confirm deletion\n1)Delete\n2)Cancel");
+										int confirmD = Integer.parseInt(scan.nextLine());
+										if(confirmD == 1) {
+											muteService.deleteMutationById(idDelete);
+											log.info("Mutation successfully deleted");
+										}else if(confirmD == 2) {
+											log.info("Deletion canceled");
+										}
+										
+									} catch (InventoryException e) {
+										log.error(e);
+									}
+									
 									break;
 								case 4:
-									log.info("This is to edit Mutations");
+									log.info("Enter the Mutation ID of the Mutation want to edit:");   //UNTESTED
+									String idEdit =  scan.nextLine(); 
+									try {
+										Mutation mutationEdit = muteService.getMutationById(idEdit);
+										String description = muteDAO.getMutationDescription(idEdit);
+										log.info("The following Mutation will be edited:");
+										log.info(mutationEdit);
+										log.info("Description:"+description);
+										log.info("\n================================");
+										log.info("What would you like to update");
+										log.info("================================");
+										log.info("1) Name");
+										log.info("2) Height");
+										log.info("3) Weight");
+										log.info("4) Ask Price");
+										log.info("5) Description");
+										log.info("6) Availability");
+										log.info("7) Cancel");
+										log.info("================================");
+										int editChoice=Integer.parseInt(scan.nextLine());
+										if(editChoice == 7) {
+											break;
+										}
+										log.info("Please enter the updated information");
+										String update = scan.nextLine();
+										
+										muteService.editMutationById(idEdit, editChoice, update);
+										log.info("Update successful");
+
+									} catch (InventoryException e) {
+										log.error(e);
+									}
 									break;
 								case 5:
 									log.info("Returning to employee Menu");
@@ -237,28 +507,42 @@ public class FrontController {
 
 					break;
 				case 2:
-					log.info("This is to view and approve bids");
+					log.info("\n=============================================");
+					log.info("Displaying all customer accounts");
+					log.info("==========================================================================================");
+					List<Customer> custList;
+					try {
+						custList = custDAO.listAllCustomerAccounts();
+						for(int i=0;i<custList.size();i++) {
+							log.info(custList.get(i));;
+						}
+						log.info("==========================================================================================");
+					} catch (EmptyDatabaseException e1) {
+						log.error(e1);
+					}
 
 					break;
 				case 3:
-					log.info("This is to view customer purchases");
+					log.info("This is to view and approve bids");
 
 					break;
 				case 4:
-					log.info("This is to view customer payments");
-
-					break;
-				case 5:
-					log.info("This is to Enter Mananger Privileges");
-					//HAVE TO CHECK IF EMPLOYEE IS MANAGER
+					if(manager.equals("N")) {
+						log.info("You do not have access to Manager Operations contact Management");
+						break;
+					}
 					int manOption = 0;
 					do{
 						log.info("\n=============================================");
 						log.info("Welcome Manager! What will you be doing today?");  //EMPLOYEE MANAGE CUSTOMER ACCOUNTS SUB MENU
 						log.info("=============================================");
-						log.info("1) Create Employee");
-						log.info("2) Terminate Employee");
-						log.info("3) Return");
+						log.info("1) View All Employees");
+						log.info("2) Create Employee");
+						log.info("3) Terminate Employee");
+						log.info("4) View Customer Accounts");
+						log.info("5) View Customer Purchases");
+						log.info("6) View Customer Payments");
+						log.info("7) Return");
 						log.info("======================================");
 						try {
 							manOption=Integer.parseInt(scan.nextLine());
@@ -266,32 +550,107 @@ public class FrontController {
 
 						switch (manOption) {
 						case 1:
-							log.info("This is to Create Employee");
+							log.info("\n=============================================");
+							log.info("Displaying all employees");
+							log.info("==========================================================================================");
+							List<Employee> empList;
+							try {
+								empList = empDAO.listAllEmployeeAccounts();
+								for(int i=0;i<empList.size();i++) {
+									log.info(empList.get(i));;
+								}
+								log.info("==========================================================================================");
+							} catch (EmptyDatabaseException e1) {
+								log.error(e1);
+							}
 							break;
 						case 2:
-							log.info("This is to Terminate Employee");
+							log.info("\nWould you like to register a new employee?\n1)Register\n2)Cancel");  //CREATE NEW EMPLOYEE
+							int regChoice = Integer.parseInt(scan.nextLine());
+							if(regChoice == 1) {
+								Employee newEmployee = new Employee();
+								log.info("Enter employee name");
+								newEmployee.setName(scan.nextLine());
+								log.info("Enter your Email Address");
+								newEmployee.setEmail(scan.nextLine());
+								log.info("Enter a Password");
+								newEmployee.setPassword(scan.nextLine());
+								try {
+									empService.createNewEmployee(newEmployee);
+									log.info("Employee registration successful");
+								} catch (RegistrationException e) {
+									log.error(e);
+								}
+							}else if(regChoice == 2) {
+								log.info("Returning to Manager Menu");
+								break;
+							}else {
+								log.info("Only choose from the provided options");
+							}
 							break;
 						case 3:
+							log.info("Enter the Employee ID of the Employee you want to terminate");   
+							int idDelete =  Integer.parseInt(scan.nextLine()); 
+							Employee employeeDelete;
+							try {
+								employeeDelete = empService.getEmployeeById(idDelete);
+								log.info("The following Mutation will be deleted:");
+								log.info(employeeDelete);
+								log.info("Confirm deletion\n1)Delete\n2)Cancel");
+								int confirmD = Integer.parseInt(scan.nextLine());
+								if (confirmD == 1) {
+									empService.deleteEmployeeById(idDelete);
+									log.info("Employee successfully deleted");
+								} else if (confirmD == 2) {
+									log.info("Deletion canceled");
+								}
+							} catch (EntryNotFoundException e) {
+								log.error(e);
+							}	
+							
+							break;
+						case 4:
+							log.info("\n=============================================");
+							log.info("Displaying all customer accounts");
+							log.info("==========================================================================================");
+							try {
+								custList = custDAO.listAllCustomerAccounts();
+								for(int i=0;i<custList.size();i++) {
+									log.info(custList.get(i));;
+								}
+								log.info("==========================================================================================");
+							} catch (EmptyDatabaseException e1) {
+								log.error(e1);
+							}
+
+							break;
+						case 5:
+							log.info("View purchases by customer");
+							break;
+						case 6:
+							log.info("view payments by customer");
+							break;
+						case 7:
 							log.info("Returning to Employee Menu");
 							break;
 						default:
-							log.info("Please only choose an option 1-3");
+							log.info("Please only choose an option 1-7");
 							break;
 						}
-					}while(manOption!=3);  
+					}while(manOption!=7);  
 					
 
 					break;
-				case 6:
+				case 5:
 					log.info("Logging Out");
 
 					break;
 					
 				default:
-					log.warn("Please only enter a number 1-6");
+					log.warn("Please only enter a number 1-5");
 					break;
 				}
-				}while(empOption!=6);
+				}while(empOption!=5);
 				
 				break;
 			case 3:

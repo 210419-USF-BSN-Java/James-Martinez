@@ -1268,3 +1268,524 @@ Please enter your user email address     Apr-25-21 Sunday EDT 18:27:07
 {INFO} - [com.revature.driver.Driver] -     4) Exit App     Apr-25-21 Sunday EDT 18:36:01
 {INFO} - [com.revature.driver.Driver] -     ==============================================     Apr-25-21 Sunday EDT 18:36:01
 {INFO} - [com.revature.driver.Driver] -     Thank you for Supporting the Radioactive Reptiles Family!     Apr-25-21 Sunday EDT 18:36:08
+{INFO} - [com.revature.controller.FrontController] -     
+==============================================     May-02-21 Sunday EDT 20:03:18
+{INFO} - [com.revature.controller.FrontController] -     Welcome to the Radioctive Reptiles App V1.0!     May-02-21 Sunday EDT 20:03:18
+{INFO} - [com.revature.controller.FrontController] -     =============================================================================================     May-02-21 Sunday EDT 20:03:18
+{INFO} - [com.revature.controller.FrontController] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     May-02-21 Sunday EDT 20:03:18
+{INFO} - [com.revature.controller.FrontController] -     All of our mutations are safetly lab grown using patented state of the art technology     May-02-21 Sunday EDT 20:03:18
+{INFO} - [com.revature.controller.FrontController] -     =============================================================================================     May-02-21 Sunday EDT 20:03:18
+{INFO} - [com.revature.controller.FrontController] -     Proceed by selecting one of the options below:     May-02-21 Sunday EDT 20:03:18
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 20:03:18
+{INFO} - [com.revature.controller.FrontController] -     1) Customer Login & Registration     May-02-21 Sunday EDT 20:03:18
+{INFO} - [com.revature.controller.FrontController] -     2) Employee Login     May-02-21 Sunday EDT 20:03:18
+{INFO} - [com.revature.controller.FrontController] -     3) Exit App     May-02-21 Sunday EDT 20:03:18
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 20:03:18
+{INFO} - [com.revature.controller.FrontController] -     
+===========================================     May-02-21 Sunday EDT 20:03:34
+{INFO} - [com.revature.controller.FrontController] -     Welcome to Customer Login and Registration     May-02-21 Sunday EDT 20:03:34
+{INFO} - [com.revature.controller.FrontController] -     Please choose one of the following options     May-02-21 Sunday EDT 20:03:34
+{INFO} - [com.revature.controller.FrontController] -     ===========================================     May-02-21 Sunday EDT 20:03:34
+{INFO} - [com.revature.controller.FrontController] -     1) Login     May-02-21 Sunday EDT 20:03:34
+{INFO} - [com.revature.controller.FrontController] -     2) Register for an Account     May-02-21 Sunday EDT 20:03:34
+{INFO} - [com.revature.controller.FrontController] -     3) Exit     May-02-21 Sunday EDT 20:03:34
+{INFO} - [com.revature.controller.FrontController] -     ===========================================     May-02-21 Sunday EDT 20:03:34
+{INFO} - [com.revature.controller.FrontController] -     
+Please enter your user email address     May-02-21 Sunday EDT 20:03:35
+{INFO} - [com.revature.controller.FrontController] -     Please enter your password     May-02-21 Sunday EDT 20:03:37
+{INFO} - [com.revature.controller.FrontController] -     
+=====================================     May-02-21 Sunday EDT 20:03:38
+{INFO} - [com.revature.controller.FrontController] -     Welcome back to Radioactive Reptiles!     May-02-21 Sunday EDT 20:03:38
+{INFO} - [com.revature.controller.FrontController] -     What are you looking for today?     May-02-21 Sunday EDT 20:03:38
+{INFO} - [com.revature.controller.FrontController] -     =====================================     May-02-21 Sunday EDT 20:03:38
+{INFO} - [com.revature.controller.FrontController] -     1) Available Mutations     May-02-21 Sunday EDT 20:03:38
+{INFO} - [com.revature.controller.FrontController] -     2) Purchases and Payments     May-02-21 Sunday EDT 20:03:38
+{INFO} - [com.revature.controller.FrontController] -     3) My Mutation Offers     May-02-21 Sunday EDT 20:03:38
+{INFO} - [com.revature.controller.FrontController] -     4) Log out     May-02-21 Sunday EDT 20:03:38
+{INFO} - [com.revature.controller.FrontController] -     ==================================     May-02-21 Sunday EDT 20:03:38
+{INFO} - [com.revature.controller.FrontController] -     
+============================================================================     May-02-21 Sunday EDT 20:03:47
+{INFO} - [com.revature.controller.FrontController] -     Choose to browse from the following mutations to learn more annd place bids:     May-02-21 Sunday EDT 20:03:47
+{INFO} - [com.revature.controller.FrontController] -     ============================================================================     May-02-21 Sunday EDT 20:03:47
+{INFO} - [com.revature.controller.FrontController] -     1) Reptilian Mutations     May-02-21 Sunday EDT 20:03:47
+{INFO} - [com.revature.controller.FrontController] -     2) Amphibious Mutations     May-02-21 Sunday EDT 20:03:47
+{INFO} - [com.revature.controller.FrontController] -     3) Aquatic Mutations     May-02-21 Sunday EDT 20:03:47
+{INFO} - [com.revature.controller.FrontController] -     4) Plant Mutations     May-02-21 Sunday EDT 20:03:47
+{INFO} - [com.revature.controller.FrontController] -     5) Exit     May-02-21 Sunday EDT 20:03:47
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 20:03:47
+{INFO} - [com.revature.controller.FrontController] -     This is for the Reptilian Mutations Menu CHOOSE MUTATION BY ID     May-02-21 Sunday EDT 20:03:48
+{INFO} - [com.revature.controller.FrontController] -     
+============================================================================     May-02-21 Sunday EDT 20:03:48
+{INFO} - [com.revature.controller.FrontController] -     Choose to browse from the following mutations to learn more annd place bids:     May-02-21 Sunday EDT 20:03:48
+{INFO} - [com.revature.controller.FrontController] -     ============================================================================     May-02-21 Sunday EDT 20:03:48
+{INFO} - [com.revature.controller.FrontController] -     1) Reptilian Mutations     May-02-21 Sunday EDT 20:03:48
+{INFO} - [com.revature.controller.FrontController] -     2) Amphibious Mutations     May-02-21 Sunday EDT 20:03:48
+{INFO} - [com.revature.controller.FrontController] -     3) Aquatic Mutations     May-02-21 Sunday EDT 20:03:48
+{INFO} - [com.revature.controller.FrontController] -     4) Plant Mutations     May-02-21 Sunday EDT 20:03:48
+{INFO} - [com.revature.controller.FrontController] -     5) Exit     May-02-21 Sunday EDT 20:03:48
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 20:03:48
+{INFO} - [com.revature.controller.FrontController] -     This is for the Amphibious Mutations Menu CHOOSE MUTATION BY ID     May-02-21 Sunday EDT 20:03:50
+{INFO} - [com.revature.controller.FrontController] -     
+============================================================================     May-02-21 Sunday EDT 20:03:50
+{INFO} - [com.revature.controller.FrontController] -     Choose to browse from the following mutations to learn more annd place bids:     May-02-21 Sunday EDT 20:03:50
+{INFO} - [com.revature.controller.FrontController] -     ============================================================================     May-02-21 Sunday EDT 20:03:50
+{INFO} - [com.revature.controller.FrontController] -     1) Reptilian Mutations     May-02-21 Sunday EDT 20:03:50
+{INFO} - [com.revature.controller.FrontController] -     2) Amphibious Mutations     May-02-21 Sunday EDT 20:03:50
+{INFO} - [com.revature.controller.FrontController] -     3) Aquatic Mutations     May-02-21 Sunday EDT 20:03:50
+{INFO} - [com.revature.controller.FrontController] -     4) Plant Mutations     May-02-21 Sunday EDT 20:03:50
+{INFO} - [com.revature.controller.FrontController] -     5) Exit     May-02-21 Sunday EDT 20:03:50
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 20:03:50
+{INFO} - [com.revature.controller.FrontController] -     This is for the Aquatic Mutations Menu CHOOSE MUTATION BY ID     May-02-21 Sunday EDT 20:03:52
+{INFO} - [com.revature.controller.FrontController] -     
+============================================================================     May-02-21 Sunday EDT 20:03:52
+{INFO} - [com.revature.controller.FrontController] -     Choose to browse from the following mutations to learn more annd place bids:     May-02-21 Sunday EDT 20:03:52
+{INFO} - [com.revature.controller.FrontController] -     ============================================================================     May-02-21 Sunday EDT 20:03:52
+{INFO} - [com.revature.controller.FrontController] -     1) Reptilian Mutations     May-02-21 Sunday EDT 20:03:52
+{INFO} - [com.revature.controller.FrontController] -     2) Amphibious Mutations     May-02-21 Sunday EDT 20:03:52
+{INFO} - [com.revature.controller.FrontController] -     3) Aquatic Mutations     May-02-21 Sunday EDT 20:03:52
+{INFO} - [com.revature.controller.FrontController] -     4) Plant Mutations     May-02-21 Sunday EDT 20:03:52
+{INFO} - [com.revature.controller.FrontController] -     5) Exit     May-02-21 Sunday EDT 20:03:52
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 20:03:52
+{INFO} - [com.revature.controller.FrontController] -     This is for the Plant Mutations Menu CHOOSE MUTATION BY ID     May-02-21 Sunday EDT 20:03:53
+{INFO} - [com.revature.controller.FrontController] -     
+============================================================================     May-02-21 Sunday EDT 20:03:53
+{INFO} - [com.revature.controller.FrontController] -     Choose to browse from the following mutations to learn more annd place bids:     May-02-21 Sunday EDT 20:03:53
+{INFO} - [com.revature.controller.FrontController] -     ============================================================================     May-02-21 Sunday EDT 20:03:53
+{INFO} - [com.revature.controller.FrontController] -     1) Reptilian Mutations     May-02-21 Sunday EDT 20:03:53
+{INFO} - [com.revature.controller.FrontController] -     2) Amphibious Mutations     May-02-21 Sunday EDT 20:03:53
+{INFO} - [com.revature.controller.FrontController] -     3) Aquatic Mutations     May-02-21 Sunday EDT 20:03:53
+{INFO} - [com.revature.controller.FrontController] -     4) Plant Mutations     May-02-21 Sunday EDT 20:03:53
+{INFO} - [com.revature.controller.FrontController] -     5) Exit     May-02-21 Sunday EDT 20:03:53
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 20:03:53
+{INFO} - [com.revature.controller.FrontController] -     Exiting to Customer Menu     May-02-21 Sunday EDT 20:03:54
+{INFO} - [com.revature.controller.FrontController] -     
+=====================================     May-02-21 Sunday EDT 20:03:54
+{INFO} - [com.revature.controller.FrontController] -     Welcome back to Radioactive Reptiles!     May-02-21 Sunday EDT 20:03:54
+{INFO} - [com.revature.controller.FrontController] -     What are you looking for today?     May-02-21 Sunday EDT 20:03:54
+{INFO} - [com.revature.controller.FrontController] -     =====================================     May-02-21 Sunday EDT 20:03:54
+{INFO} - [com.revature.controller.FrontController] -     1) Available Mutations     May-02-21 Sunday EDT 20:03:54
+{INFO} - [com.revature.controller.FrontController] -     2) Purchases and Payments     May-02-21 Sunday EDT 20:03:54
+{INFO} - [com.revature.controller.FrontController] -     3) My Mutation Offers     May-02-21 Sunday EDT 20:03:54
+{INFO} - [com.revature.controller.FrontController] -     4) Log out     May-02-21 Sunday EDT 20:03:54
+{INFO} - [com.revature.controller.FrontController] -     ==================================     May-02-21 Sunday EDT 20:03:54
+{INFO} - [com.revature.controller.FrontController] -     This is to view my purchases and make payments     May-02-21 Sunday EDT 20:03:57
+{INFO} - [com.revature.controller.FrontController] -     
+==================================     May-02-21 Sunday EDT 20:03:57
+{INFO} - [com.revature.controller.FrontController] -     Choose from the following options     May-02-21 Sunday EDT 20:03:57
+{INFO} - [com.revature.controller.FrontController] -     ==================================     May-02-21 Sunday EDT 20:03:57
+{INFO} - [com.revature.controller.FrontController] -     1) View My Purchases     May-02-21 Sunday EDT 20:03:57
+{INFO} - [com.revature.controller.FrontController] -     2) View My Payment History     May-02-21 Sunday EDT 20:03:57
+{INFO} - [com.revature.controller.FrontController] -     3) Return     May-02-21 Sunday EDT 20:03:57
+{INFO} - [com.revature.controller.FrontController] -     ==================================     May-02-21 Sunday EDT 20:03:57
+{INFO} - [com.revature.controller.FrontController] -     This is for viewing my purchases     May-02-21 Sunday EDT 20:04:01
+{INFO} - [com.revature.controller.FrontController] -     
+==================================     May-02-21 Sunday EDT 20:04:01
+{INFO} - [com.revature.controller.FrontController] -     Choose from the following options     May-02-21 Sunday EDT 20:04:01
+{INFO} - [com.revature.controller.FrontController] -     ==================================     May-02-21 Sunday EDT 20:04:01
+{INFO} - [com.revature.controller.FrontController] -     1) View My Purchases     May-02-21 Sunday EDT 20:04:01
+{INFO} - [com.revature.controller.FrontController] -     2) View My Payment History     May-02-21 Sunday EDT 20:04:01
+{INFO} - [com.revature.controller.FrontController] -     3) Return     May-02-21 Sunday EDT 20:04:01
+{INFO} - [com.revature.controller.FrontController] -     ==================================     May-02-21 Sunday EDT 20:04:01
+{INFO} - [com.revature.controller.FrontController] -     This is for viewing my payment history     May-02-21 Sunday EDT 20:04:04
+{INFO} - [com.revature.controller.FrontController] -     
+==================================     May-02-21 Sunday EDT 20:04:04
+{INFO} - [com.revature.controller.FrontController] -     Choose from the following options     May-02-21 Sunday EDT 20:04:04
+{INFO} - [com.revature.controller.FrontController] -     ==================================     May-02-21 Sunday EDT 20:04:04
+{INFO} - [com.revature.controller.FrontController] -     1) View My Purchases     May-02-21 Sunday EDT 20:04:04
+{INFO} - [com.revature.controller.FrontController] -     2) View My Payment History     May-02-21 Sunday EDT 20:04:04
+{INFO} - [com.revature.controller.FrontController] -     3) Return     May-02-21 Sunday EDT 20:04:04
+{INFO} - [com.revature.controller.FrontController] -     ==================================     May-02-21 Sunday EDT 20:04:04
+{INFO} - [com.revature.controller.FrontController] -     Returning to the Customer Menu     May-02-21 Sunday EDT 20:04:06
+{INFO} - [com.revature.controller.FrontController] -     
+=====================================     May-02-21 Sunday EDT 20:04:06
+{INFO} - [com.revature.controller.FrontController] -     Welcome back to Radioactive Reptiles!     May-02-21 Sunday EDT 20:04:06
+{INFO} - [com.revature.controller.FrontController] -     What are you looking for today?     May-02-21 Sunday EDT 20:04:06
+{INFO} - [com.revature.controller.FrontController] -     =====================================     May-02-21 Sunday EDT 20:04:06
+{INFO} - [com.revature.controller.FrontController] -     1) Available Mutations     May-02-21 Sunday EDT 20:04:06
+{INFO} - [com.revature.controller.FrontController] -     2) Purchases and Payments     May-02-21 Sunday EDT 20:04:06
+{INFO} - [com.revature.controller.FrontController] -     3) My Mutation Offers     May-02-21 Sunday EDT 20:04:06
+{INFO} - [com.revature.controller.FrontController] -     4) Log out     May-02-21 Sunday EDT 20:04:06
+{INFO} - [com.revature.controller.FrontController] -     ==================================     May-02-21 Sunday EDT 20:04:06
+{INFO} - [com.revature.controller.FrontController] -     Logging out thank you for supporting the RR family!     May-02-21 Sunday EDT 20:04:08
+{INFO} - [com.revature.controller.FrontController] -     
+===========================================     May-02-21 Sunday EDT 20:04:08
+{INFO} - [com.revature.controller.FrontController] -     Welcome to Customer Login and Registration     May-02-21 Sunday EDT 20:04:08
+{INFO} - [com.revature.controller.FrontController] -     Please choose one of the following options     May-02-21 Sunday EDT 20:04:08
+{INFO} - [com.revature.controller.FrontController] -     ===========================================     May-02-21 Sunday EDT 20:04:08
+{INFO} - [com.revature.controller.FrontController] -     1) Login     May-02-21 Sunday EDT 20:04:08
+{INFO} - [com.revature.controller.FrontController] -     2) Register for an Account     May-02-21 Sunday EDT 20:04:08
+{INFO} - [com.revature.controller.FrontController] -     3) Exit     May-02-21 Sunday EDT 20:04:08
+{INFO} - [com.revature.controller.FrontController] -     ===========================================     May-02-21 Sunday EDT 20:04:08
+{INFO} - [com.revature.controller.FrontController] -     
+==============================================     May-02-21 Sunday EDT 20:06:22
+{INFO} - [com.revature.controller.FrontController] -     Welcome to the Radioctive Reptiles App V1.0!     May-02-21 Sunday EDT 20:06:22
+{INFO} - [com.revature.controller.FrontController] -     =============================================================================================     May-02-21 Sunday EDT 20:06:22
+{INFO} - [com.revature.controller.FrontController] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     May-02-21 Sunday EDT 20:06:22
+{INFO} - [com.revature.controller.FrontController] -     All of our mutations are safetly lab grown using patented state of the art technology     May-02-21 Sunday EDT 20:06:22
+{INFO} - [com.revature.controller.FrontController] -     =============================================================================================     May-02-21 Sunday EDT 20:06:22
+{INFO} - [com.revature.controller.FrontController] -     Proceed by selecting one of the options below:     May-02-21 Sunday EDT 20:06:22
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 20:06:22
+{INFO} - [com.revature.controller.FrontController] -     1) Customer Login & Registration     May-02-21 Sunday EDT 20:06:22
+{INFO} - [com.revature.controller.FrontController] -     2) Employee Login     May-02-21 Sunday EDT 20:06:22
+{INFO} - [com.revature.controller.FrontController] -     3) Exit App     May-02-21 Sunday EDT 20:06:22
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 20:06:22
+{INFO} - [com.revature.controller.FrontController] -     
+===========================================     May-02-21 Sunday EDT 20:06:24
+{INFO} - [com.revature.controller.FrontController] -     Welcome to Customer Login and Registration     May-02-21 Sunday EDT 20:06:24
+{INFO} - [com.revature.controller.FrontController] -     Please choose one of the following options     May-02-21 Sunday EDT 20:06:24
+{INFO} - [com.revature.controller.FrontController] -     ===========================================     May-02-21 Sunday EDT 20:06:24
+{INFO} - [com.revature.controller.FrontController] -     1) Login     May-02-21 Sunday EDT 20:06:24
+{INFO} - [com.revature.controller.FrontController] -     2) Register for an Account     May-02-21 Sunday EDT 20:06:24
+{INFO} - [com.revature.controller.FrontController] -     3) Exit     May-02-21 Sunday EDT 20:06:24
+{INFO} - [com.revature.controller.FrontController] -     ===========================================     May-02-21 Sunday EDT 20:06:24
+{INFO} - [com.revature.controller.FrontController] -     
+Please enter your user email address     May-02-21 Sunday EDT 20:06:25
+{INFO} - [com.revature.controller.FrontController] -     Please enter your password     May-02-21 Sunday EDT 20:06:27
+{INFO} - [com.revature.controller.FrontController] -     
+=====================================     May-02-21 Sunday EDT 20:06:27
+{INFO} - [com.revature.controller.FrontController] -     Welcome back to Radioactive Reptiles!     May-02-21 Sunday EDT 20:06:27
+{INFO} - [com.revature.controller.FrontController] -     What are you looking for today?     May-02-21 Sunday EDT 20:06:27
+{INFO} - [com.revature.controller.FrontController] -     =====================================     May-02-21 Sunday EDT 20:06:27
+{INFO} - [com.revature.controller.FrontController] -     1) Available Mutations     May-02-21 Sunday EDT 20:06:27
+{INFO} - [com.revature.controller.FrontController] -     2) Purchases and Payments     May-02-21 Sunday EDT 20:06:27
+{INFO} - [com.revature.controller.FrontController] -     3) My Mutation Offers     May-02-21 Sunday EDT 20:06:27
+{INFO} - [com.revature.controller.FrontController] -     4) Log out     May-02-21 Sunday EDT 20:06:27
+{INFO} - [com.revature.controller.FrontController] -     ==================================     May-02-21 Sunday EDT 20:06:27
+{INFO} - [com.revature.controller.FrontController] -     This is to view my Mutation Offers     May-02-21 Sunday EDT 20:06:31
+{INFO} - [com.revature.controller.FrontController] -     
+=====================================     May-02-21 Sunday EDT 20:06:31
+{INFO} - [com.revature.controller.FrontController] -     Welcome back to Radioactive Reptiles!     May-02-21 Sunday EDT 20:06:31
+{INFO} - [com.revature.controller.FrontController] -     What are you looking for today?     May-02-21 Sunday EDT 20:06:31
+{INFO} - [com.revature.controller.FrontController] -     =====================================     May-02-21 Sunday EDT 20:06:31
+{INFO} - [com.revature.controller.FrontController] -     1) Available Mutations     May-02-21 Sunday EDT 20:06:31
+{INFO} - [com.revature.controller.FrontController] -     2) Purchases and Payments     May-02-21 Sunday EDT 20:06:31
+{INFO} - [com.revature.controller.FrontController] -     3) My Mutation Offers     May-02-21 Sunday EDT 20:06:31
+{INFO} - [com.revature.controller.FrontController] -     4) Log out     May-02-21 Sunday EDT 20:06:31
+{INFO} - [com.revature.controller.FrontController] -     ==================================     May-02-21 Sunday EDT 20:06:31
+{INFO} - [com.revature.controller.FrontController] -     Logging out thank you for supporting the RR family!     May-02-21 Sunday EDT 20:06:33
+{INFO} - [com.revature.controller.FrontController] -     
+===========================================     May-02-21 Sunday EDT 20:06:33
+{INFO} - [com.revature.controller.FrontController] -     Welcome to Customer Login and Registration     May-02-21 Sunday EDT 20:06:33
+{INFO} - [com.revature.controller.FrontController] -     Please choose one of the following options     May-02-21 Sunday EDT 20:06:33
+{INFO} - [com.revature.controller.FrontController] -     ===========================================     May-02-21 Sunday EDT 20:06:33
+{INFO} - [com.revature.controller.FrontController] -     1) Login     May-02-21 Sunday EDT 20:06:33
+{INFO} - [com.revature.controller.FrontController] -     2) Register for an Account     May-02-21 Sunday EDT 20:06:33
+{INFO} - [com.revature.controller.FrontController] -     3) Exit     May-02-21 Sunday EDT 20:06:33
+{INFO} - [com.revature.controller.FrontController] -     ===========================================     May-02-21 Sunday EDT 20:06:33
+{INFO} - [com.revature.controller.FrontController] -     
+Registering for an account     May-02-21 Sunday EDT 20:06:35
+{INFO} - [com.revature.controller.FrontController] -     
+===========================================     May-02-21 Sunday EDT 20:06:35
+{INFO} - [com.revature.controller.FrontController] -     Welcome to Customer Login and Registration     May-02-21 Sunday EDT 20:06:35
+{INFO} - [com.revature.controller.FrontController] -     Please choose one of the following options     May-02-21 Sunday EDT 20:06:35
+{INFO} - [com.revature.controller.FrontController] -     ===========================================     May-02-21 Sunday EDT 20:06:35
+{INFO} - [com.revature.controller.FrontController] -     1) Login     May-02-21 Sunday EDT 20:06:35
+{INFO} - [com.revature.controller.FrontController] -     2) Register for an Account     May-02-21 Sunday EDT 20:06:35
+{INFO} - [com.revature.controller.FrontController] -     3) Exit     May-02-21 Sunday EDT 20:06:35
+{INFO} - [com.revature.controller.FrontController] -     ===========================================     May-02-21 Sunday EDT 20:06:35
+{INFO} - [com.revature.controller.FrontController] -     Exiting to Main Menu     May-02-21 Sunday EDT 20:06:39
+{INFO} - [com.revature.controller.FrontController] -     
+==============================================     May-02-21 Sunday EDT 20:06:39
+{INFO} - [com.revature.controller.FrontController] -     Welcome to the Radioctive Reptiles App V1.0!     May-02-21 Sunday EDT 20:06:39
+{INFO} - [com.revature.controller.FrontController] -     =============================================================================================     May-02-21 Sunday EDT 20:06:39
+{INFO} - [com.revature.controller.FrontController] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     May-02-21 Sunday EDT 20:06:39
+{INFO} - [com.revature.controller.FrontController] -     All of our mutations are safetly lab grown using patented state of the art technology     May-02-21 Sunday EDT 20:06:39
+{INFO} - [com.revature.controller.FrontController] -     =============================================================================================     May-02-21 Sunday EDT 20:06:39
+{INFO} - [com.revature.controller.FrontController] -     Proceed by selecting one of the options below:     May-02-21 Sunday EDT 20:06:39
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 20:06:39
+{INFO} - [com.revature.controller.FrontController] -     1) Customer Login & Registration     May-02-21 Sunday EDT 20:06:39
+{INFO} - [com.revature.controller.FrontController] -     2) Employee Login     May-02-21 Sunday EDT 20:06:39
+{INFO} - [com.revature.controller.FrontController] -     3) Exit App     May-02-21 Sunday EDT 20:06:39
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 20:06:39
+{INFO} - [com.revature.controller.FrontController] -     
+===========================     May-02-21 Sunday EDT 20:06:40
+{INFO} - [com.revature.controller.FrontController] -     Welcome to Employee Login     May-02-21 Sunday EDT 20:06:40
+{INFO} - [com.revature.controller.FrontController] -     ===========================     May-02-21 Sunday EDT 20:06:40
+{INFO} - [com.revature.controller.FrontController] -     
+=============================================     May-02-21 Sunday EDT 20:06:40
+{INFO} - [com.revature.controller.FrontController] -     Welcome back! What will you be doing today?     May-02-21 Sunday EDT 20:06:40
+{INFO} - [com.revature.controller.FrontController] -     =============================================     May-02-21 Sunday EDT 20:06:40
+{INFO} - [com.revature.controller.FrontController] -     1) Manage Mutation Inventory     May-02-21 Sunday EDT 20:06:40
+{INFO} - [com.revature.controller.FrontController] -     2) View and Manage Customer Offers     May-02-21 Sunday EDT 20:06:40
+{INFO} - [com.revature.controller.FrontController] -     3) View Customer Purchases     May-02-21 Sunday EDT 20:06:40
+{INFO} - [com.revature.controller.FrontController] -     4) View Customer Payments     May-02-21 Sunday EDT 20:06:40
+{INFO} - [com.revature.controller.FrontController] -     5) Manager Operations     May-02-21 Sunday EDT 20:06:40
+{INFO} - [com.revature.controller.FrontController] -     6) Log Out     May-02-21 Sunday EDT 20:06:40
+{INFO} - [com.revature.controller.FrontController] -     =============================================     May-02-21 Sunday EDT 20:06:40
+{INFO} - [com.revature.controller.FrontController] -     
+==============================================     May-02-21 Sunday EDT 20:06:42
+{INFO} - [com.revature.controller.FrontController] -     Select from the following to manage Mutations:     May-02-21 Sunday EDT 20:06:42
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 20:06:42
+{INFO} - [com.revature.controller.FrontController] -     1) List all Mutations     May-02-21 Sunday EDT 20:06:42
+{INFO} - [com.revature.controller.FrontController] -     2) Add Mutations     May-02-21 Sunday EDT 20:06:42
+{INFO} - [com.revature.controller.FrontController] -     3) Remove Mutations     May-02-21 Sunday EDT 20:06:42
+{INFO} - [com.revature.controller.FrontController] -     4) Edit Mutations     May-02-21 Sunday EDT 20:06:42
+{INFO} - [com.revature.controller.FrontController] -     5) Return     May-02-21 Sunday EDT 20:06:42
+{INFO} - [com.revature.controller.FrontController] -     ======================================     May-02-21 Sunday EDT 20:06:42
+{INFO} - [com.revature.controller.FrontController] -     This is to List all Mutations     May-02-21 Sunday EDT 20:06:45
+{INFO} - [com.revature.controller.FrontController] -     
+==============================================     May-02-21 Sunday EDT 20:06:45
+{INFO} - [com.revature.controller.FrontController] -     Select from the following to manage Mutations:     May-02-21 Sunday EDT 20:06:45
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 20:06:45
+{INFO} - [com.revature.controller.FrontController] -     1) List all Mutations     May-02-21 Sunday EDT 20:06:45
+{INFO} - [com.revature.controller.FrontController] -     2) Add Mutations     May-02-21 Sunday EDT 20:06:45
+{INFO} - [com.revature.controller.FrontController] -     3) Remove Mutations     May-02-21 Sunday EDT 20:06:45
+{INFO} - [com.revature.controller.FrontController] -     4) Edit Mutations     May-02-21 Sunday EDT 20:06:45
+{INFO} - [com.revature.controller.FrontController] -     5) Return     May-02-21 Sunday EDT 20:06:45
+{INFO} - [com.revature.controller.FrontController] -     ======================================     May-02-21 Sunday EDT 20:06:45
+{INFO} - [com.revature.controller.FrontController] -     This is to add Mutations     May-02-21 Sunday EDT 20:06:47
+{INFO} - [com.revature.controller.FrontController] -     
+==============================================     May-02-21 Sunday EDT 20:06:47
+{INFO} - [com.revature.controller.FrontController] -     Select from the following to manage Mutations:     May-02-21 Sunday EDT 20:06:47
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 20:06:47
+{INFO} - [com.revature.controller.FrontController] -     1) List all Mutations     May-02-21 Sunday EDT 20:06:47
+{INFO} - [com.revature.controller.FrontController] -     2) Add Mutations     May-02-21 Sunday EDT 20:06:47
+{INFO} - [com.revature.controller.FrontController] -     3) Remove Mutations     May-02-21 Sunday EDT 20:06:47
+{INFO} - [com.revature.controller.FrontController] -     4) Edit Mutations     May-02-21 Sunday EDT 20:06:47
+{INFO} - [com.revature.controller.FrontController] -     5) Return     May-02-21 Sunday EDT 20:06:47
+{INFO} - [com.revature.controller.FrontController] -     ======================================     May-02-21 Sunday EDT 20:06:47
+{INFO} - [com.revature.controller.FrontController] -     This is to remove Mutations     May-02-21 Sunday EDT 20:06:49
+{INFO} - [com.revature.controller.FrontController] -     
+==============================================     May-02-21 Sunday EDT 20:06:49
+{INFO} - [com.revature.controller.FrontController] -     Select from the following to manage Mutations:     May-02-21 Sunday EDT 20:06:49
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 20:06:49
+{INFO} - [com.revature.controller.FrontController] -     1) List all Mutations     May-02-21 Sunday EDT 20:06:49
+{INFO} - [com.revature.controller.FrontController] -     2) Add Mutations     May-02-21 Sunday EDT 20:06:49
+{INFO} - [com.revature.controller.FrontController] -     3) Remove Mutations     May-02-21 Sunday EDT 20:06:49
+{INFO} - [com.revature.controller.FrontController] -     4) Edit Mutations     May-02-21 Sunday EDT 20:06:49
+{INFO} - [com.revature.controller.FrontController] -     5) Return     May-02-21 Sunday EDT 20:06:49
+{INFO} - [com.revature.controller.FrontController] -     ======================================     May-02-21 Sunday EDT 20:06:49
+{INFO} - [com.revature.controller.FrontController] -     This is to edit Mutations     May-02-21 Sunday EDT 20:06:51
+{INFO} - [com.revature.controller.FrontController] -     
+==============================================     May-02-21 Sunday EDT 20:06:51
+{INFO} - [com.revature.controller.FrontController] -     Select from the following to manage Mutations:     May-02-21 Sunday EDT 20:06:51
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 20:06:51
+{INFO} - [com.revature.controller.FrontController] -     1) List all Mutations     May-02-21 Sunday EDT 20:06:51
+{INFO} - [com.revature.controller.FrontController] -     2) Add Mutations     May-02-21 Sunday EDT 20:06:51
+{INFO} - [com.revature.controller.FrontController] -     3) Remove Mutations     May-02-21 Sunday EDT 20:06:51
+{INFO} - [com.revature.controller.FrontController] -     4) Edit Mutations     May-02-21 Sunday EDT 20:06:51
+{INFO} - [com.revature.controller.FrontController] -     5) Return     May-02-21 Sunday EDT 20:06:51
+{INFO} - [com.revature.controller.FrontController] -     ======================================     May-02-21 Sunday EDT 20:06:51
+{INFO} - [com.revature.controller.FrontController] -     Returning to employee Menu     May-02-21 Sunday EDT 20:06:54
+{INFO} - [com.revature.controller.FrontController] -     
+=============================================     May-02-21 Sunday EDT 20:06:54
+{INFO} - [com.revature.controller.FrontController] -     Welcome back! What will you be doing today?     May-02-21 Sunday EDT 20:06:54
+{INFO} - [com.revature.controller.FrontController] -     =============================================     May-02-21 Sunday EDT 20:06:54
+{INFO} - [com.revature.controller.FrontController] -     1) Manage Mutation Inventory     May-02-21 Sunday EDT 20:06:54
+{INFO} - [com.revature.controller.FrontController] -     2) View and Manage Customer Offers     May-02-21 Sunday EDT 20:06:54
+{INFO} - [com.revature.controller.FrontController] -     3) View Customer Purchases     May-02-21 Sunday EDT 20:06:54
+{INFO} - [com.revature.controller.FrontController] -     4) View Customer Payments     May-02-21 Sunday EDT 20:06:54
+{INFO} - [com.revature.controller.FrontController] -     5) Manager Operations     May-02-21 Sunday EDT 20:06:54
+{INFO} - [com.revature.controller.FrontController] -     6) Log Out     May-02-21 Sunday EDT 20:06:54
+{INFO} - [com.revature.controller.FrontController] -     =============================================     May-02-21 Sunday EDT 20:06:54
+{INFO} - [com.revature.controller.FrontController] -     This is to view and approve bids     May-02-21 Sunday EDT 20:07:05
+{INFO} - [com.revature.controller.FrontController] -     
+=============================================     May-02-21 Sunday EDT 20:07:05
+{INFO} - [com.revature.controller.FrontController] -     Welcome back! What will you be doing today?     May-02-21 Sunday EDT 20:07:05
+{INFO} - [com.revature.controller.FrontController] -     =============================================     May-02-21 Sunday EDT 20:07:05
+{INFO} - [com.revature.controller.FrontController] -     1) Manage Mutation Inventory     May-02-21 Sunday EDT 20:07:05
+{INFO} - [com.revature.controller.FrontController] -     2) View and Manage Customer Offers     May-02-21 Sunday EDT 20:07:05
+{INFO} - [com.revature.controller.FrontController] -     3) View Customer Purchases     May-02-21 Sunday EDT 20:07:05
+{INFO} - [com.revature.controller.FrontController] -     4) View Customer Payments     May-02-21 Sunday EDT 20:07:05
+{INFO} - [com.revature.controller.FrontController] -     5) Manager Operations     May-02-21 Sunday EDT 20:07:05
+{INFO} - [com.revature.controller.FrontController] -     6) Log Out     May-02-21 Sunday EDT 20:07:05
+{INFO} - [com.revature.controller.FrontController] -     =============================================     May-02-21 Sunday EDT 20:07:05
+{INFO} - [com.revature.controller.FrontController] -     This is to view customer purchases     May-02-21 Sunday EDT 20:07:12
+{INFO} - [com.revature.controller.FrontController] -     
+=============================================     May-02-21 Sunday EDT 20:07:12
+{INFO} - [com.revature.controller.FrontController] -     Welcome back! What will you be doing today?     May-02-21 Sunday EDT 20:07:12
+{INFO} - [com.revature.controller.FrontController] -     =============================================     May-02-21 Sunday EDT 20:07:12
+{INFO} - [com.revature.controller.FrontController] -     1) Manage Mutation Inventory     May-02-21 Sunday EDT 20:07:12
+{INFO} - [com.revature.controller.FrontController] -     2) View and Manage Customer Offers     May-02-21 Sunday EDT 20:07:12
+{INFO} - [com.revature.controller.FrontController] -     3) View Customer Purchases     May-02-21 Sunday EDT 20:07:12
+{INFO} - [com.revature.controller.FrontController] -     4) View Customer Payments     May-02-21 Sunday EDT 20:07:12
+{INFO} - [com.revature.controller.FrontController] -     5) Manager Operations     May-02-21 Sunday EDT 20:07:12
+{INFO} - [com.revature.controller.FrontController] -     6) Log Out     May-02-21 Sunday EDT 20:07:12
+{INFO} - [com.revature.controller.FrontController] -     =============================================     May-02-21 Sunday EDT 20:07:12
+{INFO} - [com.revature.controller.FrontController] -     This is to view customer payments     May-02-21 Sunday EDT 20:07:21
+{INFO} - [com.revature.controller.FrontController] -     
+=============================================     May-02-21 Sunday EDT 20:07:21
+{INFO} - [com.revature.controller.FrontController] -     Welcome back! What will you be doing today?     May-02-21 Sunday EDT 20:07:21
+{INFO} - [com.revature.controller.FrontController] -     =============================================     May-02-21 Sunday EDT 20:07:21
+{INFO} - [com.revature.controller.FrontController] -     1) Manage Mutation Inventory     May-02-21 Sunday EDT 20:07:21
+{INFO} - [com.revature.controller.FrontController] -     2) View and Manage Customer Offers     May-02-21 Sunday EDT 20:07:21
+{INFO} - [com.revature.controller.FrontController] -     3) View Customer Purchases     May-02-21 Sunday EDT 20:07:21
+{INFO} - [com.revature.controller.FrontController] -     4) View Customer Payments     May-02-21 Sunday EDT 20:07:21
+{INFO} - [com.revature.controller.FrontController] -     5) Manager Operations     May-02-21 Sunday EDT 20:07:21
+{INFO} - [com.revature.controller.FrontController] -     6) Log Out     May-02-21 Sunday EDT 20:07:21
+{INFO} - [com.revature.controller.FrontController] -     =============================================     May-02-21 Sunday EDT 20:07:21
+{INFO} - [com.revature.controller.FrontController] -     Logging Out     May-02-21 Sunday EDT 20:07:47
+{INFO} - [com.revature.controller.FrontController] -     
+==============================================     May-02-21 Sunday EDT 20:07:47
+{INFO} - [com.revature.controller.FrontController] -     Welcome to the Radioctive Reptiles App V1.0!     May-02-21 Sunday EDT 20:07:47
+{INFO} - [com.revature.controller.FrontController] -     =============================================================================================     May-02-21 Sunday EDT 20:07:47
+{INFO} - [com.revature.controller.FrontController] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     May-02-21 Sunday EDT 20:07:47
+{INFO} - [com.revature.controller.FrontController] -     All of our mutations are safetly lab grown using patented state of the art technology     May-02-21 Sunday EDT 20:07:47
+{INFO} - [com.revature.controller.FrontController] -     =============================================================================================     May-02-21 Sunday EDT 20:07:47
+{INFO} - [com.revature.controller.FrontController] -     Proceed by selecting one of the options below:     May-02-21 Sunday EDT 20:07:47
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 20:07:47
+{INFO} - [com.revature.controller.FrontController] -     1) Customer Login & Registration     May-02-21 Sunday EDT 20:07:47
+{INFO} - [com.revature.controller.FrontController] -     2) Employee Login     May-02-21 Sunday EDT 20:07:47
+{INFO} - [com.revature.controller.FrontController] -     3) Exit App     May-02-21 Sunday EDT 20:07:47
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 20:07:47
+{INFO} - [com.revature.controller.FrontController] -     
+==============================================     May-02-21 Sunday EDT 22:02:31
+{INFO} - [com.revature.controller.FrontController] -     Welcome to the Radioctive Reptiles App V1.0!     May-02-21 Sunday EDT 22:02:31
+{INFO} - [com.revature.controller.FrontController] -     =============================================================================================     May-02-21 Sunday EDT 22:02:31
+{INFO} - [com.revature.controller.FrontController] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     May-02-21 Sunday EDT 22:02:31
+{INFO} - [com.revature.controller.FrontController] -     All of our mutations are safetly lab grown using patented state of the art technology     May-02-21 Sunday EDT 22:02:31
+{INFO} - [com.revature.controller.FrontController] -     =============================================================================================     May-02-21 Sunday EDT 22:02:31
+{INFO} - [com.revature.controller.FrontController] -     Proceed by selecting one of the options below:     May-02-21 Sunday EDT 22:02:31
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 22:02:31
+{INFO} - [com.revature.controller.FrontController] -     1) Customer Login & Registration     May-02-21 Sunday EDT 22:02:31
+{INFO} - [com.revature.controller.FrontController] -     2) Employee Login     May-02-21 Sunday EDT 22:02:31
+{INFO} - [com.revature.controller.FrontController] -     3) Exit App     May-02-21 Sunday EDT 22:02:31
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 22:02:31
+{INFO} - [com.revature.controller.FrontController] -     
+===========================================     May-02-21 Sunday EDT 22:02:52
+{INFO} - [com.revature.controller.FrontController] -     Welcome to Customer Login and Registration     May-02-21 Sunday EDT 22:02:52
+{INFO} - [com.revature.controller.FrontController] -     Please choose one of the following options     May-02-21 Sunday EDT 22:02:52
+{INFO} - [com.revature.controller.FrontController] -     ===========================================     May-02-21 Sunday EDT 22:02:52
+{INFO} - [com.revature.controller.FrontController] -     1) Login     May-02-21 Sunday EDT 22:02:52
+{INFO} - [com.revature.controller.FrontController] -     2) Register for an Account     May-02-21 Sunday EDT 22:02:52
+{INFO} - [com.revature.controller.FrontController] -     3) Exit     May-02-21 Sunday EDT 22:02:52
+{INFO} - [com.revature.controller.FrontController] -     ===========================================     May-02-21 Sunday EDT 22:02:52
+{INFO} - [com.revature.controller.FrontController] -     
+Please enter your user email address     May-02-21 Sunday EDT 22:02:53
+{INFO} - [com.revature.controller.FrontController] -     Please enter your password     May-02-21 Sunday EDT 22:02:59
+{WARN} - [com.revature.controller.FrontController] -     Email and Password do not match please try again     May-02-21 Sunday EDT 22:03:01
+{INFO} - [com.revature.controller.FrontController] -     
+===========================================     May-02-21 Sunday EDT 22:03:01
+{INFO} - [com.revature.controller.FrontController] -     Welcome to Customer Login and Registration     May-02-21 Sunday EDT 22:03:01
+{INFO} - [com.revature.controller.FrontController] -     Please choose one of the following options     May-02-21 Sunday EDT 22:03:01
+{INFO} - [com.revature.controller.FrontController] -     ===========================================     May-02-21 Sunday EDT 22:03:01
+{INFO} - [com.revature.controller.FrontController] -     1) Login     May-02-21 Sunday EDT 22:03:01
+{INFO} - [com.revature.controller.FrontController] -     2) Register for an Account     May-02-21 Sunday EDT 22:03:01
+{INFO} - [com.revature.controller.FrontController] -     3) Exit     May-02-21 Sunday EDT 22:03:01
+{INFO} - [com.revature.controller.FrontController] -     ===========================================     May-02-21 Sunday EDT 22:03:01
+{INFO} - [com.revature.controller.FrontController] -     
+Please enter your user email address     May-02-21 Sunday EDT 22:03:20
+{INFO} - [com.revature.controller.FrontController] -     Please enter your password     May-02-21 Sunday EDT 22:03:34
+{WARN} - [com.revature.controller.FrontController] -     Email and Password do not match please try again     May-02-21 Sunday EDT 22:03:38
+{INFO} - [com.revature.controller.FrontController] -     
+===========================================     May-02-21 Sunday EDT 22:03:38
+{INFO} - [com.revature.controller.FrontController] -     Welcome to Customer Login and Registration     May-02-21 Sunday EDT 22:03:38
+{INFO} - [com.revature.controller.FrontController] -     Please choose one of the following options     May-02-21 Sunday EDT 22:03:38
+{INFO} - [com.revature.controller.FrontController] -     ===========================================     May-02-21 Sunday EDT 22:03:38
+{INFO} - [com.revature.controller.FrontController] -     1) Login     May-02-21 Sunday EDT 22:03:38
+{INFO} - [com.revature.controller.FrontController] -     2) Register for an Account     May-02-21 Sunday EDT 22:03:38
+{INFO} - [com.revature.controller.FrontController] -     3) Exit     May-02-21 Sunday EDT 22:03:38
+{INFO} - [com.revature.controller.FrontController] -     ===========================================     May-02-21 Sunday EDT 22:03:38
+{INFO} - [com.revature.controller.FrontController] -     
+Please enter your user email address     May-02-21 Sunday EDT 22:04:16
+{INFO} - [com.revature.controller.FrontController] -     Please enter your password     May-02-21 Sunday EDT 22:04:35
+{INFO} - [com.revature.controller.FrontController] -     
+=====================================     May-02-21 Sunday EDT 22:04:40
+{INFO} - [com.revature.controller.FrontController] -     Welcome back to Radioactive Reptiles!     May-02-21 Sunday EDT 22:04:40
+{INFO} - [com.revature.controller.FrontController] -     What are you looking for today?     May-02-21 Sunday EDT 22:04:40
+{INFO} - [com.revature.controller.FrontController] -     =====================================     May-02-21 Sunday EDT 22:04:40
+{INFO} - [com.revature.controller.FrontController] -     1) Available Mutations     May-02-21 Sunday EDT 22:04:40
+{INFO} - [com.revature.controller.FrontController] -     2) Purchases and Payments     May-02-21 Sunday EDT 22:04:40
+{INFO} - [com.revature.controller.FrontController] -     3) My Mutation Offers     May-02-21 Sunday EDT 22:04:40
+{INFO} - [com.revature.controller.FrontController] -     4) Log out     May-02-21 Sunday EDT 22:04:40
+{INFO} - [com.revature.controller.FrontController] -     ==================================     May-02-21 Sunday EDT 22:04:40
+{INFO} - [com.revature.controller.FrontController] -     
+==============================================     May-02-21 Sunday EDT 22:26:37
+{INFO} - [com.revature.controller.FrontController] -     Welcome to the Radioctive Reptiles App V1.0!     May-02-21 Sunday EDT 22:26:37
+{INFO} - [com.revature.controller.FrontController] -     =============================================================================================     May-02-21 Sunday EDT 22:26:37
+{INFO} - [com.revature.controller.FrontController] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     May-02-21 Sunday EDT 22:26:37
+{INFO} - [com.revature.controller.FrontController] -     All of our mutations are safetly lab grown using patented state of the art technology     May-02-21 Sunday EDT 22:26:37
+{INFO} - [com.revature.controller.FrontController] -     =============================================================================================     May-02-21 Sunday EDT 22:26:37
+{INFO} - [com.revature.controller.FrontController] -     Proceed by selecting one of the options below:     May-02-21 Sunday EDT 22:26:37
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 22:26:37
+{INFO} - [com.revature.controller.FrontController] -     1) Customer Login & Registration     May-02-21 Sunday EDT 22:26:37
+{INFO} - [com.revature.controller.FrontController] -     2) Employee Login     May-02-21 Sunday EDT 22:26:37
+{INFO} - [com.revature.controller.FrontController] -     3) Exit App     May-02-21 Sunday EDT 22:26:37
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 22:26:37
+{INFO} - [com.revature.controller.FrontController] -     
+===========================     May-02-21 Sunday EDT 22:26:53
+{INFO} - [com.revature.controller.FrontController] -     Welcome to Employee Login     May-02-21 Sunday EDT 22:26:53
+{INFO} - [com.revature.controller.FrontController] -     ===========================     May-02-21 Sunday EDT 22:26:53
+{INFO} - [com.revature.controller.FrontController] -     
+Please enter your user email address     May-02-21 Sunday EDT 22:26:53
+{INFO} - [com.revature.controller.FrontController] -     Please enter your password     May-02-21 Sunday EDT 22:27:01
+{WARN} - [com.revature.controller.FrontController] -     Email and Password do not match please try again     May-02-21 Sunday EDT 22:27:04
+{INFO} - [com.revature.controller.FrontController] -     
+==============================================     May-02-21 Sunday EDT 22:27:04
+{INFO} - [com.revature.controller.FrontController] -     Welcome to the Radioctive Reptiles App V1.0!     May-02-21 Sunday EDT 22:27:04
+{INFO} - [com.revature.controller.FrontController] -     =============================================================================================     May-02-21 Sunday EDT 22:27:04
+{INFO} - [com.revature.controller.FrontController] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     May-02-21 Sunday EDT 22:27:04
+{INFO} - [com.revature.controller.FrontController] -     All of our mutations are safetly lab grown using patented state of the art technology     May-02-21 Sunday EDT 22:27:04
+{INFO} - [com.revature.controller.FrontController] -     =============================================================================================     May-02-21 Sunday EDT 22:27:04
+{INFO} - [com.revature.controller.FrontController] -     Proceed by selecting one of the options below:     May-02-21 Sunday EDT 22:27:04
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 22:27:04
+{INFO} - [com.revature.controller.FrontController] -     1) Customer Login & Registration     May-02-21 Sunday EDT 22:27:04
+{INFO} - [com.revature.controller.FrontController] -     2) Employee Login     May-02-21 Sunday EDT 22:27:04
+{INFO} - [com.revature.controller.FrontController] -     3) Exit App     May-02-21 Sunday EDT 22:27:04
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 22:27:04
+{INFO} - [com.revature.controller.FrontController] -     
+===========================     May-02-21 Sunday EDT 22:27:09
+{INFO} - [com.revature.controller.FrontController] -     Welcome to Employee Login     May-02-21 Sunday EDT 22:27:09
+{INFO} - [com.revature.controller.FrontController] -     ===========================     May-02-21 Sunday EDT 22:27:09
+{INFO} - [com.revature.controller.FrontController] -     
+Please enter your user email address     May-02-21 Sunday EDT 22:27:09
+{INFO} - [com.revature.controller.FrontController] -     Please enter your password     May-02-21 Sunday EDT 22:27:42
+{INFO} - [com.revature.controller.FrontController] -     
+=============================================     May-02-21 Sunday EDT 22:27:50
+{INFO} - [com.revature.controller.FrontController] -     Welcome back! What will you be doing today?     May-02-21 Sunday EDT 22:27:50
+{INFO} - [com.revature.controller.FrontController] -     =============================================     May-02-21 Sunday EDT 22:27:50
+{INFO} - [com.revature.controller.FrontController] -     1) Manage Mutation Inventory     May-02-21 Sunday EDT 22:27:50
+{INFO} - [com.revature.controller.FrontController] -     2) View Customer Accounts     May-02-21 Sunday EDT 22:27:50
+{INFO} - [com.revature.controller.FrontController] -     3) View and Manage Customer Offers     May-02-21 Sunday EDT 22:27:50
+{INFO} - [com.revature.controller.FrontController] -     4) Manager Operations     May-02-21 Sunday EDT 22:27:50
+{INFO} - [com.revature.controller.FrontController] -     5) Log Out     May-02-21 Sunday EDT 22:27:50
+{INFO} - [com.revature.controller.FrontController] -     =============================================     May-02-21 Sunday EDT 22:27:50
+{INFO} - [com.revature.controller.FrontController] -     
+==============================================     May-02-21 Sunday EDT 22:34:15
+{INFO} - [com.revature.controller.FrontController] -     Welcome to the Radioctive Reptiles App V1.0!     May-02-21 Sunday EDT 22:34:15
+{INFO} - [com.revature.controller.FrontController] -     =============================================================================================     May-02-21 Sunday EDT 22:34:15
+{INFO} - [com.revature.controller.FrontController] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     May-02-21 Sunday EDT 22:34:15
+{INFO} - [com.revature.controller.FrontController] -     All of our mutations are safetly lab grown using patented state of the art technology     May-02-21 Sunday EDT 22:34:15
+{INFO} - [com.revature.controller.FrontController] -     =============================================================================================     May-02-21 Sunday EDT 22:34:15
+{INFO} - [com.revature.controller.FrontController] -     Proceed by selecting one of the options below:     May-02-21 Sunday EDT 22:34:15
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 22:34:15
+{INFO} - [com.revature.controller.FrontController] -     1) Customer Login & Registration     May-02-21 Sunday EDT 22:34:15
+{INFO} - [com.revature.controller.FrontController] -     2) Employee Login     May-02-21 Sunday EDT 22:34:15
+{INFO} - [com.revature.controller.FrontController] -     3) Exit App     May-02-21 Sunday EDT 22:34:15
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-02-21 Sunday EDT 22:34:15
+{INFO} - [com.revature.controller.FrontController] -     
+===========================================     May-02-21 Sunday EDT 22:34:33
+{INFO} - [com.revature.controller.FrontController] -     Welcome to Customer Login and Registration     May-02-21 Sunday EDT 22:34:33
+{INFO} - [com.revature.controller.FrontController] -     Please choose one of the following options     May-02-21 Sunday EDT 22:34:33
+{INFO} - [com.revature.controller.FrontController] -     ===========================================     May-02-21 Sunday EDT 22:34:33
+{INFO} - [com.revature.controller.FrontController] -     1) Login     May-02-21 Sunday EDT 22:34:33
+{INFO} - [com.revature.controller.FrontController] -     2) Register for an Account     May-02-21 Sunday EDT 22:34:33
+{INFO} - [com.revature.controller.FrontController] -     3) Exit     May-02-21 Sunday EDT 22:34:33
+{INFO} - [com.revature.controller.FrontController] -     ===========================================     May-02-21 Sunday EDT 22:34:33
+{INFO} - [com.revature.controller.FrontController] -     
+Please enter your user email address     May-02-21 Sunday EDT 22:34:35
+{INFO} - [com.revature.controller.FrontController] -     Please enter your password     May-02-21 Sunday EDT 22:34:51
+{INFO} - [com.revature.controller.FrontController] -     1     May-02-21 Sunday EDT 22:34:58
+{INFO} - [com.revature.controller.FrontController] -     
+=====================================     May-02-21 Sunday EDT 22:34:58
+
+{INFO} - [com.revature.controller.FrontController] -     
+==============================================     May-04-21 Tuesday EDT 02:35:05
+{INFO} - [com.revature.controller.FrontController] -     Welcome to the Radioctive Reptiles App V1.0!     May-04-21 Tuesday EDT 02:35:05
+{INFO} - [com.revature.controller.FrontController] -     =============================================================================================     May-04-21 Tuesday EDT 02:35:05
+{INFO} - [com.revature.controller.FrontController] -     Disclaimer: The Radioactive Reptiles Company does not harm or modify living Fauna And Flora.     May-04-21 Tuesday EDT 02:35:05
+{INFO} - [com.revature.controller.FrontController] -     All of our mutations are safetly lab grown using patented state of the art technology     May-04-21 Tuesday EDT 02:35:05
+{INFO} - [com.revature.controller.FrontController] -     =============================================================================================     May-04-21 Tuesday EDT 02:35:05
+{INFO} - [com.revature.controller.FrontController] -     Proceed by selecting one of the options below:     May-04-21 Tuesday EDT 02:35:05
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-04-21 Tuesday EDT 02:35:05
+{INFO} - [com.revature.controller.FrontController] -     1) Customer Login & Registration     May-04-21 Tuesday EDT 02:35:05
+{INFO} - [com.revature.controller.FrontController] -     2) Employee Login     May-04-21 Tuesday EDT 02:35:05
+{INFO} - [com.revature.controller.FrontController] -     3) Exit App     May-04-21 Tuesday EDT 02:35:05
+{INFO} - [com.revature.controller.FrontController] -     ==============================================     May-04-21 Tuesday EDT 02:35:05
+{INFO} - [com.revature.controller.FrontController] -     
+===========================     May-04-21 Tuesday EDT 02:35:34
+{INFO} - [com.revature.controller.FrontController] -     Welcome to Employee Login     May-04-21 Tuesday EDT 02:35:34
+{INFO} - [com.revature.controller.FrontController] -     ===========================     May-04-21 Tuesday EDT 02:35:34
+{INFO} - [com.revature.controller.FrontController] -     
+Please enter your user email address     May-04-21 Tuesday EDT 02:35:34
+{INFO} - [com.revature.controller.FrontController] -     Please enter your password     May-04-21 Tuesday EDT 02:35:51

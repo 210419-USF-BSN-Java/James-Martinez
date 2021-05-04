@@ -9,11 +9,14 @@ import com.revature.models.Customer;
 
 public interface CustomerDAO {
 	
-public int createNewCustomer(Customer customer) throws RegistrationException;
+public int createNewCustomer(Customer customer) throws RegistrationException; //COMPLETED
 	
-	public List<Customer> listAllCustomerAccounts() throws EmptyDatabaseException;
-	public Customer getCustomerById(int custId) throws EntryNotFoundException;
+	public List<Customer> listAllCustomerAccounts() throws EmptyDatabaseException; //COMPLETED
+	public Customer getCustomerById(int custId) throws EntryNotFoundException;  //MIGHT NOT NEED
 	
-	public boolean custLogin(String email, String password);
+	public boolean custLogin(String email, String password); //COMPLETED
+	
+	public int getIdByEmailPassword(String email, String password); //COMPLETED
+	
 
 }

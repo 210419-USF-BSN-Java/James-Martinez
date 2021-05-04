@@ -9,13 +9,15 @@ import com.revature.models.Employee;
 
 public interface EmployeeDAO {
 	
-	public int createNewEmployee(Employee employee) throws RegistrationException;
-    public int deleteEmployeeById(int empId) throws EntryNotFoundException;
+	public int createNewEmployee(Employee employee) throws RegistrationException; //COMPLETED
+    public int deleteEmployeeById(int empId) throws EntryNotFoundException; //COMPLETED
 	
-	public List<Employee> listAllEmployeeAccounts() throws EmptyDatabaseException;
-	public Employee getEmployeeById(int empId) throws EntryNotFoundException;
+	public List<Employee> listAllEmployeeAccounts() throws EmptyDatabaseException; //COMPLETED
+	public Employee getEmployeeById(int empId) throws EntryNotFoundException; //COMPLETED
 	
-	public boolean empLogin(String email, String password);
+	public boolean empLogin(String email, String password); //COMPLETED
+	
+	public String getManagerByEmailPassword(String email, String Password); //COMPLETED
 	
 	
 

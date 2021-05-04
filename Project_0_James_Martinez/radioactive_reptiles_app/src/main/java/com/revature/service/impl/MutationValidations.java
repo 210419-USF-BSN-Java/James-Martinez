@@ -12,8 +12,8 @@ public class MutationValidations {
 	}
 	
 	
-	public static boolean isValidMutationPrice(float price) {
-		if (price > 0) {
+	public static boolean isValidMutationPrice(float askPrice) {
+		if (askPrice > 0) {
 			return true;
 		} else {
 			return false;
@@ -21,8 +21,8 @@ public class MutationValidations {
 
 	}
 	
-	public static boolean isValidMutationStock(int stock) {
-		if (stock >= 0) {
+	public static boolean isValidMutationAvailability(String availability) {
+		if (availability.equals("Available")||availability.equals("Unavailable")) {
 			return true;
 		} else {
 			return false;
@@ -30,7 +30,7 @@ public class MutationValidations {
 
 	}
 	
-	public static boolean isValidMutationHeightWeight(String height) {
+	public static boolean isValidMutationHeight(String height) {
 		if (height != null && height.matches("[A-Za-z0-9: ]{5,15}")) {
 			return true;
 		} else {

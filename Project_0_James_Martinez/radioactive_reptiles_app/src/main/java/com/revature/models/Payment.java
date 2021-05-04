@@ -8,7 +8,7 @@ public class Payment implements Serializable{
 	/**
 	 * 
 	 */
-	private static final long serialVersionUID = 1L; //addname maybe just change ids to name
+	private static final long serialVersionUID = 1L; 
 	
 	private int customerId;
 	private String name;

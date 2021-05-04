@@ -10,7 +10,6 @@ public class Offer extends Payment{
 	private static final long serialVersionUID = 1L;
 	
 	private int offerId;
-	private String mutationName;
 	private String status;
 
 	public Offer() {
@@ -18,8 +17,11 @@ public class Offer extends Payment{
 		// TODO Auto-generated constructor stub
 	}
 
-	public Offer(int customerId, String name, float amount, Date dateTime) {
+	public Offer(int customerId, String name, float amount, Date dateTime, int offerId, String status) {
 		super(customerId, name, amount, dateTime);
+		this.offerId = offerId;
+		this.status = status;
+		
 		// TODO Auto-generated constructor stub
 	}
 
@@ -29,14 +31,6 @@ public class Offer extends Payment{
 
 	public void setOfferId(int offerId) {
 		this.offerId = offerId;
-	}
-
-	public String getMutationName() {
-		return mutationName;
-	}
-
-	public void setMutationName(String mutationName) {
-		this.mutationName = mutationName;
 	}
 
 	public String getStatus() {
@@ -51,7 +45,6 @@ public class Offer extends Payment{
 	public int hashCode() {
 		final int prime = 31;
 		int result = super.hashCode();
-		result = prime * result + ((mutationName == null) ? 0 : mutationName.hashCode());
 		result = prime * result + offerId;
 		result = prime * result + ((status == null) ? 0 : status.hashCode());
 		return result;
@@ -66,11 +59,6 @@ public class Offer extends Payment{
 		if (getClass() != obj.getClass())
 			return false;
 		Offer other = (Offer) obj;
-		if (mutationName == null) {
-			if (other.mutationName != null)
-				return false;
-		} else if (!mutationName.equals(other.mutationName))
-			return false;
 		if (offerId != other.offerId)
 			return false;
 		if (status == null) {
@@ -83,9 +71,10 @@ public class Offer extends Payment{
 
 	@Override
 	public String toString() {
-		return "Offer [offerId=" + offerId + ", mutationName=" + mutationName + ", status=" + status + ", toString()="
-				+ super.toString() + "]";
+		return "Offer [offerId=" + offerId + ", status=" + status + ", toString()=" + super.toString() + "]";
 	}
+
+	
 
 	
 
