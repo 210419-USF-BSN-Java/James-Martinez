@@ -20,5 +20,23 @@ public class PurchaseAndBidValidations {
 
 	}
 	
+	public static boolean isValidOfferId(int offerId) {
+		if (offerId >= 1) {
+			return true;
+		} else {
+			return false;
+		}
+
+	}
+	
+	public static boolean isValidPurchaseId(int purchaseId) {
+		if (purchaseId >= 10000) {
+			return true;
+		} else {
+			return false;
+		}
+
+	}
+	
 
 }

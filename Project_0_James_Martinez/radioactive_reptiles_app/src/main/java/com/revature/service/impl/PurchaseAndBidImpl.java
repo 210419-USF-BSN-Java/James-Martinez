@@ -17,11 +17,14 @@ public class PurchaseAndBidImpl implements PurchaseAndBidService{
 	private PurchaseAndBidDAO purDAO = new PurchaseAndBidDAOImpl();
 
 	@Override
-	public int makePayment(Payment payment) throws PaymentException {
+	public int makePayment(Payment payment, int purchaseId) throws PaymentException {
 		if(!PurchaseAndBidValidations.isValidAmount(payment.getAmount())) {
 			throw new PaymentException("Payment amount cannot be 0 or negative");
 		}
-		return 0;
+		if(!PurchaseAndBidValidations.isValidPurchaseId(purchaseId)) {
+			throw new PaymentException("Invalid purchase ID");
+		}
+		return purDAO.makePayment(payment, purchaseId);
 	}
 	
 	@Override
@@ -29,29 +32,56 @@ public class PurchaseAndBidImpl implements PurchaseAndBidService{
 		if(!PurchaseAndBidValidations.isValidAmount(offer.getAmount())) {
 			throw new OfferException("Offer amount cannot be 0 or negative");
 		}
-		return 0;
+		return purDAO.makeOffer(offer);
 	}
 
 	@Override
-	public int makePurchase(Purchase purchase) throws PaymentException {
-		return 0;
+	public int makePurchase(Purchase purchase, String availability) throws PaymentException {
+		
+		return purDAO.makePurchase(purchase, availability);
+	}
+	
+	@Override
+	public List<Offer> viewOfferByCustomer(int custId) throws EntryNotFoundException {
+		if(!PurchaseAndBidValidations.isValidCustomerId(custId)) {
+			throw new EntryNotFoundException("Invalid Customer ID");
+		}
+		return purDAO.viewOfferByCustomer(custId);
 	}
 
 	@Override
 	public List<Payment> viewPaymentByCustomer(int custId) throws EntryNotFoundException {
 		if(!PurchaseAndBidValidations.isValidCustomerId(custId)) {
-			throw new EntryNotFoundException("Invalid Customer ID please try again");
+			throw new EntryNotFoundException("Invalid Customer ID");
 		}
-		return null;
+		return purDAO.viewPaymentByCustomer(custId);
 	}
 
 	@Override
 	public List<Purchase> viewPurchaseByCustomer(int custId) throws EntryNotFoundException {
 		if(!PurchaseAndBidValidations.isValidCustomerId(custId)) {
-			throw new EntryNotFoundException("Invalid Customer ID please try again");
+			throw new EntryNotFoundException("Invalid Customer ID");
 		}
-		return null;
+		return purDAO.viewPurchaseByCustomer(custId);
 	}
+
+	@Override
+	public Offer getOfferById(int offerId) throws EntryNotFoundException {
+		if(!PurchaseAndBidValidations.isValidOfferId(offerId)) {
+			throw new EntryNotFoundException("Invalid Offer ID");
+		}
+		return purDAO.getOfferById(offerId);
+	}
+
+	@Override
+	public Purchase getPurchaseById(int purchaseId) throws EntryNotFoundException {
+		if(!PurchaseAndBidValidations.isValidPurchaseId(purchaseId)) {
+			throw new EntryNotFoundException("Invalid purchase ID");
+		}
+		return purDAO.getPurchaseById(purchaseId);
+	}
+
+	
 
 
 

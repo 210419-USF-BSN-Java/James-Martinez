@@ -21,15 +21,6 @@ public class MutationValidations {
 
 	}
 	
-	public static boolean isValidMutationAvailability(String availability) {
-		if (availability.equals("Available")||availability.equals("Unavailable")) {
-			return true;
-		} else {
-			return false;
-		}
-
-	}
-	
 	public static boolean isValidMutationHeight(String height) {
 		if (height != null && height.matches("[A-Za-z0-9: ]{5,15}")) {
 			return true;

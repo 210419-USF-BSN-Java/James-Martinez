@@ -51,7 +51,7 @@ public class Employee extends Person{
 
 	@Override
 	public String toString() {
-		return "Employee [empLogin=" + empLogin + ", toString()=" + super.toString() + "]";
+		return String.format("%-8d", empLogin)+ super.toString();
 	}
 
 	

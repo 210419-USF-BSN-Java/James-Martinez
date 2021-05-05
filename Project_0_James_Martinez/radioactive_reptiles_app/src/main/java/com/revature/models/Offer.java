@@ -71,7 +71,7 @@ public class Offer extends Payment{
 
 	@Override
 	public String toString() {
-		return "Offer [offerId=" + offerId + ", status=" + status + ", toString()=" + super.toString() + "]";
+		return String.format("%-20s", "Offer ID: "+offerId)+super.toString()+ String.format("%-10s", status);
 	}
 
 	

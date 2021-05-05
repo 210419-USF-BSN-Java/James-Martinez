@@ -66,7 +66,7 @@ public class Customer extends Person{
 
 	@Override
 	public String toString() {
-		return "Customer [location=" + location + ", Custid=" + custId + ", toString()=" + super.toString() + "]";
+		return String.format("%-8d", custId)+super.toString()+ String.format("%-25s", "Location: "+location);
 	}
 
 	

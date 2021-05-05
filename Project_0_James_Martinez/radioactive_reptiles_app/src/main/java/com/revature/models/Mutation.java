@@ -27,7 +27,7 @@ public class Mutation implements Serializable{
 		this.height = height;
 		this.weight = weight;
 		this.askPrice = askPrice;
-		Availability = availability;
+		this.Availability = availability;
 	}
 
 	public String getMutationId() {
@@ -132,8 +132,7 @@ public class Mutation implements Serializable{
 
 	@Override
 	public String toString() {
-		return "Mutation [mutationId=" + mutationId + ", name=" + name + ", height=" + height + ", weight=" + weight
-				+ ", askPrice=" + askPrice + ", Availability=" + Availability + "]";
+		return String.format("%-8s\t%-17s\t%-15s\t%-15s\t%-20s\t%-20s", "ID: "+mutationId, name, height, weight, "Ask Price: $"+askPrice, Availability);
 	}
 	
 

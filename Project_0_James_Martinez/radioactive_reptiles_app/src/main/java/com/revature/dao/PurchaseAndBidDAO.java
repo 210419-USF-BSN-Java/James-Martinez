@@ -12,16 +12,21 @@ import com.revature.models.Purchase;
 
 public interface PurchaseAndBidDAO {
 	
-    public int makePayment(Payment payment) throws PaymentException;
-    public int makeOffer(Offer offer) throws OfferException;
-    public int makePurchase(Purchase purchase) throws PaymentException;
+    public int makePayment(Payment payment, int purchaseId) throws PaymentException;
+    public int makeOffer(Offer offer) throws OfferException;          //COMPLETED
+    public int makePurchase(Purchase purchase, String availability) throws PaymentException;
     
 	public List<Payment> viewPaymentByCustomer(int custId) throws EntryNotFoundException;
+	public List<Offer> viewOfferByCustomer(int custId) throws EntryNotFoundException;
+	public List<Purchase> viewPurchaseByCustomer(int custId) throws EntryNotFoundException;
 	
 	public List<Offer> viewAllOffers() throws EmptyDatabaseException;
 	public List<Purchase> viewAllPurchases() throws EmptyDatabaseException;
-	public List<Purchase> viewPurchaseByCustomer(int custId) throws EntryNotFoundException;
 	
-	public int approveOffer();
+	
+	public Offer getOfferById(int offerId)throws EntryNotFoundException;
+	public Purchase getPurchaseById(int purchaseId)throws EntryNotFoundException;
+	
+	public int approveOffer(String status, int offerId);
 
 }

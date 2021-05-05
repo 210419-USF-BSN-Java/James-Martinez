@@ -88,7 +88,7 @@ public class Person implements Serializable{
 
 	@Override
 	public String toString() {
-		return "Person [name=" + name + ", email=" + email + ", password=" + password + "]";
+		return String.format("%-20s\t%-30s\t%-25s", name, "Email: "+email, "Password: "+password);		
 	}
 	
 

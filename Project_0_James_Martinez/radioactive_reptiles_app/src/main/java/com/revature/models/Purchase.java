@@ -75,8 +75,11 @@ public class Purchase extends Payment{
 
 	@Override
 	public String toString() {
-		return "Purchase [balance=" + balance + ", purchaseId=" + purchaseId + "]";
+		return String.format("%-25s", "Purchase ID: "+purchaseId) + super.toString() + String.format("%-20s", "Balance: $"+balance);
 	}
+
+
+	
 	
 	
 

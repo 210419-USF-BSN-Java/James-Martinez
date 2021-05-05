@@ -98,8 +98,7 @@ public class Payment implements Serializable{
 
 	@Override
 	public String toString() {
-		return "Payment [customerId=" + customerId + ", name=" + name + ", amount=" + amount + ", dateTime=" + dateTime
-				+ "]";
+		return String.format("%-18s\t%-16s\t%-18s\t%-17s", "Customer ID:"+customerId, name, "Amount: $"+amount, dateTime);
 	}
 	
 
