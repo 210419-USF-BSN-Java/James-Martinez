@@ -531,15 +531,15 @@ public class FrontController {
 						case 1:
 							int mutOption = 0;
 							do{
-								log.info("\n==============================================");
+								log.info("\n===============================================");
 								log.info("Select from the following to manage Mutations:");  //EMPLOYEE MANAGE MUTATIONS SUB MENU
-								log.info("==============================================");
+								log.info("===============================================");
 								log.info("1) List all Mutations");
 								log.info("2) Add Mutations");
 								log.info("3) Remove Mutations");
 								log.info("4) Edit Mutations");    //REMEMBER TO ADD DESCRIPTION
 								log.info("5) Return");
-								log.info("==============================================");
+								log.info("===============================================");
 								try {
 									mutOption=Integer.parseInt(scan.nextLine());
 								} catch (NumberFormatException e) {}
