@@ -24,6 +24,8 @@ public class LoggedInServlet extends HttpServlet{
     PrintWriter pw = response.getWriter();
     
     int id = (int) session.getAttribute("id");
+    System.out.println(id);
+    
     User user = uServ.getEmployeeById(id);  //user keeps coming out null I do not know why :( im tired im sad i hate this project
     System.out.println(user);
     

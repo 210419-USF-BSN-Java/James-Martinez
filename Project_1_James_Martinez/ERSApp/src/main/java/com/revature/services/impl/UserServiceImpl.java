@@ -37,7 +37,7 @@ public class UserServiceImpl implements UserService{
 
 	@Override
 	public User getUserById(int id) {
-		// TODO Auto-generated method stub
+		System.out.println("in user service");
 		return uDAO.getUserById(id);
 	}
 

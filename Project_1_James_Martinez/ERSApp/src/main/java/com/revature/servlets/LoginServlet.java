@@ -36,11 +36,6 @@ public class LoginServlet extends HttpServlet{
         int userId = uServ.userLogin(username, password);
         System.out.println(userId);
         
-        int testInt = 102;
-        User testUser = null;
-        testUser = uServ.getEmployeeById(testInt);
-        System.out.println(testUser);
-        
         if(userId == 0)
         {
              request.getRequestDispatcher("static/login.html").include(request, response);
