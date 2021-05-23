@@ -131,7 +131,6 @@ public class UserDAOImpl implements UserDAO{
 			preparedStatement.setInt(1, id);
 			ResultSet resultSet=preparedStatement.executeQuery();
 			while(resultSet.next()) {
-				System.out.println("in while loop");
 				user =new User();
 				user.setUserId(id);
 				user.setUsername(resultSet.getString("username"));
@@ -144,7 +143,6 @@ public class UserDAOImpl implements UserDAO{
 		} catch (ClassNotFoundException | SQLException e) {
 			log.debug(e);
 		}
-		System.out.println(user);
 		return user;
 	}
 

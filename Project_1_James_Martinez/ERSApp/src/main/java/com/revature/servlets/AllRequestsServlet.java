@@ -2,6 +2,7 @@ package com.revature.servlets;
 
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.ArrayList;
 import java.util.List;
 
 import javax.servlet.ServletException;
@@ -12,44 +13,30 @@ import javax.servlet.http.HttpSession;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.revature.models.Reimbursement;
-import com.revature.models.User;
 import com.revature.services.ReimbursementService;
 import com.revature.services.UserService;
 import com.revature.services.impl.ReimbursementServiceImpl;
 import com.revature.services.impl.UserServiceImpl;
 
-public class ReimbursementServlet extends HttpServlet{
+public class AllRequestsServlet extends HttpServlet{
 	
-	ReimbursementService reimbServ = new ReimbursementServiceImpl();
 	UserService uServ = new UserServiceImpl();
+	ReimbursementService reimbServ = new ReimbursementServiceImpl();
 	ObjectMapper om = new ObjectMapper();
-	
-	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		
-		
-	}
 	
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
+		PrintWriter pw = response.getWriter();
 		HttpSession session = request.getSession(false);
-	    PrintWriter pw = response.getWriter();
-	    
-	    
-	    int id = (int) session.getAttribute("id");
-	    System.out.println(id);
+		int userId = (int)session.getAttribute("id");
+		System.out.println(userId +"inALLREQ");
 		
-	    User user = uServ.getUserById(id);
-	    
-	    if(user.getRole().equals("manager")) {
-	    	request.getRequestDispatcher("manager-reimbursement");
-	    }else {
-	    	request.getRequestDispatcher("employee-reimbursement");
-	    }
-	    
-	}
-	
-	protected void doPut(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		String status = request.getParameter("status");
+		//String status = "pending";
+		List<Reimbursement> reqList = new ArrayList<>();
 		
+		reqList = reimbServ.listAll(status);
+		pw.write(om.writeValueAsString(reqList));
 	}
 
 }

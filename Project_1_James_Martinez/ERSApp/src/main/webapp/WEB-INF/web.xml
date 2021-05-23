@@ -12,6 +12,36 @@
         <servlet-name>LoggedInServlet</servlet-name>
         <servlet-class>com.revature.servlets.LoggedInServlet</servlet-class>
  </servlet>
+ <servlet>
+        <servlet-name>ReimbursementServlet</servlet-name>
+        <servlet-class>com.revature.servlets.ReimbursementServlet</servlet-class>
+ </servlet>
+ <servlet>
+        <servlet-name>ManagerReimbursementServlet</servlet-name>
+        <servlet-class>com.revature.servlets.ManagerReimbursementServlet</servlet-class>
+ </servlet>
+ <servlet>
+        <servlet-name>EmployeeReimbursementServlet</servlet-name>
+        <servlet-class>com.revature.servlets.EmployeeReimbursementServlet</servlet-class>
+ </servlet>
+ <servlet>
+        <servlet-name>AllRequestsServlet</servlet-name>
+        <servlet-class>com.revature.servlets.AllRequestsServlet</servlet-class>
+ </servlet>
+  <servlet>
+        <servlet-name>UserServlet</servlet-name>
+        <servlet-class>com.revature.servlets.UserServlet</servlet-class>
+ </servlet>
+ <servlet>
+        <servlet-name>ManagerUserServlet</servlet-name>
+        <servlet-class>com.revature.servlets.ManagerUserServlet</servlet-class>
+ </servlet>
+ <servlet>
+        <servlet-name>EmployeeUserServlet</servlet-name>
+        <servlet-class>com.revature.servlets.EmployeeUserServlet</servlet-class>
+ </servlet>
+ 
+ 
  
  <servlet-mapping>
         <servlet-name>LoginServlet</servlet-name>
@@ -21,6 +51,35 @@
         <servlet-name>LoggedInServlet</servlet-name>
         <url-pattern>/loggedin</url-pattern>
  </servlet-mapping>
+ <servlet-mapping>
+        <servlet-name>ReimbursementServlet</servlet-name>
+        <url-pattern>/reimbursement</url-pattern>
+ </servlet-mapping>
+  <servlet-mapping>
+        <servlet-name>ManagerReimbursementServlet</servlet-name>
+        <url-pattern>/manager-reimbursement</url-pattern>
+ </servlet-mapping>
+  <servlet-mapping>
+        <servlet-name>EmployeeReimbursementServlet</servlet-name>
+        <url-pattern>/employee-reimbursement</url-pattern>
+ </servlet-mapping>
+ <servlet-mapping>
+        <servlet-name>AllRequestsServlet</servlet-name>
+        <url-pattern>/all-requests</url-pattern>
+ </servlet-mapping>
+ <servlet-mapping>
+        <servlet-name>UserServlet</servlet-name>
+        <url-pattern>/user</url-pattern>
+ </servlet-mapping>
+ <servlet-mapping>
+        <servlet-name>ManagerUserServlet</servlet-name>
+        <url-pattern>/manager-user</url-pattern>
+ </servlet-mapping>
+  <servlet-mapping>
+        <servlet-name>EmployeeUserServlet</servlet-name>
+        <url-pattern>/employee-user</url-pattern>
+ </servlet-mapping>
+    
     
  
  

@@ -53,10 +53,10 @@ public class TestDriver {
 		//Reimbursement TESTS
 		
 		Reimbursement reimb = new Reimbursement();
-		reimb.setAmount(500);
-		reimb.setDescription("Sea Train Ticket");
-		reimb.setAuthorId(101);
-		int typeId = 2; // 1 = lodging 2 = travel 3 = food 4 = other
+		reimb.setAmount(1000);
+		reimb.setDescription("Ship Repairs");
+		reimb.setAuthorId(107);
+		int typeId = 4; // 1 = lodging 2 = travel 3 = food 4 = other
 		
 		//reimbServ.createNewReimbursement(reimb, typeId); //TESTED
 
@@ -74,14 +74,22 @@ public class TestDriver {
 		System.out.println(idAndStatusList);
 		
 		List<Reimbursement> pendingList = new ArrayList<>();
+		List<Reimbursement> resoList = new ArrayList<>();
+		List<Reimbursement> allList = new ArrayList<>();
 		
-		pendingList = reimbServ.listAllPending(); //TESTED
+		System.out.println("\n");
+		pendingList = reimbServ.listAll("pending"); //TESTED
 		System.out.println(pendingList);
+		resoList = reimbServ.listAll("resolved");
+		System.out.println(resoList);
+		allList = reimbServ.listAll("all");
+		System.out.println(allList);
 		
-        List<Reimbursement> resolvedList = new ArrayList<>();
 		
-		resolvedList = reimbServ.ListAllResolved(); //TESTED
-		System.out.println(resolvedList);
+//        List<Reimbursement> resolvedList = new ArrayList<>();
+//		
+//		resolvedList = reimbServ.ListAllResolved(); //TESTED
+//		System.out.println(resolvedList);
 		
 	}
 	

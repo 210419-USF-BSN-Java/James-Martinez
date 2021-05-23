@@ -30,15 +30,9 @@ public class ReimbursementServiceImpl implements ReimbursementService{
 	}
 
 	@Override
-	public List<Reimbursement> listAllPending() {
+	public List<Reimbursement> listAll(String status) {
 		// TODO Auto-generated method stub
-		return reimbDAO.listAllPending();
-	}
-
-	@Override
-	public List<Reimbursement> ListAllResolved() {
-		// TODO Auto-generated method stub
-		return reimbDAO.ListAllResolved();
+		return reimbDAO.listAll(status);
 	}
 
 }

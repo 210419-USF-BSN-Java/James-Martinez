@@ -8,8 +8,8 @@ public class Reimbursement {
 	
 	private int reimbursementId;
 	private float amount;
-	private Timestamp timeSubmitted;
-	private Timestamp timeResolved;
+	private Date timeSubmitted;
+	private Date timeResolved;
 	private String description;
 	private Blob receipt;
 	private int authorId;
@@ -21,7 +21,7 @@ public class Reimbursement {
 		
 	}
 	
-	public Reimbursement(int reimbursementId, float amount, Timestamp timeSubmitted, Timestamp timeResolved, String description,
+	public Reimbursement(int reimbursementId, float amount, Date timeSubmitted, Date timeResolved, String description,
 			Blob receipt, int authorId, String resolverIdAndName, String reimbStatus, String reimbType) {
 		super();
 		this.reimbursementId = reimbursementId;
@@ -52,19 +52,19 @@ public class Reimbursement {
 		this.amount = amount;
 	}
 
-	public Timestamp getTimeSubmitted() {
+	public Date getTimeSubmitted() {
 		return timeSubmitted;
 	}
 
-	public void setTimeSubmitted(Timestamp timeSubmitted) {
+	public void setTimeSubmitted(Date timeSubmitted) {
 		this.timeSubmitted = timeSubmitted;
 	}
 
-	public Timestamp getTimeResolved() {
+	public Date getTimeResolved() {
 		return timeResolved;
 	}
 
-	public void setTimeResolved(Timestamp timeResolved) {
+	public void setTimeResolved(Date timeResolved) {
 		this.timeResolved = timeResolved;
 	}
 

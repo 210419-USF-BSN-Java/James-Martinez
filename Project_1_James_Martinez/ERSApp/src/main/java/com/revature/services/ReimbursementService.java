@@ -12,10 +12,7 @@ public interface ReimbursementService {
 	
 	public List<Reimbursement> listReimbByIdandStatus(int id, String status);
 	
-	public List<Reimbursement> listAllPending();
-	
-	public List<Reimbursement> ListAllResolved(); //with manager
-	
+	public List<Reimbursement> listAll(String status);
 	
 
 }

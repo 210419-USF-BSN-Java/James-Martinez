@@ -26,16 +26,15 @@ public class LoggedInServlet extends HttpServlet{
     int id = (int) session.getAttribute("id");
     System.out.println(id);
     
-    User user = uServ.getEmployeeById(id);  //user keeps coming out null I do not know why :( im tired im sad i hate this project
-    System.out.println(user);
+    User user = uServ.getUserById(id); 
     
     if(user != null && session != null) {
 	if (user.getRole().equals("manager")) {
-		pw.write("<div style='color:red;'> Welcome!"+user.getFirstName()+user.getLastName()+" </div>");
 		request.getRequestDispatcher("static/manager-home.html").forward(request, response);
+		pw.write("<div style='color:red;'> Welcome!"+user.getFirstName()+user.getLastName()+" </div>");
 	}else {
+		request.getRequestDispatcher("static/employee-home.html").forward(request, response);
 		pw.write("<div style='color:red;'> Welcome!" + user.getFirstName() + user.getLastName() + " </div>");
-		request.getRequestDispatcher("static/employee-home.html").forward(request, response);	
 	}
     }else {
     	pw.write("<div style='color:red;'> You are not logged in! </div>");

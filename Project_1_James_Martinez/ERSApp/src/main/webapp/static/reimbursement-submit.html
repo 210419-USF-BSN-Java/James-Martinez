@@ -21,13 +21,10 @@
 			  <a class="nav-link" href="reimbursement-submit.html">Submit New Reimbursement Request </a>
 			</li>
 			<li class="nav-item">
-			  <a class="nav-link" href="employee-pending.html">View Pending Reimbursements</a>
+			  <a class="nav-link" href="employee-all-requests.html">View My Reimbursements Requests </a>
 			</li>
             <li class="nav-item">
-                <a class="nav-link" href="employee-resolved.html">View Resolved Reimbursements</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="user-information.html">View and Update Account Information</a>
+                <a class="nav-link" href="user-information.html">View and Update Account Information </a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="login.html">Logout</a>
@@ -39,14 +36,26 @@
 		<h1>Welcome to Submit New Reimbursement Request!</h1>
 	  </div>
 	  <div>
-		  <form method ="POST" action = "reimbursement-submit">
+		  <form method ="POST" action = "../employee-reimbursement">
 			  <br>
-			  Amount: <input type='text' name='amount'/>
+			  Amount: <br><input type='number' step='0.01' name='amount'/>
+			  <br><br>
+			  Description: <br><input type='text' name = 'description'/>
+			  <br><br>
+			  Reimbursement Type: <br>
+			  <input type='radio' id = 'lodging' name='reimbtype' value= 'lodging' />
+			  <label for= 'lodging'>Lodging</label>
 			  <br>
-			  Reimbursement Type: <input type='text' name='type'/>
+			  <input type='radio' id = 'travel' name='reimbtype' value= 'travel' />
+			  <label for= 'travel'>Travel</label>
 			  <br>
-			  Description: <input type='text' name = 'description'/>
+			  <input type='radio' id = 'food' name='reimbtype' value= 'food' />
+			  <label for= 'food'>Food</label>
 			  <br>
+			  <input type='radio' id = 'other' name='reimbtype' value= 'other' />
+			  <label for= 'other'>Other</label>
+			  <br>
+			  <br><input type='submit' value ='Submit' class = 'btn btn-success'/>
 		  </form>
 	  </div>
 	  

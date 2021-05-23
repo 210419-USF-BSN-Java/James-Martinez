@@ -1,7 +1,7 @@
 <html>
 
 <head>
-	<title>Employee Pending Requests</title>
+	<title>Manager View all Pending Requests</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -10,7 +10,7 @@
 
 <body>
 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
-		<a class="navbar-brand">Employee Menu</a>
+		<a class="navbar-brand">Manager Menu</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 		  <span class="navbar-toggler-icon"></span>
 		</button>
@@ -18,16 +18,13 @@
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 		  <ul class="navbar-nav mr-auto">
 			<li class="nav-item">
-			  <a class="nav-link" href="reimbursement-submit.html">Submit New Reimbursement Request </a>
+			  <a class="nav-link" href="reimbursement-requests.html">Resolve Reimbursement Requests</a>
 			</li>
 			<li class="nav-item">
-			  <a class="nav-link" href="employee-pending.html">View Pending Reimbursements</a>
+			  <a class="nav-link" href="all-request.html">View All Reimbursement Requests</a>
 			</li>
             <li class="nav-item">
-                <a class="nav-link" href="employee-resolved.html">View Resolved Reimbursements</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="user-information.html">View and Update Account Information</a>
+                <a class="nav-link" href="all-employees.html">View All Employees and Requests</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="login.html">Logout</a>
@@ -36,9 +33,19 @@
 		</div>
 	  </nav>
 	  <div class="container">
-		<h1>Welcome to view Employee Pending Requests!</h1>
+		<h1>Welcome to view all Pending Requests!</h1>
 	  </div>
-	  
+	  <main>
+	  <div>
+		  <button type = "button" id = "getAllRequests" class = 'btn btn-secondary'>Get All</button>
+		  <button type = "button" id = "getPendRequests" class = 'btn btn-warning'>Get Pending</button>
+		  <button type = "button" id = "getResoRequests" class = 'btn btn-success'>Get Resolved</button>
+	  </div>
+	</main>
+	<section id = "data">
+
+	</section>
+	<script src="all-requests.js"></script>
 </body>
 
 </html>

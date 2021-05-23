@@ -38,7 +38,32 @@
 	  <div class="container">
 		<h1>Welcome to Managing Reimbursement Requests!</h1>
 	  </div>
+
+	  <div>
+		  <main>
+		   <h3>Enter The Employee ID to View Reimbursement Requests</h3>
+			<input type= "number"  id = "userId">
+		    <br>
+			<button type="button" id="getReimbursements" class = "btn btn-success">Get Requests</button>
+		</main>
+		<section id = "data">
+
+		</section>
+		<script src="reimbursement-requests.js"></script>
+	</div>
+	<br>
+	<div>
+		Choose the Reimbursement ID to Resolve
+		<form method = "put" action ="../manager-reimbursement">
+			<input type= "number" name = "reimbursementId">
+			<select name = "reimbStatus">
+				<option value = "approved" selected> Approve </option>
+				<option value = "declined"> Decline </option>
+			</select>
+			<br>
+			<input type = "submit" value = "Resolve" class = "btn btn-success">
+		</form>
+	</div>
 	  
 </body>
-
 </html>
