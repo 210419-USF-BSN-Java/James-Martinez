@@ -24,7 +24,7 @@ public class LoggedInServlet extends HttpServlet{
     PrintWriter pw = response.getWriter();
     
     int id = (int) session.getAttribute("id");
-    System.out.println(id);
+    System.out.println(id + "in loggedin servlet");
     
     User user = uServ.getUserById(id); 
     

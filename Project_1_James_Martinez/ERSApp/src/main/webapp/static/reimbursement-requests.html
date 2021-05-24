@@ -20,12 +20,9 @@
 			<li class="nav-item">
 			  <a class="nav-link" href="reimbursement-requests.html">Approve/Deny Reimbursement Requests</a>
 			</li>
-			<li class="nav-item">
-			  <a class="nav-link" href="pending.html">View All Pending Requests</a>
+				<li class="nav-item">
+			  <a class="nav-link" href="all-requests.html">View All Reimbursement Requests </a>
 			</li>
-            <li class="nav-item">
-                <a class="nav-link" href="resolved.html">View All Resolved Requests</a>
-            </li>
             <li class="nav-item">
                 <a class="nav-link" href="all-employees.html">View All Employees and Requests by Employee</a>
             </li>
@@ -36,15 +33,15 @@
 		</div>
 	  </nav>
 	  <div class="container">
-		<h1>Welcome to Managing Reimbursement Requests!</h1>
+		<br><h1>Reimbursement Management</h1><br>
 	  </div>
 
 	  <div>
 		  <main>
-		   <h3>Enter The Employee ID to View Reimbursement Requests</h3>
-			<input type= "number"  id = "userId">
-		    <br>
-			<button type="button" id="getReimbursements" class = "btn btn-success">Get Requests</button>
+		   <h4>Enter The Employee ID to View Reimbursement Requests</h4>
+			<input type= "number"  id = "userId" class="form-control-lg">
+		    
+			<br><button type="button" id="getReimbursements" class = "btn btn-success text-uppercase font-weight-bold mb-2 btn-lg">Get Requests</button>
 		</main>
 		<section id = "data">
 
@@ -53,15 +50,15 @@
 	</div>
 	<br>
 	<div>
-		Choose the Reimbursement ID to Resolve
+		<h4>Choose the Reimbursement ID to Resolve</h4>
 		<form method = "put" action ="../manager-reimbursement">
-			<input type= "number" name = "reimbursementId">
-			<select name = "reimbStatus">
+			<input type= "number" name = "reimbursementId" class="form-control-lg">
+			<select name = "reimbStatus" class ="form-control-lg">
 				<option value = "approved" selected> Approve </option>
 				<option value = "declined"> Decline </option>
 			</select>
 			<br>
-			<input type = "submit" value = "Resolve" class = "btn btn-success">
+			<input type = "submit" value = "Resolve" class = "btn btn-success text-uppercase font-weight-bold mb-2 btn-lg">
 		</form>
 	</div>
 	  

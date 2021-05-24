@@ -66,12 +66,20 @@ public class TestDriver {
 		
 		reimbServ.updateReimbursementStatus(reimbId, statusId, resoId); //TESTED
 		
-		List<Reimbursement> idAndStatusList = new ArrayList<>();
-		int empId = 101;
-		String status = "approved";
+		List<Reimbursement> idAndStatusListAll = new ArrayList<>();
+		List<Reimbursement> idAndStatusListPend = new ArrayList<>();
+		List<Reimbursement> idAndStatusListReso = new ArrayList<>();
 		
-		idAndStatusList = reimbServ.listReimbByIdandStatus(empId, status); //TESTED
-		System.out.println(idAndStatusList);
+		int empId = 101;
+		
+		System.out.println("\n");
+		idAndStatusListAll = reimbServ.listReimbByIdandStatus(empId, "all"); //TESTED
+		System.out.println(idAndStatusListAll);
+		idAndStatusListPend = reimbServ.listReimbByIdandStatus(empId, "pending"); //TESTED
+		System.out.println(idAndStatusListPend);
+		idAndStatusListReso = reimbServ.listReimbByIdandStatus(empId, "resolved"); //TESTED
+		System.out.println(idAndStatusListReso);
+		System.out.println("\n");
 		
 		List<Reimbursement> pendingList = new ArrayList<>();
 		List<Reimbursement> resoList = new ArrayList<>();

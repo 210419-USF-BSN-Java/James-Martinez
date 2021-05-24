@@ -40,6 +40,10 @@
         <servlet-name>EmployeeUserServlet</servlet-name>
         <servlet-class>com.revature.servlets.EmployeeUserServlet</servlet-class>
  </servlet>
+ <servlet>
+        <servlet-name>EmployeeUpdateServlet</servlet-name>
+        <servlet-class>com.revature.servlets.EmployeeUpdateServlet</servlet-class>
+ </servlet>
  
  
  
@@ -79,6 +83,11 @@
         <servlet-name>EmployeeUserServlet</servlet-name>
         <url-pattern>/employee-user</url-pattern>
  </servlet-mapping>
+ <servlet-mapping>
+        <servlet-name>EmployeeUpdateServlet</servlet-name>
+        <url-pattern>/employee-update</url-pattern>
+ </servlet-mapping>
+    
     
     
  

@@ -33,11 +33,11 @@
 		</div>
 	</nav>
 	  <div class="container">
-		<h1>Welcome to the Employee Account Information!</h1>
+	   <br><h1>Your Account Information</h1><br>
 	  </div>
 	  <main>
 		<div>
-			<button type = "button" id = "viewAccInfo" class = 'btn btn-secondary'>View Account Information</button><br>
+			<button type = "button" id = "viewAccInfo" class = 'btn btn-secondary text-uppercase font-weight-bold mb-2 btn-lg'>View Account Information</button><br>
 		</div>
 	  </main>
 	  <section id = "data">
@@ -46,11 +46,11 @@
 	  <script src="user-information.js"></script>
 	  <br>
 	  <div>
-		  Enter the new information and <br>select what you would
-		  like to update<br>
-		  <form method = "put" action ="../manager-reimbursement">
-			  <input type= "text" name = "updateText">
-			  <select name = "updateChoice">
+		  <h5>Enter the new information and<br>select what you would
+		  like to update<br></h5>
+		  <form method = "put" action ="../employee-update">
+			  <input type= "text" name = "updateText" class="form-control-lg">
+			  <select name = "updateChoice" class="form-control-lg">
 				  <option value = "firstName" selected> First Name </option>
 				  <option value = "lastName"> Last Name </option>
 				  <option value = "username"> Username </option>
@@ -58,7 +58,7 @@
 				  <option value = "email"> Email </option>
 			  </select>
 			  <br><br>
-			  <input type = "submit" value = "Update" class = "btn btn-warning">
+			  <input type = "submit" value = "Update" class = "btn btn-warning text-uppercase font-weight-bold mb-2 btn-lg">
 		  </form>
 	  </div>
 

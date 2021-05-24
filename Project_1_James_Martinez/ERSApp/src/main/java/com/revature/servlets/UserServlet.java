@@ -29,9 +29,16 @@ public class UserServlet extends HttpServlet{
 	    
 	    if(user.getRole().equals("manager")) {
 	    	request.getRequestDispatcher("manager-user");
-	    }else {
+	    }else if(user.getRole().equals("employee")) {
 	    	request.getRequestDispatcher("employee-user");
 	    }
 	
+	}
+	
+	protected void doDelete(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		HttpSession session = request.getSession(false);
+		if(session != null) {
+		session.invalidate();
+	    }
 	}
 }

@@ -34,12 +34,11 @@ public class LoginServlet extends HttpServlet{
         PrintWriter pw = response.getWriter();
         
         int userId = uServ.userLogin(username, password);
-        System.out.println(userId);
+        System.out.println(userId + "In login servlet");
         
         if(userId == 0)
         {
-             request.getRequestDispatcher("static/login.html").include(request, response);
-             pw.write("<div style='color:red;'> Unable to login </div>");
+             request.getRequestDispatcher("static/login-wrong.html").include(request, response);
         }
         else if(userId >= 100)
         {

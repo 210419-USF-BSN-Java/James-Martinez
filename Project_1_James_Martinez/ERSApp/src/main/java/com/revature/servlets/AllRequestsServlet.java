@@ -13,6 +13,7 @@ import javax.servlet.http.HttpSession;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.revature.models.Reimbursement;
+import com.revature.models.User;
 import com.revature.services.ReimbursementService;
 import com.revature.services.UserService;
 import com.revature.services.impl.ReimbursementServiceImpl;
@@ -31,12 +32,21 @@ public class AllRequestsServlet extends HttpServlet{
 		int userId = (int)session.getAttribute("id");
 		System.out.println(userId +"inALLREQ");
 		
-		String status = request.getParameter("status");
-		//String status = "pending";
-		List<Reimbursement> reqList = new ArrayList<>();
+		User user = uServ.getUserById(userId);
 		
-		reqList = reimbServ.listAll(status);
-		pw.write(om.writeValueAsString(reqList));
+		String status = request.getParameter("status");
+		if (user.getRole().equals("manager")) {
+
+			List<Reimbursement> reqList = new ArrayList<>();
+			reqList = reimbServ.listAll(status);
+			pw.write(om.writeValueAsString(reqList));
+
+		} else {
+
+			List<Reimbursement> reqList = new ArrayList<>();
+			reqList = reimbServ.listReimbByIdandStatus(userId, status);
+			pw.write(om.writeValueAsString(reqList));
+		}
 	}
 
 }

@@ -67,6 +67,7 @@ public class UserDAOImpl implements UserDAO{
 	
 		} catch (ClassNotFoundException | SQLException e) {
 			log.debug(e);	
+			c = 1;
 		}
 		return c;
 	}

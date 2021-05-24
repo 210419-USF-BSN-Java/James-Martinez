@@ -28,7 +28,7 @@ function populateData(response){
    for(var i = 0; i < response.length; i++){
        dataSection.innerHTML += `
        <br>
-       <h6>Reimbursement ID: ${response[i].reimbursementId} Author ID: ${response[i].authorId} Amount: $${response[i].amount} Time Submitted: ${response[i].timeSubmitted} Reimbursement Type: ${response[i].reimbType}<h6>
+       <h6>Reimbursement ID: ${response[i].reimbursementId} \u00A0\u00A0\u00A0Author ID: ${response[i].authorId} \u00A0\u00A0\u00A0Amount: $${response[i].amount} \u00A0\u00A0\u00A0Time Submitted: ${response[i].timeSubmitted} \u00A0\u00A0\u00A0Reimbursement Type: ${response[i].reimbType}<h6>
        <h6>Description: ${response[i].description}<h6><br>
       `
 
